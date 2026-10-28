@@ -1,0 +1,36 @@
+{
+  "list": "epls-r-users",
+  "description": "",
+  "month": "2020-06",
+  "messages": [
+    {
+      "id": "msg-6554af7e7b96",
+      "message_id": "<DM6PR02MB7068EDE474F2180B1859E042F6950@DM6PR02MB7068.namprd02.prod.outlook.com>",
+      "from_name": "Russell Almond",
+      "from_email_hash": "163c7891dcfc07c029df85ce46e68258336f96a47c4fb8152878c9c1fd1e668f",
+      "date": "2020-06-24T17:00:11Z",
+      "subject": "[Epls-r-users] Today R group Session:  Smoothers",
+      "subject_clean": "[Epls-r-users] Today R group Session:  Smoothers",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "I'm going to go back to something a little bit simpler today and work with smoothers.  We will use the Covid-19 data as an example, but I'm going to hit on the visualization side and not the data wrangling side.\n\nBTW, I'd like to get out of being the one to present each week.  So if any of you have ideas you would like to present, let me know.\n\n    --Russell\n-------------- next part --------------\nAn HTML attachment was scrubbed...\nURL: <http://lists.fsu.edu/pipermail/epls-r-users/attachments/20200624/7e571547/attachment.html>",
+      "body_snippet": "I'm going to go back to something a little bit simpler today and work with smoothers.  We will use the Covid-19 data as an example, but I'm going to hit on the visualization side and not the data wran",
+      "thread_id": "thread-6554af7e7b96",
+      "thread_depth": 0,
+      "month": "2020-06"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-6554af7e7b96",
+      "subject": "[Epls-r-users] Today R group Session:  Smoothers",
+      "message_count": 1,
+      "participants": [
+        "Russell Almond"
+      ],
+      "started": "2020-06-24T17:00:11Z",
+      "last_reply": "2020-06-24T17:00:11Z",
+      "root_message_id": "msg-6554af7e7b96"
+    }
+  ]
+}

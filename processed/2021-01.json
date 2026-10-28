@@ -1,0 +1,65 @@
+{
+  "list": "epls-r-users",
+  "description": "",
+  "month": "2021-01",
+  "messages": [
+    {
+      "id": "msg-8f693e1ebea6",
+      "message_id": "<DM6PR02MB706863DAC47A6822861DA09AF6D00@DM6PR02MB7068.namprd02.prod.outlook.com>",
+      "from_name": "Russell Almond",
+      "from_email_hash": "163c7891dcfc07c029df85ce46e68258336f96a47c4fb8152878c9c1fd1e668f",
+      "date": "2021-01-06T18:02:11Z",
+      "subject": "[Epls-r-users] Getting the R group together for the Spring",
+      "subject_clean": "[Epls-r-users] Getting the R group together for the Spring",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Technically, I'm on sabbatical this spring.  In practice, I'm not going anyplace farther than downstairs to my office until the vaccine gets around to me.\n\nI want to take a break from running the R group for this semester, but I'm willing to continue participating if somebody else takes over the scheduling &c.\n\nAny volunteers?\n\n    --Russell\n\n-------------- next part --------------\nAn HTML attachment was scrubbed...\nURL: <http://lists.fsu.edu/pipermail/epls-r-users/attachments/20210106/73e95d49/attachment.html>",
+      "body_snippet": "Technically, I'm on sabbatical this spring.  In practice, I'm not going anyplace farther than downstairs to my office until the vaccine gets around to me.\n\nI want to take a break from running the R gr",
+      "thread_id": "thread-8f693e1ebea6",
+      "thread_depth": 0,
+      "month": "2021-01"
+    },
+    {
+      "id": "msg-f2bea3ae8474",
+      "message_id": "<DM6PR02MB7068F2435A25EB4ED0F82528F6BC9@DM6PR02MB7068.namprd02.prod.outlook.com>",
+      "from_name": "Russell Almond",
+      "from_email_hash": "163c7891dcfc07c029df85ce46e68258336f96a47c4fb8152878c9c1fd1e668f",
+      "date": "2021-01-26T19:30:32Z",
+      "subject": "[Epls-r-users] Fwd: Division D Weekly Announcements",
+      "subject_clean": "[Epls-r-users] Fwd: Division D Weekly Announcements",
+      "in_reply_to": null,
+      "references": [
+        "<BY5PR15MB3523E76CDEF11EB49EC3065ECDBC9@BY5PR15MB3523.namprd15.prod.outlook.com>"
+      ],
+      "body_plain": "Announcement:\nMariola Moeyaert, Ph.D (Associate professor of Statistics, University at Albany) designed a sequence of four hands-on R Studio workshops for those who are looking to use R for applied statistical tasks. Topics include ?Data Visualizations using ggplot2?, ?basic/intermediate statistical inferential tests? (t-tests, correlation, simple and multiple regression, ANOVA), and ?advanced statistical inferential tests? (ANCOVA, MANCOVA, logistic regression, HLM, meta-analysis, SEM, propensity score analysis, social network analysis). All four workshops will be organized on Fridays in February and the first week of March (11AM-3PM, EST). More details (full description of the four workshops) and registration can be found here: https://www.statisticalsolutionsinc.com/post/new-sequence-of-four-r-workshops<https://urldefense.com/v3/__https:/www.statisticalsolutionsinc.com/post/new-sequence-of-four-r-workshops__;!!BCR0FSePrR4x!XdwYNETiGrc3u8UIhfflfGOYEoEhdKSvO6cD5Flxod1ordurouJeROOzYjyBtpVV$>\n\n\n\n\nRen?e E. Lastrapes, Ph.D.\nAssociate Professor\nEducational Research & Assessment\n\nUniversity of Houston-Clear Lake\n2700 Bay Area Blvd., Box 55 | Houston, TX  77058\n281-283-3566 | lastrapes at uhcl.edu<mailto:lastrapes at uhcl.edu>\n\n[cid:image001.png at 01D3A1D3.7CFDB710]\n\nAn American Educational Research Association List If you need assistance with this list, please send an email to listadmin at aera.net<mailto:listadmin at aera.net>.\n-------------- next part --------------\nAn HTML attachment was scrubbed...\nURL: <http://lists.fsu.edu/pipermail/epls-r-users/attachments/20210126/6227bc22/attachment.html>",
+      "body_snippet": "Announcement:\nMariola Moeyaert, Ph.D (Associate professor of Statistics, University at Albany) designed a sequence of four hands-on R Studio workshops for those who are looking to use R for applied st",
+      "thread_id": "thread-f2bea3ae8474",
+      "thread_depth": 0,
+      "month": "2021-01"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-8f693e1ebea6",
+      "subject": "[Epls-r-users] Getting the R group together for the Spring",
+      "message_count": 1,
+      "participants": [
+        "Russell Almond"
+      ],
+      "started": "2021-01-06T18:02:11Z",
+      "last_reply": "2021-01-06T18:02:11Z",
+      "root_message_id": "msg-8f693e1ebea6"
+    },
+    {
+      "id": "thread-f2bea3ae8474",
+      "subject": "[Epls-r-users] Fwd: Division D Weekly Announcements",
+      "message_count": 1,
+      "participants": [
+        "Russell Almond"
+      ],
+      "started": "2021-01-26T19:30:32Z",
+      "last_reply": "2021-01-26T19:30:32Z",
+      "root_message_id": "msg-f2bea3ae8474"
+    }
+  ]
+}

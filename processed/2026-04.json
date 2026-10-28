@@ -1,0 +1,63 @@
+{
+  "list": "epls-r-users",
+  "description": "",
+  "month": "2026-04",
+  "messages": [
+    {
+      "id": "msg-4212e5446b11",
+      "message_id": "<PH0P220MB0717837BBB931DA260156204A15DA@PH0P220MB0717.NAMP220.PROD.OUTLOOK.COM>",
+      "from_name": "Hyun Jeong Oh",
+      "from_email_hash": "947ae72b886eac947c3c9ea76538f34e9961626d2143fb259738baa5916c044a",
+      "date": "2026-04-06T13:22:13Z",
+      "subject": "[Epls-r-users] No R group meeting on April 10",
+      "subject_clean": "[Epls-r-users] No R group meeting on April 10",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\n\nThe R group meeting scheduled for this Friday, April 10, has been canceled due to the AERA & NCME 2026\n\nPlease be advised that there will be no meeting this week, either in person at STB 3209 or via Zoom.\n\nI appreciate your understanding.\n\n-------------- next part --------------\nAn HTML attachment was scrubbed...\nURL: <http://lists.fsu.edu/pipermail/epls-r-users/attachments/20260406/eb1f8acf/attachment.html>",
+      "body_snippet": "Dear all,\n\nThe R group meeting scheduled for this Friday, April 10, has been canceled due to the AERA & NCME 2026\n\nPlease be advised that there will be no meeting this week, either in person at STB 32",
+      "thread_id": "thread-4212e5446b11",
+      "thread_depth": 0,
+      "month": "2026-04"
+    },
+    {
+      "id": "msg-4ffe39541c9a",
+      "message_id": "<PH0P220MB0717B01D7D7703F942C0E2B1A12C2@PH0P220MB0717.NAMP220.PROD.OUTLOOK.COM>",
+      "from_name": "Hyun Jeong Oh",
+      "from_email_hash": "947ae72b886eac947c3c9ea76538f34e9961626d2143fb259738baa5916c044a",
+      "date": "2026-04-21T18:40:05Z",
+      "subject": "[Epls-r-users] No R group meeting on April 24",
+      "subject_clean": "[Epls-r-users] No R group meeting on April 24",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\n\nThe R group meeting scheduled for this Friday, April 24, has been canceled.\n\nPlease be advised that there will be no meeting this week, either in person at STB 3209 or via Zoom.\n\nI appreciate your understanding.\n-------------- next part --------------\nAn HTML attachment was scrubbed...\nURL: <http://lists.fsu.edu/pipermail/epls-r-users/attachments/20260421/a569143f/attachment.html>",
+      "body_snippet": "Dear all,\n\nThe R group meeting scheduled for this Friday, April 24, has been canceled.\n\nPlease be advised that there will be no meeting this week, either in person at STB 3209 or via Zoom.\n\nI apprecia",
+      "thread_id": "thread-4ffe39541c9a",
+      "thread_depth": 0,
+      "month": "2026-04"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-4212e5446b11",
+      "subject": "[Epls-r-users] No R group meeting on April 10",
+      "message_count": 1,
+      "participants": [
+        "Hyun Jeong Oh"
+      ],
+      "started": "2026-04-06T13:22:13Z",
+      "last_reply": "2026-04-06T13:22:13Z",
+      "root_message_id": "msg-4212e5446b11"
+    },
+    {
+      "id": "thread-4ffe39541c9a",
+      "subject": "[Epls-r-users] No R group meeting on April 24",
+      "message_count": 1,
+      "participants": [
+        "Hyun Jeong Oh"
+      ],
+      "started": "2026-04-21T18:40:05Z",
+      "last_reply": "2026-04-21T18:40:05Z",
+      "root_message_id": "msg-4ffe39541c9a"
+    }
+  ]
+}

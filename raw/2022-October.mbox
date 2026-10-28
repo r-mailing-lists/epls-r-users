@@ -1,0 +1,229 @@
+From ralmond at admin.fsu.edu  Fri Oct 28 10:35:58 2022
+From: ralmond at admin.fsu.edu (Russell Almond)
+Date: Fri, 28 Oct 2022 14:35:58 +0000
+Subject: [Epls-r-users] Virtual Meeting Today
+Message-ID: <c0d6d5a4-978b-feaf-3e1c-a8e184dc0d53@fsu.edu>
+
+I've been dodging a low level cold all week, so I'm not planning on coming in.  We will still meed virtually, though at 12:00
+
+https://fsu.zoom.us/my/ralmond
+
+We are meeting jointly with SynRG to look at Saeyan's clustering algorithm and displays.
+
+    --Russell
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.fsu.edu/pipermail/epls-r-users/attachments/20221028/6082efce/attachment.html>
+
+From russell at ralmond.net  Fri Oct 28 11:00:55 2022
+From: russell at ralmond.net (Russell Almond)
+Date: Fri, 28 Oct 2022 11:00:55 -0400
+Subject: [Epls-r-users] Fwd: Treat yourself to 31% off eVeRyThiNg...
+In-Reply-To: <7f22e9d06dac9fadee60e1e45.db1722c9b2.20221027180000.80bd482bc8.0128ed75@mail244.suw14.mcdlv.net>
+References: <7f22e9d06dac9fadee60e1e45.db1722c9b2.20221027180000.80bd482bc8.0128ed75@mail244.suw14.mcdlv.net>
+Message-ID: <4263f5bb-814f-1351-0d3c-6dfcd53ac4d7@ralmond.net>
+
+
+Lots of good coding books, realatively inexepensive.
+ ??? --Russell
+
+
+-------- Forwarded Message --------
+Return-Path: 
+<SRS0=KPPk=24=mail244.suw14.mcdlv.net=bounce-mc.us4_8849809.305987-db1722c9b2 at srs.mailroute.net> 
+
+Delivered-To: 	russell at ralmond.net
+Received: 	from fiji.serverchamber.com by fiji.serverchamber.com with 
+LMTP id kOSMNZfIWmNRbAAAf+zL7A (envelope-from 
+<SRS0=KPPk=24=mail244.suw14.mcdlv.net=bounce-mc.us4_8849809.305987-db1722c9b2 at srs.mailroute.net>) 
+for <russell at ralmond.net>; Thu, 27 Oct 2022 18:06:15 +0000
+Return-path: 
+<SRS0=KPPk=24=mail244.suw14.mcdlv.net=bounce-mc.us4_8849809.305987-db1722c9b2 at srs.mailroute.net> 
+
+Envelope-to: 	russell at ralmond.net
+Delivery-date: 	Thu, 27 Oct 2022 14:06:15 -0400
+Received: 	from 001.lax.mailroute.net ([199.89.1.4]:12451) by 
+fiji.serverchamber.com with esmtps (TLS1.2) tls 
+TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384 (Exim 4.93) (envelope-from 
+<SRS0=KPPk=24=mail244.suw14.mcdlv.net=bounce-mc.us4_8849809.305987-db1722c9b2 at srs.mailroute.net>) 
+id 1oo7Gh-0007Co-J6 for russell at ralmond.net; Thu, 27 Oct 2022 14:06:15 
+-0400
+Received: 	from in-012.lax.mailroute.net (012.lax.mailroute.net 
+[199.89.1.15]) (using TLSv1.2 with cipher AECDH-AES256-SHA (256/256 
+bits)) (No client certificate requested) by 001.lax.mailroute.net 
+(Postfix) with ESMTPS id 4MytrZ0kv6zlVxx for <russell at ralmond.net>; Thu, 
+27 Oct 2022 18:05:34 +0000 (UTC)
+Received: 	from localhost (012.lax.mailroute.net [127.0.0.1]) by 
+in-012.lax.mailroute.net (Postfix) with ESMTP id 4MytrX5XZhz2Dd12 for 
+<almond at acm.org>; Thu, 27 Oct 2022 18:05:32 +0000 (UTC)
+X-Virus-Scanned: 	by MailRoute
+X-Spam-Level: 	*
+X-Spam-Language: 	en
+X-Spam-Relay-Countries: 	US **
+Authentication-Results: 	012.lax (mroute_mailscanner); dkim=pass 
+(2048-bit key) header.d=nostarch.com
+Received: 	from in-012.lax.mailroute.net ([199.89.1.15]) by localhost 
+(012.lax [127.0.0.1]) (mroute_mailscanner, port 10024) with LMTP id 
+QEl2WTG73JhM for <almond at acm.org>; Thu, 27 Oct 2022 18:05:30 +0000 (UTC)
+Received: 	from mail244.suw14.mcdlv.net (mail244.suw14.mcdlv.net 
+[198.2.183.244]) (using TLSv1.2 with cipher AECDH-AES256-SHA (256/256 
+bits)) (No client certificate requested) by in-012.lax.mailroute.net 
+(Postfix) with ESMTPS id 4MytrV3pchz2Dcyf for <almond at acm.org>; Thu, 27 
+Oct 2022 18:05:30 +0000 (UTC)
+Authentication-Results: 	mail.mailroute.net; dmarc=pass (p=quarantine 
+dis=none) header.from=nostarch.com
+Authentication-Results: 	mail.mailroute.net; spf=pass 
+smtp.mailfrom=bounce-mc.us4_8849809.305987-db1722c9b2 at mail244.suw14.mcdlv.net 
+
+Authentication-Results: 	mail.mailroute.net; dkim=pass (2048-bit key) 
+header.d=nostarch.com header.i=info at nostarch.com header.b="YaibszX7"
+DKIM-Signature: 	v=1; a=rsa-sha256; c=relaxed/relaxed; d=nostarch.com; 
+s=k3; t=1666893765; x=1667196165; i=info at nostarch.com; 
+bh=5to0FdmmVh5FlPsJzFo3nuKCPb6BDaUYWL9Siq+OOWQ=; 
+h=Subject:From:Reply-To:To:Date:Message-ID:X-MC-User:Feedback-ID: 
+List-ID:List-Unsubscribe:List-Unsubscribe-Post:Content-Type: 
+MIME-Version:CC:Date:Subject:From; 
+b=YaibszX7QFkwa2Yl6xiLa9ftDrGypdsWqsw60FAplmxSs35WxTwT6GAFYBV/biC90 
+3b2UFoTRxhaHkqyMLu99M9EmWNxGPkiPMZc7tttiZsevAS13Ch980S6dVPmgntFKsz 
+DuOfy2YPRGgjpf2wH+qCjIU7sJiT7To/tXZKu9jFKT66U0bvXyk1B5Iqy3K/O5D1AO 
+kNSuamtmrVRf5dOJa3F2ztEy/ozrqgt36gCuikkeE/PwfNUdLMh8NoNsNp523ekOn4 
+tIz7vf4zna1DhOg4YAHcI5h/Wx5g+GPncx9Fnb75AASZ7PJ8gV/ly5WgTfln97GJLr 
+eItRdIJ4HHYQg==
+Received: 	from localhost (localhost [127.0.0.1]) by 
+mail244.suw14.mcdlv.net (Mailchimp) with ESMTP id 4MytnK2b3hz6DZgcN for 
+<almond at acm.org>; Thu, 27 Oct 2022 18:02:45 +0000 (GMT)
+Subject: 	Treat yourself to 31% off eVeRyThiNg...
+From: 	No Starch Press <info at nostarch.com>
+Reply-To: 	No Starch Press <info at nostarch.com>
+To: 	almond at acm.org
+Date: 	Thu, 27 Oct 2022 18:00:14 +0000
+Message-ID: 
+<7f22e9d06dac9fadee60e1e45.db1722c9b2.20221027180000.80bd482bc8.0128ed75 at mail244.suw14.mcdlv.net> 
+
+X-Mailer: 	Mailchimp Mailer - **CID80bd482bc8db1722c9b2**
+X-Campaign: 	mailchimp7f22e9d06dac9fadee60e1e45.80bd482bc8
+X-campaignid: 	mailchimp7f22e9d06dac9fadee60e1e45.80bd482bc8
+X-Report-Abuse: 	Please report abuse for this campaign here: 
+https://urldefense.com/v3/__https://mailchimp.com/contact/abuse/?u=7f22e9d06dac9fadee60e1e45&id=80bd482bc8&e=db1722c9b2__;!!PhOWcWs!1KKhrF9It9abXbp2IWtMmqdac1Tvnf_e1ZLn7sNiz_19kOFGJI1XaiLyubJWhCiIHkrbreLz85XQiDB-L9Khx7s2Mg$   
+
+X-MC-User: 	7f22e9d06dac9fadee60e1e45
+Feedback-ID: 	8849809:8849809.305987:us4:mc
+List-ID: 	7f22e9d06dac9fadee60e1e45mc list 
+<7f22e9d06dac9fadee60e1e45.58469.list-id.mcsv.net>
+X-Accounttype: 	pd
+List-Unsubscribe: 
+<https://urldefense.com/v3/__https://nostarch.us4.list-manage.com/unsubscribe?u=7f22e9d06dac9fadee60e1e45&id=158a5b7b06&e=db1722c9b2&c=80bd482bc8__;!!PhOWcWs!1KKhrF9It9abXbp2IWtMmqdac1Tvnf_e1ZLn7sNiz_19kOFGJI1XaiLyubJWhCiIHkrbreLz85XQiDB-L9JANAgPuQ$  >, 
+<mailto:unsubscribe-mc.us4_7f22e9d06dac9fadee60e1e45.80bd482bc8-db1722c9b2 at unsubscribe.mailchimpapp.net?subject=unsubscribe> 
+
+List-Unsubscribe-Post: 	List-Unsubscribe=One-Click
+Content-Type: 	multipart/alternative; 
+boundary="_----------=_MCPart_1164315520"
+MIME-Version: 	1.0
+
+
+
+Treat yourself to 31% off eVeRyThiNg... Our Halloween Sale lasts through 
+Monday, Oct. 31st
+View this email in your browser 
+<https://urldefense.com/v3/__https://mailchi.mp/nostarch/halloween-sale?e=db1722c9b2__;!!PhOWcWs!1KKhrF9It9abXbp2IWtMmqdac1Tvnf_e1ZLn7sNiz_19kOFGJI1XaiLyubJWhCiIHkrbreLz85XQiDB-L9J0OIH5cw$  >
+
+<https://urldefense.com/v3/__https://nostarch.us4.list-manage.com/track/click?u=7f22e9d06dac9fadee60e1e45&id=925994f631&e=db1722c9b2__;!!PhOWcWs!1KKhrF9It9abXbp2IWtMmqdac1Tvnf_e1ZLn7sNiz_19kOFGJI1XaiLyubJWhCiIHkrbreLz85XQiDB-L9IK_q15kQ$  > 
+
+
+*Halloween weekend is nigh...*
+
+After you scare up some spooky decorations?and stock up on a terrifying 
+amount of snack-size candy, treat yourself to our trick-free Halloween Sale!
+
+Now through midnight on Monday, Oct. 31st, save 31% on all titles 
+<https://urldefense.com/v3/__https://nostarch.us4.list-manage.com/track/click?u=7f22e9d06dac9fadee60e1e45&id=ecd7c8238d&e=db1722c9b2__;!!PhOWcWs!1KKhrF9It9abXbp2IWtMmqdac1Tvnf_e1ZLn7sNiz_19kOFGJI1XaiLyubJWhCiIHkrbreLz85XQiDB-L9J68NGmOQ$  >and 
+merch 
+<https://urldefense.com/v3/__https://nostarch.us4.list-manage.com/track/click?u=7f22e9d06dac9fadee60e1e45&id=fc5bebfa22&e=db1722c9b2__;!!PhOWcWs!1KKhrF9It9abXbp2IWtMmqdac1Tvnf_e1ZLn7sNiz_19kOFGJI1XaiLyubJWhCiIHkrbreLz85XQiDB-L9LIxOge_A$  >SITE-WIDE 
+when you use?coupon code?SCREAM31?at checkout.
+
+START SHOPPING (IF YOU DARE) 
+<https://urldefense.com/v3/__https://nostarch.us4.list-manage.com/track/click?u=7f22e9d06dac9fadee60e1e45&id=4a787b465e&e=db1722c9b2__;!!PhOWcWs!1KKhrF9It9abXbp2IWtMmqdac1Tvnf_e1ZLn7sNiz_19kOFGJI1XaiLyubJWhCiIHkrbreLz85XQiDB-L9IFqqA7cQ$  > 
+
+
+<https://urldefense.com/v3/__https://nostarch.us4.list-manage.com/track/click?u=7f22e9d06dac9fadee60e1e45&id=29013aaa3d&e=db1722c9b2__;!!PhOWcWs!1KKhrF9It9abXbp2IWtMmqdac1Tvnf_e1ZLn7sNiz_19kOFGJI1XaiLyubJWhCiIHkrbreLz85XQiDB-L9L5q1nZ_g$  > 
+
+
+<https://urldefense.com/v3/__https://nostarch.us4.list-manage.com/track/click?u=7f22e9d06dac9fadee60e1e45&id=4a02b57943&e=db1722c9b2__;!!PhOWcWs!1KKhrF9It9abXbp2IWtMmqdac1Tvnf_e1ZLn7sNiz_19kOFGJI1XaiLyubJWhCiIHkrbreLz85XQiDB-L9KxAgenXg$  > 
+
+
+<https://urldefense.com/v3/__https://nostarch.us4.list-manage.com/track/click?u=7f22e9d06dac9fadee60e1e45&id=e62bb9a504&e=db1722c9b2__;!!PhOWcWs!1KKhrF9It9abXbp2IWtMmqdac1Tvnf_e1ZLn7sNiz_19kOFGJI1XaiLyubJWhCiIHkrbreLz85XQiDB-L9JsOVXC7w$  > 
+
+
+<https://urldefense.com/v3/__https://nostarch.us4.list-manage.com/track/click?u=7f22e9d06dac9fadee60e1e45&id=bae5c29890&e=db1722c9b2__;!!PhOWcWs!1KKhrF9It9abXbp2IWtMmqdac1Tvnf_e1ZLn7sNiz_19kOFGJI1XaiLyubJWhCiIHkrbreLz85XQiDB-L9JuNmuvdA$  > 
+
+
+<https://urldefense.com/v3/__https://nostarch.us4.list-manage.com/track/click?u=7f22e9d06dac9fadee60e1e45&id=dc83fa23a4&e=db1722c9b2__;!!PhOWcWs!1KKhrF9It9abXbp2IWtMmqdac1Tvnf_e1ZLn7sNiz_19kOFGJI1XaiLyubJWhCiIHkrbreLz85XQiDB-L9KPjI5VVA$  > 
+
+
+<https://urldefense.com/v3/__https://nostarch.us4.list-manage.com/track/click?u=7f22e9d06dac9fadee60e1e45&id=d91409de19&e=db1722c9b2__;!!PhOWcWs!1KKhrF9It9abXbp2IWtMmqdac1Tvnf_e1ZLn7sNiz_19kOFGJI1XaiLyubJWhCiIHkrbreLz85XQiDB-L9Jf_O_5Og$  > 
+
+
+<https://urldefense.com/v3/__https://nostarch.us4.list-manage.com/track/click?u=7f22e9d06dac9fadee60e1e45&id=c91ddac9cb&e=db1722c9b2__;!!PhOWcWs!1KKhrF9It9abXbp2IWtMmqdac1Tvnf_e1ZLn7sNiz_19kOFGJI1XaiLyubJWhCiIHkrbreLz85XQiDB-L9IOWxE_OQ$  > 
+
+
+<https://urldefense.com/v3/__https://nostarch.us4.list-manage.com/track/click?u=7f22e9d06dac9fadee60e1e45&id=a4d55aab1c&e=db1722c9b2__;!!PhOWcWs!1KKhrF9It9abXbp2IWtMmqdac1Tvnf_e1ZLn7sNiz_19kOFGJI1XaiLyubJWhCiIHkrbreLz85XQiDB-L9K1rKFpww$  > 
+
+
+<https://urldefense.com/v3/__https://nostarch.us4.list-manage.com/track/click?u=7f22e9d06dac9fadee60e1e45&id=6dc3cd5608&e=db1722c9b2__;!!PhOWcWs!1KKhrF9It9abXbp2IWtMmqdac1Tvnf_e1ZLn7sNiz_19kOFGJI1XaiLyubJWhCiIHkrbreLz85XQiDB-L9L7PN3S0w$  > 
+
+
+Twitter 
+<https://urldefense.com/v3/__https://nostarch.us4.list-manage.com/track/click?u=7f22e9d06dac9fadee60e1e45&id=86d49cca15&e=db1722c9b2__;!!PhOWcWs!1KKhrF9It9abXbp2IWtMmqdac1Tvnf_e1ZLn7sNiz_19kOFGJI1XaiLyubJWhCiIHkrbreLz85XQiDB-L9I0QEpa7g$  > 
+
+
+Facebook 
+<https://urldefense.com/v3/__https://nostarch.us4.list-manage.com/track/click?u=7f22e9d06dac9fadee60e1e45&id=908b29cc3d&e=db1722c9b2__;!!PhOWcWs!1KKhrF9It9abXbp2IWtMmqdac1Tvnf_e1ZLn7sNiz_19kOFGJI1XaiLyubJWhCiIHkrbreLz85XQiDB-L9LftshmKQ$  > 
+
+
+Website <https://urldefense.com/v3/__http://www.nostarch.com__;!!PhOWcWs!1KKhrF9It9abXbp2IWtMmqdac1Tvnf_e1ZLn7sNiz_19kOFGJI1XaiLyubJWhCiIHkrbreLz85XQiDB-L9LCuZsZtQ$  >
+
+Email <mailto:info at nostarch.com>
+
+Instagram 
+<https://urldefense.com/v3/__https://nostarch.us4.list-manage.com/track/click?u=7f22e9d06dac9fadee60e1e45&id=68f8dfcef3&e=db1722c9b2__;!!PhOWcWs!1KKhrF9It9abXbp2IWtMmqdac1Tvnf_e1ZLn7sNiz_19kOFGJI1XaiLyubJWhCiIHkrbreLz85XQiDB-L9J3FqscTw$  > 
+
+
+LinkedIn 
+<https://urldefense.com/v3/__https://nostarch.us4.list-manage.com/track/click?u=7f22e9d06dac9fadee60e1e45&id=c7e952799a&e=db1722c9b2__;!!PhOWcWs!1KKhrF9It9abXbp2IWtMmqdac1Tvnf_e1ZLn7sNiz_19kOFGJI1XaiLyubJWhCiIHkrbreLz85XQiDB-L9Idp1O-QA$  > 
+
+
+Reddit 
+<https://urldefense.com/v3/__https://nostarch.us4.list-manage.com/track/click?u=7f22e9d06dac9fadee60e1e45&id=bc70e2f302&e=db1722c9b2__;!!PhOWcWs!1KKhrF9It9abXbp2IWtMmqdac1Tvnf_e1ZLn7sNiz_19kOFGJI1XaiLyubJWhCiIHkrbreLz85XQiDB-L9LQrkoVeA$  > 
+
+
+
+All print books purchased at nostarch.com 
+<https://urldefense.com/v3/__https://nostarch.us4.list-manage.com/track/click?u=7f22e9d06dac9fadee60e1e45&id=9fbc5a0c65&e=db1722c9b2__;!!PhOWcWs!1KKhrF9It9abXbp2IWtMmqdac1Tvnf_e1ZLn7sNiz_19kOFGJI1XaiLyubJWhCiIHkrbreLz85XQiDB-L9LfzxQ-NA$  >?include 
+DRM-free ebooks (ePub, Mobi, and PDF). Orders placed during sales may 
+take up to 3 weeks to arrive. Please email info at nostarch.com?with any 
+questions about your order.
+
+Promotion ends?October 31, 2022?at 11:59 pm PT.
+
+
+<https://urldefense.com/v3/__https://nostarch.us4.list-manage.com/track/click?u=7f22e9d06dac9fadee60e1e45&id=95f4ba63c0&e=db1722c9b2__;!!PhOWcWs!1KKhrF9It9abXbp2IWtMmqdac1Tvnf_e1ZLn7sNiz_19kOFGJI1XaiLyubJWhCiIHkrbreLz85XQiDB-L9I7UlMhsQ$  > 
+
+
+245 8th Street
+San Francisco, CA 94103 USA
+
+*?*2022?No Starch Press, Inc.
+
+_Unsubscribe from this Lis 
+<https://urldefense.com/v3/__https://nostarch.us4.list-manage.com/unsubscribe?u=7f22e9d06dac9fadee60e1e45&id=158a5b7b06&e=db1722c9b2&c=80bd482bc8__;!!PhOWcWs!1KKhrF9It9abXbp2IWtMmqdac1Tvnf_e1ZLn7sNiz_19kOFGJI1XaiLyubJWhCiIHkrbreLz85XQiDB-L9JANAgPuQ$  >t_ 
+ ? | _Update Subscription Preferences_ 
+<https://urldefense.com/v3/__https://nostarch.us4.list-manage.com/profile?u=7f22e9d06dac9fadee60e1e45&id=158a5b7b06&e=db1722c9b2&c=80bd482bc8__;!!PhOWcWs!1KKhrF9It9abXbp2IWtMmqdac1Tvnf_e1ZLn7sNiz_19kOFGJI1XaiLyubJWhCiIHkrbreLz85XQiDB-L9KNWjp6tg$  >
+
+-- 
+Russell G. Almond
+https://urldefense.com/v3/__https://ralmond.net__;!!PhOWcWs!1KKhrF9It9abXbp2IWtMmqdac1Tvnf_e1ZLn7sNiz_19kOFGJI1XaiLyubJWhCiIHkrbreLz85XQiDB-L9LNtzzVwQ$  
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.fsu.edu/pipermail/epls-r-users/attachments/20221028/6869e567/attachment.html>
+

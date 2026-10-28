@@ -1,0 +1,124 @@
+From ralmond at admin.fsu.edu  Thu Oct 29 17:39:00 2020
+From: ralmond at admin.fsu.edu (Russell Almond)
+Date: Thu, 29 Oct 2020 21:39:00 +0000
+Subject: [Epls-r-users] Fwd: FL ASA Chapter Traveling Course: Shiny
+ Essentials (Deadline Approaching: October 31, 2020)
+References: <BL0PR05MB534542A56027AAFD042A674DA6140@BL0PR05MB5345.namprd05.prod.outlook.com>
+Message-ID: <DM6PR02MB706869F66AEB597AC1EADC38F6140@DM6PR02MB7068.namprd02.prod.outlook.com>
+
+
+This is a paid event, but might be of some interest.
+
+-------- Forwarded Message --------
+Delivered-To:   russell.g.almond at gmail.com<mailto:russell.g.almond at gmail.com>
+Received:       by 2002:a4f:2412:0:0:0:0:0 with SMTP id k18csp675082ivk; Thu, 29 Oct 2020 10:29:32 -0700 (PDT)
+X-Google-Smtp-Source:   ABdhPJxp2OF/xI6ZWDavxJa2lLU/NtKwx6Yzxi+6jA3EEwYDL6eFfcX8vM8+aBpO1zVEfsIHcO8Q
+X-Received:     by 2002:a17:90a:7d06:: with SMTP id g6mr167105pjl.113.1603992572094; Thu, 29 Oct 2020 10:29:32 -0700 (PDT)
+ARC-Seal:       i=2; a=rsa-sha256; t=1603992572; cv=pass; d=google.com; s=arc-20160816; b=HCVk4YMFpDwIAMyGsO436HPOc8JP4cp+A7uZX252cPoWogcxoFUnPpNZLl6IgxOMS4 9yFQiPrhlsKuVbNxgBO7aRZVaqBQVISL2lqVYU9G4dWWaY3gVM43v29ahsIyhGXr739n 4Egl09BSpu9jv6vrigg1sc2IJyigNn1736DnLqpgLSXQXewfbd+AKrteKeKTxn+lY+a5 QIvHAnBif+S56/lRTG4pD6M4+CMXo3RynVzASrb1L6yl5/lAxN8kZ8k6SrmkK4daFk/3 wxvejI5QSkR+iBad1Ymwfkc3cyaIce3DBdXyURhPG60P2pVFPZkEEsPDyF1A6PxR572k f/gg==
+ARC-Message-Signature:  i=2; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816; h=mime-version:content-language:accept-language:message-id:date :importance:thread-index:thread-topic:subject:cc:to:from :dkim-signature:dkim-signature; bh=D/47/STLNWSh+Mh9LCTCCQCa/APYPXnJ85k5PnVFdic=; b=rcVNsw0aKioriOPeATk/NxCUzKvdPULav5NLtafpm1w+qcG3kwduh6LB7WVuoUhg+e W/3sVIR5oMkeu0reT8iNc5QcYBUuL4u9zbM8OgSu4MD5qnTrvVpFgl29NERSAbzosEax tXzN4zjsiG82y6a3UPaQn9qCdbywQr6lhFsk4zAIitVmUz8RguVQvQASVFYEvuD1WXbr Oyb0SUQ0ZTR+szYcL9GQeeDUba5BfKbxIV/CTUUPx4lYFZ2Wlt/Yjp4FiwZia+6JwEqs n8pebsUIcg41LY6CIBHobXMkOpU8icrA5OLNSVuFrRJmuYR4uq/puVCZmxHI/cDbqFl2 GX2w==
+ARC-Authentication-Results:     i=2; mx.google.com; dkim=pass header.i=@fgcu.edu<mailto:header.i=@fgcu.edu> header.s=proofpoint header.b=dHaTcwE5; dkim=pass header.i=@eaglefgcu.onmicrosoft.com<mailto:header.i=@eaglefgcu.onmicrosoft.com> header.s=selector2-eaglefgcu-onmicrosoft-com header.b=foFOs8ZN; arc=pass (i=1 spf=pass spfdomain=fgcu.edu dkim=pass dkdomain=fgcu.edu dmarc=pass fromdomain=fgcu.edu); spf=pass (google.com: domain of sgirimurugan at fgcu.edu<mailto:sgirimurugan at fgcu.edu> designates 148.163.147.122 as permitted sender) smtp.mailfrom=sgirimurugan at fgcu.edu<mailto:smtp.mailfrom=sgirimurugan at fgcu.edu>; dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=fgcu.edu
+Return-Path:    <sgirimurugan at fgcu.edu><mailto:sgirimurugan at fgcu.edu>
+Received:       from mx0a-002e7a01.pphosted.com (mx0a-002e7a01.pphosted.com. [148.163.147.122]) by mx.google.com with ESMTPS id q22si3624839pgt.334.2020.10.29.10.29.31 (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Thu, 29 Oct 2020 10:29:32 -0700 (PDT)
+Received-SPF:   pass (google.com: domain of sgirimurugan at fgcu.edu<mailto:sgirimurugan at fgcu.edu> designates 148.163.147.122 as permitted sender) client-ip=148.163.147.122;
+Authentication-Results:         mx.google.com; dkim=pass header.i=@fgcu.edu<mailto:header.i=@fgcu.edu> header.s=proofpoint header.b=dHaTcwE5; dkim=pass header.i=@eaglefgcu.onmicrosoft.com<mailto:header.i=@eaglefgcu.onmicrosoft.com> header.s=selector2-eaglefgcu-onmicrosoft-com header.b=foFOs8ZN; arc=pass (i=1 spf=pass spfdomain=fgcu.edu dkim=pass dkdomain=fgcu.edu dmarc=pass fromdomain=fgcu.edu); spf=pass (google.com: domain of sgirimurugan at fgcu.edu<mailto:sgirimurugan at fgcu.edu> designates 148.163.147.122 as permitted sender) smtp.mailfrom=sgirimurugan at fgcu.edu<mailto:smtp.mailfrom=sgirimurugan at fgcu.edu>; dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=fgcu.edu
+Received:       from pps.filterd (m0135227.ppops.net [127.0.0.1]) by mx0a-002e7a01.pphosted.com (8.16.0.43/8.16.0.43) with SMTP id 09THPcfE016147; Thu, 29 Oct 2020 17:29:30 GMT
+DKIM-Signature:         v=1; a=rsa-sha256; c=relaxed/relaxed; d=fgcu.edu; h=from : to : cc : subject : date : message-id : content-type : mime-version; s=proofpoint; bh=D/47/STLNWSh+Mh9LCTCCQCa/APYPXnJ85k5PnVFdic=; b=dHaTcwE5CgxbpOQWm3dfQfbltxGfncHY5bXJbs/UDaaA4cN+noorrTK5ENMVaHxZ9sdJ MEBNlM8jDTdDc9+vtO2TuUZyii8QWNN731yS5hveupZuclXDPHn1S7xpTd1OSAutoFWN qomU2ItswmTxjbwZpvOtShZbUvucUiJrtPCbXeSrjbTxUJdXKQ3saGtwTr1SpJ+FyokF bre5Yy6ze+hFdX3hXu+zaoE1rqNbFyLkDHblK4TrlterMiHkfjAFwSBKPgUgZTJgVNpF H9bYdRsyZBq1VkyukbV8iyqD6YaQCYrTyjIkPmQ744P3GCKw+dVVEBrPz8w/Vl/smTq/ vg==
+Received:       from nam10-dm6-obe.outbound.protection.outlook.com (mail-dm6nam10lp2107.outbound.protection.outlook.com [104.47.58.107]) by mx0a-002e7a01.pphosted.com with ESMTP id 34fxks9jwx-2 (version=TLSv1.2 cipher=ECDHE-RSA-AES256-GCM-SHA384 bits=256 verify=NOT); Thu, 29 Oct 2020 17:29:30 +0000
+ARC-Seal:       i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none; b=B5t+wWbZsOosdXpQM4TmcFAllf7WY76PgfKUo0/feiQo4Fkf0b8UMiz0j6/SNMro2AgpkgaSFYWG7sfTymvWedMQEjnIj58g9DNq+GBJGhxyVFE6WRICrVdeOeifhz/98GjT1MGVa1LF6FCfrSrCJcAyIvOxeTaQr1xzzlBLtgQf8hSmEDvBMhPQFN/7U9TiizUi7CS2FGmfFgAIEivCKEF6QPjPSws+27OGvnNcNn23vlZ92RFl/7ZS9gZBZa/OQvWCPfrv2vdMsT7J0+ycxKwsRKkTPMVTeVbVQP9yDXIxeBv+3ivRyo40FI5FIW8YJbd7qZHneasqc6gR6Rf4YQ==
+ARC-Message-Signature:  i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com; s=arcselector9901; h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck; bh=D/47/STLNWSh+Mh9LCTCCQCa/APYPXnJ85k5PnVFdic=; b=Ubyz/ugmczn3oOX91+CYbOXCq6+wyu1584IjmVXQIH3JzzPMNxVbQCOh/o2hkDE9kz4Ihspld84qRyh5TkVRm8u8OjVMR8LnluNF74Jh+IWr0GQEIwLA8w+wEHEbi75Bf4PsIRooj4b+1W01XdBb0oQf/2xlAbh/KchKy022KXArwrZsJjOcEea077TtF87DtpEBVerTGVX7OCqYG8xa0lqNFVW2aLnf/jA/Is6Gp2gZGMQ594ucPo4O6vaI1C4pDLd31OPckHX54dyqzWWDtYGOaAH8Wctb+2omg8ceaypm37TJzY0JI+AMz7vlYN7kTo4aQKlHFsYAIEXRjfr3qw==
+ARC-Authentication-Results:     i=1; mx.microsoft.com 1; spf=pass smtp.mailfrom=fgcu.edu; dmarc=pass action=none header.from=fgcu.edu; dkim=pass header.d=fgcu.edu; arc=none
+DKIM-Signature:         v=1; a=rsa-sha256; c=relaxed/relaxed; d=eaglefgcu.onmicrosoft.com; s=selector2-eaglefgcu-onmicrosoft-com; h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck; bh=D/47/STLNWSh+Mh9LCTCCQCa/APYPXnJ85k5PnVFdic=; b=foFOs8ZNECRZmIWYMMJnt4b+iwBqTAjReDYIc+0FfF4eGXJ2c5foWchaDFNI5WqGUtGAawZuH+4LHIx6TaQwvxs8PisddgAyh3iHPow5Uq/Uw5MqLP8YUGaKDJ1PnTPYJT3Ma8tVpKMnEN9ijwZ7MSKw1WtQN5HGI7A0Rm8zzxM=
+Received:       from BL0PR05MB5345.namprd05.prod.outlook.com (2603:10b6:208:6e::33) by MN2PR05MB7134.namprd05.prod.outlook.com (2603:10b6:208:18c::24) with Microsoft SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3499.15; Thu, 29 Oct 2020 17:29:27 +0000
+Received:       from BL0PR05MB5345.namprd05.prod.outlook.com ([fe80::4c01:f867:1a6f:55b6]) by BL0PR05MB5345.namprd05.prod.outlook.com ([fe80::4c01:f867:1a6f:55b6%3]) with mapi id 15.20.3499.027; Thu, 29 Oct 2020 17:29:26 +0000
+From:   Girimurugan, Dr. Senthil Balaji <sgirimurugan at fgcu.edu><mailto:sgirimurugan at fgcu.edu>
+To:     Girimurugan, Dr. Senthil Balaji <sgirimurugan at fgcu.edu><mailto:sgirimurugan at fgcu.edu>
+CC:     wwu at stat.fsu.edu<mailto:wwu at stat.fsu.edu> <wwu at stat.fsu.edu><mailto:wwu at stat.fsu.edu>
+Subject:        FL ASA Chapter Traveling Course: Shiny Essentials (Deadline Approaching: October 31, 2020)
+Thread-Topic:   FL ASA Chapter Traveling Course: Shiny Essentials (Deadline Approaching: October 31, 2020)
+Thread-Index:   AQHWrhjEVlNXyi8A5kKu5oxL1a1t3A==
+Importance:     high
+X-Priority:     1
+Date:   Thu, 29 Oct 2020 17:29:25 +0000
+Message-ID:     <BL0PR05MB534542A56027AAFD042A674DA6140 at BL0PR05MB5345.namprd05.prod.outlook.com><mailto:BL0PR05MB534542A56027AAFD042A674DA6140 at BL0PR05MB5345.namprd05.prod.outlook.com>
+Accept-Language:        en-US
+Content-Language:       en-US
+X-MS-Has-Attach:        yes
+X-MS-TNEF-Correlator:
+authentication-results:         fgcu.edu; dkim=none (message not signed) header.d=none;fgcu.edu; dmarc=none action=none header.from=fgcu.edu;
+x-originating-ip:       [69.88.190.11]
+x-ms-publictraffictype:         Email
+x-ms-office365-filtering-correlation-id:        9b845db4-9729-40fd-e43c-08d87c302f7c
+x-ms-traffictypediagnostic:     MN2PR05MB7134:
+x-ms-exchange-transport-forked:         True
+x-microsoft-antispam-prvs:      <MN2PR05MB7134F74527FAA9D8CF625FCDA6140 at MN2PR05MB7134.namprd05.prod.outlook.com><mailto:MN2PR05MB7134F74527FAA9D8CF625FCDA6140 at MN2PR05MB7134.namprd05.prod.outlook.com>
+x-ms-oob-tlc-oobclassifiers:    OLM:8882;
+x-ms-exchange-senderadcheck:    1
+x-microsoft-antispam:   BCL:0;
+x-microsoft-antispam-message-info:      tds3va6zXVs50Xp2wQnPBI0AZlV4iTwRuQ5Fpbtwd29T+WW9T0BuZchK7IkeXshDS+xLaK58oStqPUbplH8sVzpaL2d//1LFA/Fvumffvyhft+FlFL3Snm2ZOsi3i41JGGX6pOmm9Q4sG5MovN7uUhH4AIVh65/+HHUt0I8v7lRCfr22K/+Tvii/WDN+WJWknOUrb8EwDNXVEUkaw9bwctKDIaVNBVXwr19h6Mf3iJwgZJ42kLW/1VyYYsoNA08qFxWwj+VCYOy+Y+jLe9dsVOZ3fLEoedNjvtcopSq1hmlAg6M3FID5SRLGGGTjpxkKWjivr+gEvCuPaHQuQhEa0ci8OAA4rz2J9ISct37OFYKSaXqP2qDQA6u/1mpr3OOLy2fFMxddyMq683ydyhbE7A==
+x-forefront-antispam-report:    CIP:255.255.255.255;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:BL0PR05MB5345.namprd05.prod.outlook.com;PTR:;CAT:NONE;SFS:(4636009)(366004)(376002)(346002)(136003)(396003)(39850400004)(83380400001)(99936003)(786003)(166002)(71200400001)(55016002)(76116006)(66446008)(66574015)(66616009)(75432002)(296002)(316002)(2906002)(966005)(19627405001)(6200100001)(7696005)(8936002)(8676002)(478600001)(26005)(186003)(33656002)(66556008)(64756008)(6506007)(66476007)(66946007)(7336002)(7366002)(7416002)(5660300002)(86362001)(7406005)(7276002)(52536014)(6862004)(9686003)(4326008);DIR:OUT;SFP:1101;
+x-ms-exchange-antispam-messagedata:     W+kD9QH8ptTASL9E8Y3mZ//8rev1stqak29CznNRVmvjzIG3oGHRA1q/t26HMHm6M0GwcmfZZ2wtKX97ZCWXp/SSY4rhoyMLgbKClZwPQwjJhIz1yYou4UdBnXBI9X9M09Pn7LUuBg3E+fVrH9nOh/CxRstdJ/oPnG5Nz3dhZUua8IDjrz8zNRXDfWBArTry/OG+gAFc3txgRk2O0hEWoe+CfaAfK17sy5ZPmj4AIjox6Vqj5Ednj5cRmYaxEOHff/ULF3p21k3lmtwhSgSRAcZo3xhqHlQc27OnYI1sd5EX8K6WLDO8BCYffYm+mA29V3fZjiH6HfivX/tPe2Si3//EhZESCYK8MbBiCiD/5tvDo8fpw5cJqNKSXf7CLlKq5lJjVO38LMwnDwNgqjONDSsiQA3YTqjCGbCgNK1Y2+JCIDaC5hkCY5sDHGl2NvFnxetD2M4WGdOg5gNMIS/stw8KVICbvLRoQJfBNs1E4iOS7XZNyq2WeipTE6NWlkrVE5vbKA8UhMBBUlf2uzrL3xCD/3raaEaC7ZPmrwuWvsas5ls9NZ3xT2wDrRAmZxH2CZI44dZhYEyWnUW3Ggl56TJwCwx/Fz9rnQHO911ZeInGc/92JjyiPl/Jup+RzjB32lSUBttzC0FfUlFRdDi3XQ==
+Content-Type:   multipart/related; boundary="_004_BL0PR05MB534542A56027AAFD042A674DA6140BL0PR05MB5345namp_"; type="multipart/alternative"
+MIME-Version:   1.0
+X-OriginatorOrg:        fgcu.edu
+X-MS-Exchange-CrossTenant-AuthAs:       Internal
+X-MS-Exchange-CrossTenant-AuthSource:   BL0PR05MB5345.namprd05.prod.outlook.com
+X-MS-Exchange-CrossTenant-Network-Message-Id:   9b845db4-9729-40fd-e43c-08d87c302f7c
+X-MS-Exchange-CrossTenant-originalarrivaltime:  29 Oct 2020 17:29:25.8969 (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader:     Hosted
+X-MS-Exchange-CrossTenant-id:   f7a5a4ef-4ffa-4c80-bfb3-c12e28872099
+X-MS-Exchange-CrossTenant-mailboxtype:  HOSTED
+X-MS-Exchange-CrossTenant-userprincipalname:    F3f7b7d/wKSGdnSri4xunTNr/4NK/mO7rU9bLpQmZYjRHPtuiH1Gc17H00fxAlkKw35aMmUWFNfx/khGNIl5DA==
+X-MS-Exchange-Transport-CrossTenantHeadersStamped:      MN2PR05MB7134
+X-Proofpoint-Virus-Version:     vendor=fsecure engine=2.50.10434:6.0.312,18.0.737 definitions=2020-10-29_11:2020-10-29,2020-10-29 signatures=0
+X-Proofpoint-Spam-Details:      rule=outbound_notspam policy=outbound score=0 clxscore=1011 lowpriorityscore=0 mlxscore=0 bulkscore=0 spamscore=0 priorityscore=1501 mlxlogscore=999 malwarescore=0 adultscore=0 impostorscore=0 phishscore=0 suspectscore=0 classifier=spam adjust=0 reason=mlx scancount=1 engine=8.12.0-2009150000 definitions=main-2010290121
+
+
+
+Dear Colleagues,
+
+
+
+The Florida ASA Chapter and ASA is sponsoring a half-day workshop hosted via Zoom by Florida State University on November 4, 2020. The topic is "Shiny Essentials" taught by Mine ?etinkaya-Rundel at the University of Edinburgh and RStudio. This half day course will introduce you to the basics of building web applications with Shiny.
+
+
+
+For more information about the course and registration, please visit:
+
+https://stat.fsu.edu/ASATravelingCourse<https://urldefense.com/v3/__https://stat.fsu.edu/ASATravelingCourse__;!!IkmNjII!RHFaEv7vsIDCL0u7sgmP6OGR35lUlKiRmd_KK-5ZA-ky9eYG5kvxb8onw0MG5cvGmbM$>
+
+
+
+For latest news/events see our chapter website: https://community.amstat.org/floridachapter/<https://urldefense.com/v3/__https://community.amstat.org/floridachapter/__;!!IkmNjII!RHFaEv7vsIDCL0u7sgmP6OGR35lUlKiRmd_KK-5ZA-ky9eYG5kvxb8onw0MG7m-fQPo$>
+
+
+
+Dr. Senthil B. Girimurugan (BeeJay) | Associate Professor
+
+Whitaker Associate, Honours Fellow
+Faculty Senator and Parliamentarian
+UFF-FGCU Senator, FL ASA Secretary and Treasurer
+
+Department of Mathematics  | College of Arts and Science
+
+https://www.fgcu.edu/cas/departments/math/
+
+[cid:part4.7EE2B98F.9EBCBD2A at fsu.edu]
+
+10501 FGCU Boulevard South, Fort Myers, FL 33965 | fgcu.edu<http://www.fgcu.edu/>
+
+P: 239.745.4322  | E: sgirimurugan at fgcu.edu<mailto:sgirimurugan at fgcu.edu>
+
+
+Florida has a very broad public records law. As a result, any written communication created or received by Florida Gulf Coast University employees is subject to disclosure to the public and the media, upon request, unless otherwise exempt. Under Florida law, email addresses are public records. If you do not want your email address released in response to a public records request, do not send electronic mail to this entity. Instead, contact this office by phone or in writing.
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.fsu.edu/pipermail/epls-r-users/attachments/20201029/86ccc763/attachment.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: Outlook-d1ru01x5.png
+Type: image/png
+Size: 17123 bytes
+Desc: Outlook-d1ru01x5.png
+URL: <http://lists.fsu.edu/pipermail/epls-r-users/attachments/20201029/86ccc763/attachment.png>
+

@@ -1,0 +1,59 @@
+{
+  "list": "epls-r-users",
+  "description": "",
+  "month": "2024-05",
+  "messages": [
+    {
+      "id": "msg-fb0b6222d08d",
+      "message_id": "<LV3P220MB1702F856B86AF807964041A0A8E52@LV3P220MB1702.NAMP220.PROD.OUTLOOK.COM>",
+      "from_name": "Kari Roberts",
+      "from_email_hash": "deec6fd88f69d264fcdfe0e47395a2a7587f79ff820c12873179cde14e24969c",
+      "date": "2024-05-08T19:23:22Z",
+      "subject": "[Epls-r-users] R group this Friday!",
+      "subject_clean": "[Epls-r-users] R group this Friday!",
+      "in_reply_to": "<LV3P220MB17025F8FCD8E6C005B6320A0A8102@LV3P220MB1702.NAMP220.PROD.OUTLOOK.COM>",
+      "references": [
+        "<LV3P220MB170277477E88E4257CCEDBDAA85F2@LV3P220MB1702.NAMP220.PROD.OUTLOOK.COM>",
+        "<LV3P220MB17025F8FCD8E6C005B6320A0A8102@LV3P220MB1702.NAMP220.PROD.OUTLOOK.COM>"
+      ],
+      "body_plain": "Hi everyone!\n\nThe R group will be meeting this Friday via Zoom (https://fsu.zoom.us/my/ralmond<https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Ffsu.zoom.us%2Fmy%2Fralmond&data=05%7C02%7Cepls-r-users%40lists.fsu.edu%7Cd234d0a3eda74c363c7b08dc6f94534a%7Ca36450ebdb0642a78d1b026719f701e3%7C0%7C0%7C638507930035100520%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=9O0syiyL8LrWbJq8L6sM6b7toKClzdT%2BzZbIcLB%2FKgM%3D&reserved=0>) at noon. This week, we will be looking at how R packages are made, and take a look at the source code for a package that Saeyan is looking at for her dissertation project.\n\nSummer is a great time to work on some of your R projects, so please feel free to join us!\n\nIf you need access to the R group canvas site, you can join here:\n\nhttps://canvas.fsu.edu/enroll/AWFYCW<https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcanvas.fsu.edu%2Fenroll%2FAWFYCW&data=05%7C02%7Cepls-r-users%40lists.fsu.edu%7Cd234d0a3eda74c363c7b08dc6f94534a%7Ca36450ebdb0642a78d1b026719f701e3%7C0%7C0%7C638507930035100520%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=6%2F%2B4wlIqqJ7EnFkS02BfMo%2FYzdD%2BHTEDX60tiuTCydY%3D&reserved=0>\n\nHope to see many of you this Friday!\n\n\n\n\nKari Roberts\n\nDirector of Strategic Planning and Assessment\n\nDivision of Student Affairs\n\nFlorida State University\n\n313 Westcott Building\n\nTallahassee, FL 32306-1340\n\n________________________________\nFrom: MandS-students <mands-students-bounces at lists.fsu.edu> on behalf of Kari Roberts via MandS-students <mands-students at lists.fsu.edu>\nSent: Wednesday, April 24, 2024 2:31 PM\nTo: mands-students at lists.fsu.edu <mands-students at lists.fsu.edu>; epls-r-users at lists.fsu.edu <epls-r-users at lists.fsu.edu>\nSubject: Re: [M&S] R group this Friday!\n\n\nHi everyone!\n\nThe R group will be meeting this Friday, in Stone Building room 3203 (or Zoom: https://fsu.zoom.us/j/98450885843<https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Ffsu.zoom.us%2Fj%2F98450885843&data=05%7C02%7Cepls-r-users%40lists.fsu.edu%7Cd234d0a3eda74c363c7b08dc6f94534a%7Ca36450ebdb0642a78d1b026719f701e3%7C0%7C0%7C638507930035100520%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=sGFgT9hNSeCyU4OfZeLub8knfor4KW77GFoRC4X2ahQ%3D&reserved=0>) at noon. This week, we will be working to get the FSU Thesis/Dissertation LaTeX template running in R markdown/quarto.\n\nIf you want to learn how to save yourself some time on the manuscript clearance side of the thesis and dissertation process, please come join us!\n\nIf you need access to the R group canvas site, you can join here:\n\nhttps://canvas.fsu.edu/enroll/AWFYCW<https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcanvas.fsu.edu%2Fenroll%2FAWFYCW&data=05%7C02%7Cepls-r-users%40lists.fsu.edu%7Cd234d0a3eda74c363c7b08dc6f94534a%7Ca36450ebdb0642a78d1b026719f701e3%7C0%7C0%7C638507930035100520%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=6%2F%2B4wlIqqJ7EnFkS02BfMo%2FYzdD%2BHTEDX60tiuTCydY%3D&reserved=0>\n\nHope to see many of you this Friday!\n\n\n\n\nKari Roberts\n\nDirector of Strategic Planning and Assessment\n\nDivision of Student Affairs\n\nFlorida State University\n\n313 Westcott Building\n\nTallahassee, FL 32306-1340\n-------------- next part --------------\nAn HTML attachment was scrubbed...\nURL: <http://lists.fsu.edu/pipermail/epls-r-users/attachments/20240508/781ea34e/attachment.html>",
+      "body_snippet": "Hi everyone!\n\nThe R group will be meeting this Friday via Zoom (https://fsu.zoom.us/my/ralmond<https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Ffsu.zoom.us%2Fmy%2Fralmond&data=05%7C02",
+      "thread_id": "thread-fb0b6222d08d",
+      "thread_depth": 0,
+      "month": "2024-05"
+    },
+    {
+      "id": "msg-f311414fc597",
+      "message_id": "<LV3P220MB1702237858DD53C0F1A88B1EA8EB2@LV3P220MB1702.NAMP220.PROD.OUTLOOK.COM>",
+      "from_name": "Kari Roberts",
+      "from_email_hash": "deec6fd88f69d264fcdfe0e47395a2a7587f79ff820c12873179cde14e24969c",
+      "date": "2024-05-22T18:29:40Z",
+      "subject": "[Epls-r-users] R group this Friday!",
+      "subject_clean": "[Epls-r-users] R group this Friday!",
+      "in_reply_to": "<LV3P220MB1702F856B86AF807964041A0A8E52@LV3P220MB1702.NAMP220.PROD.OUTLOOK.COM>",
+      "references": [
+        "<LV3P220MB170277477E88E4257CCEDBDAA85F2@LV3P220MB1702.NAMP220.PROD.OUTLOOK.COM>",
+        "<LV3P220MB17025F8FCD8E6C005B6320A0A8102@LV3P220MB1702.NAMP220.PROD.OUTLOOK.COM>",
+        "<LV3P220MB1702F856B86AF807964041A0A8E52@LV3P220MB1702.NAMP220.PROD.OUTLOOK.COM>"
+      ],
+      "body_plain": "Hi everyone!\n\nThe R group will be meeting this Friday via Zoom (https://fsu.zoom.us/my/ralmond<https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Ffsu.zoom.us%2Fmy%2Fralmond&data=05%7C02%7Cepls-r-users%40lists.fsu.edu%7C6f9c164652894ec0a29108dc7a8d2480%7Ca36450ebdb0642a78d1b026719f701e3%7C0%7C0%7C638519993815332366%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=bX5OmD66Hbh%2Bodq41%2Bks%2BEoOEozKMHV7x05XrwyRnC0%3D&reserved=0>) at noon. This week, we will be looking at how R packages are made, and take a look at the source code for a package that Saeyan is looking at for her dissertation project.\n\nSummer is a great time to work on some of your R projects, so please feel free to join us!\n\nIf you need access to the R group canvas site, you can join here:\n\nhttps://canvas.fsu.edu/enroll/AWFYCW<https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcanvas.fsu.edu%2Fenroll%2FAWFYCW&data=05%7C02%7Cepls-r-users%40lists.fsu.edu%7C6f9c164652894ec0a29108dc7a8d2480%7Ca36450ebdb0642a78d1b026719f701e3%7C0%7C0%7C638519993815332366%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=qaCOkMTCSRcmERvtjVv8xfQcE0x82QWeOCkdJAQFzgU%3D&reserved=0>\n\nHope to see many of you this Friday before a long holiday weekend!\n\n\n\n\nKari Roberts\n\nDirector of Strategic Planning and Assessment\n\nDivision of Student Affairs\n\nFlorida State University\n\n313 Westcott Building\n\nTallahassee, FL 32306-1340\n\n-------------- next part --------------\nAn HTML attachment was scrubbed...\nURL: <http://lists.fsu.edu/pipermail/epls-r-users/attachments/20240522/d678f15b/attachment.html>",
+      "body_snippet": "Hi everyone!\n\nThe R group will be meeting this Friday via Zoom (https://fsu.zoom.us/my/ralmond<https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Ffsu.zoom.us%2Fmy%2Fralmond&data=05%7C02",
+      "thread_id": "thread-fb0b6222d08d",
+      "thread_depth": 1,
+      "month": "2024-05"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-fb0b6222d08d",
+      "subject": "[Epls-r-users] R group this Friday!",
+      "message_count": 2,
+      "participants": [
+        "Kari Roberts"
+      ],
+      "started": "2024-05-08T19:23:22Z",
+      "last_reply": "2024-05-22T18:29:40Z",
+      "root_message_id": "msg-fb0b6222d08d"
+    }
+  ]
+}

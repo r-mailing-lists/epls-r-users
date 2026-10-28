@@ -1,0 +1,63 @@
+{
+  "list": "epls-r-users",
+  "description": "",
+  "month": "2024-02",
+  "messages": [
+    {
+      "id": "msg-968bd0f7eda4",
+      "message_id": "<70192b5b-e833-4fcb-8136-cab4e457a33b@fsu.edu>",
+      "from_name": "Russell Almond",
+      "from_email_hash": "163c7891dcfc07c029df85ce46e68258336f96a47c4fb8152878c9c1fd1e668f",
+      "date": "2024-02-15T16:05:22Z",
+      "subject": "[Epls-r-users] R Group Tomorrow, Zoom Only",
+      "subject_clean": "[Epls-r-users] R Group Tomorrow, Zoom Only",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "As I'm still recovering from COVID (my isolation is ended, but I'm staying home this week in an abundance of caution) the R Group tomorrow (Feb 16) will be Zoom only.\n\nhttps://fsu.zoom.us/my/ralmond\n\nStarting somewhere around noon.\n\nWe will go over a lecture I did in my data analysis class about the common R commands I use to generate data for test cases (and simulation studies).\n\n    --Russell\n\n\n--\nRussell Almond\nAssociate Professor, Measurement & Statistics\nEducational Psychology and Learning Systems\nCollege of Education, Health, and Human Sciences\n1114 W. Call St.\nFlorida State University\nTallahassee, FL 32306\nralmond at fsu.edu<mailto:ralmond at fsu.edu>\nhttp://ralmond.net/\nAppointment calendar: https://doodle.com/bp/russellalmond/book-a-time\n-------------- next part --------------\nAn HTML attachment was scrubbed...\nURL: <http://lists.fsu.edu/pipermail/epls-r-users/attachments/20240215/5c30dbcf/attachment.html>",
+      "body_snippet": "As I'm still recovering from COVID (my isolation is ended, but I'm staying home this week in an abundance of caution) the R Group tomorrow (Feb 16) will be Zoom only.\n\nhttps://fsu.zoom.us/my/ralmond\n\n",
+      "thread_id": "thread-968bd0f7eda4",
+      "thread_depth": 0,
+      "month": "2024-02"
+    },
+    {
+      "id": "msg-e857df118550",
+      "message_id": "<LV3P220MB170277477E88E4257CCEDBDAA85F2@LV3P220MB1702.NAMP220.PROD.OUTLOOK.COM>",
+      "from_name": "Kari Roberts",
+      "from_email_hash": "deec6fd88f69d264fcdfe0e47395a2a7587f79ff820c12873179cde14e24969c",
+      "date": "2024-02-29T14:56:53Z",
+      "subject": "[Epls-r-users] R group this Friday!",
+      "subject_clean": "[Epls-r-users] R group this Friday!",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hi everyone!\n\nThe R group will be meeting this Friday, in Stone Building room 3203 (or Zoom: https://fsu.zoom.us/j/98450885843) at noon. This week, Dr. Almond will be covering Monte Carlo methods in R.\n\nIf you need access to the R group canvas site, you can join here:\n\nhttps://canvas.fsu.edu/enroll/AWFYCW\n\nHope to see many of you this Friday!\n\n\n\n\nKari Roberts\n\nDirector of Strategic Planning and Assessment\n\nDivision of Student Affairs\n\nFlorida State University\n\n313 Westcott Building\n\nTallahassee, FL 32306-1340\n-------------- next part --------------\nAn HTML attachment was scrubbed...\nURL: <http://lists.fsu.edu/pipermail/epls-r-users/attachments/20240229/fc63c10e/attachment.html>",
+      "body_snippet": "Hi everyone!\n\nThe R group will be meeting this Friday, in Stone Building room 3203 (or Zoom: https://fsu.zoom.us/j/98450885843) at noon. This week, Dr. Almond will be covering Monte Carlo methods in R",
+      "thread_id": "thread-e857df118550",
+      "thread_depth": 0,
+      "month": "2024-02"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-968bd0f7eda4",
+      "subject": "[Epls-r-users] R Group Tomorrow, Zoom Only",
+      "message_count": 1,
+      "participants": [
+        "Russell Almond"
+      ],
+      "started": "2024-02-15T16:05:22Z",
+      "last_reply": "2024-02-15T16:05:22Z",
+      "root_message_id": "msg-968bd0f7eda4"
+    },
+    {
+      "id": "thread-e857df118550",
+      "subject": "[Epls-r-users] R group this Friday!",
+      "message_count": 1,
+      "participants": [
+        "Kari Roberts"
+      ],
+      "started": "2024-02-29T14:56:53Z",
+      "last_reply": "2024-02-29T14:56:53Z",
+      "root_message_id": "msg-e857df118550"
+    }
+  ]
+}

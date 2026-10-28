@@ -1,0 +1,90 @@
+{
+  "list": "epls-r-users",
+  "description": "",
+  "month": "2020-09",
+  "messages": [
+    {
+      "id": "msg-75ffb4e4d822",
+      "message_id": "<DM6PR02MB706844787CA2F199EBB66080F62F0@DM6PR02MB7068.namprd02.prod.outlook.com>",
+      "from_name": "Russell Almond",
+      "from_email_hash": "163c7891dcfc07c029df85ce46e68258336f96a47c4fb8152878c9c1fd1e668f",
+      "date": "2020-09-02T19:28:38Z",
+      "subject": "[Epls-r-users] Today (Wed) @ 3:30  Installing R",
+      "subject_clean": "[Epls-r-users] Today (Wed) @ 3:30  Installing R",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "https://fsu.zoom.us/j/96939563935?pwd=aEVBamZ3eG9KcnZDYndlZEJWeEYzUT09\n\nVideo will be on our canvas site afterwards.\n\n    --Russell\n\n-------------- next part --------------\nAn HTML attachment was scrubbed...\nURL: <http://lists.fsu.edu/pipermail/epls-r-users/attachments/20200902/8d8d4a3c/attachment.html>",
+      "body_snippet": "https://fsu.zoom.us/j/96939563935?pwd=aEVBamZ3eG9KcnZDYndlZEJWeEYzUT09\n\nVideo will be on our canvas site afterwards.\n\n    --Russell\n\n-------------- next part --------------\nAn HTML attachment was scru",
+      "thread_id": "thread-75ffb4e4d822",
+      "thread_depth": 0,
+      "month": "2020-09"
+    },
+    {
+      "id": "msg-40c3a25fab83",
+      "message_id": "<DM6PR02MB70681BD62C97D38DDFCE00CCF6260@DM6PR02MB7068.namprd02.prod.outlook.com>",
+      "from_name": "Russell Almond",
+      "from_email_hash": "163c7891dcfc07c029df85ce46e68258336f96a47c4fb8152878c9c1fd1e668f",
+      "date": "2020-09-09T19:08:22Z",
+      "subject": "[Epls-r-users] Working With R Data",
+      "subject_clean": "[Epls-r-users] Working With R Data",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Today' (Wed the 9th) meeting at 3:30 will cover basic R vector manipulation commands.  The Rmd file is already up on canvas.\n\nThis the second in what looks like it will be a 3 part series to teach you enough R to do the EDF 5400 lab 1 in R.\nSome of the material I presented over the summer.\n\nThe zoom link is:\nhttps://fsu.zoom.us/j/96939563935?pwd=aEVBamZ3eG9KcnZDYndlZEJWeEYzUT09\n\n(The password we are using is `tidyverse`).",
+      "body_snippet": "Today' (Wed the 9th) meeting at 3:30 will cover basic R vector manipulation commands.  The Rmd file is already up on canvas.\n\nThis the second in what looks like it will be a 3 part series to teach you",
+      "thread_id": "thread-40c3a25fab83",
+      "thread_depth": 0,
+      "month": "2020-09"
+    },
+    {
+      "id": "msg-780acbcb21f7",
+      "message_id": "<DM6PR02MB70685357180192BA60FA89CAF63B0@DM6PR02MB7068.namprd02.prod.outlook.com>",
+      "from_name": "Russell Almond",
+      "from_email_hash": "163c7891dcfc07c029df85ce46e68258336f96a47c4fb8152878c9c1fd1e668f",
+      "date": "2020-09-22T21:02:19Z",
+      "subject": "[Epls-r-users] Tomorrow's R Topic",
+      "subject_clean": "[Epls-r-users] Tomorrow's R Topic",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "For Tomorrow's (Sep 23) R Group I'm going to look at some exploratory analysis of Physics Playground data.  In particular, we have time series data showing the estimate of various students on various physics competencies over time.\n\nWe will explore possible visualizaitons.\n\n    --Russell\n\n-------------- next part --------------\nAn HTML attachment was scrubbed...\nURL: <http://lists.fsu.edu/pipermail/epls-r-users/attachments/20200922/0222abb1/attachment.html>",
+      "body_snippet": "For Tomorrow's (Sep 23) R Group I'm going to look at some exploratory analysis of Physics Playground data.  In particular, we have time series data showing the estimate of various students on various ",
+      "thread_id": "thread-780acbcb21f7",
+      "thread_depth": 0,
+      "month": "2020-09"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-75ffb4e4d822",
+      "subject": "[Epls-r-users] Today (Wed) @ 3:30  Installing R",
+      "message_count": 1,
+      "participants": [
+        "Russell Almond"
+      ],
+      "started": "2020-09-02T19:28:38Z",
+      "last_reply": "2020-09-02T19:28:38Z",
+      "root_message_id": "msg-75ffb4e4d822"
+    },
+    {
+      "id": "thread-40c3a25fab83",
+      "subject": "[Epls-r-users] Working With R Data",
+      "message_count": 1,
+      "participants": [
+        "Russell Almond"
+      ],
+      "started": "2020-09-09T19:08:22Z",
+      "last_reply": "2020-09-09T19:08:22Z",
+      "root_message_id": "msg-40c3a25fab83"
+    },
+    {
+      "id": "thread-780acbcb21f7",
+      "subject": "[Epls-r-users] Tomorrow's R Topic",
+      "message_count": 1,
+      "participants": [
+        "Russell Almond"
+      ],
+      "started": "2020-09-22T21:02:19Z",
+      "last_reply": "2020-09-22T21:02:19Z",
+      "root_message_id": "msg-780acbcb21f7"
+    }
+  ]
+}

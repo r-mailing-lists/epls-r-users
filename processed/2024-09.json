@@ -1,0 +1,98 @@
+{
+  "list": "epls-r-users",
+  "description": "",
+  "month": "2024-09",
+  "messages": [
+    {
+      "id": "msg-60b18e6cade7",
+      "message_id": "<LV3P220MB17029A9768AEFFB37914DFF0A89C2@LV3P220MB1702.NAMP220.PROD.OUTLOOK.COM>",
+      "from_name": "Kari Roberts",
+      "from_email_hash": "deec6fd88f69d264fcdfe0e47395a2a7587f79ff820c12873179cde14e24969c",
+      "date": "2024-09-04T18:52:04Z",
+      "subject": "[Epls-r-users] R group this Friday!",
+      "subject_clean": "[Epls-r-users] R group this Friday!",
+      "in_reply_to": "<LV3P220MB170259C66EE4C53603080820A88C2@LV3P220MB1702.NAMP220.PROD.OUTLOOK.COM>",
+      "references": [
+        "<LV3P220MB170277477E88E4257CCEDBDAA85F2@LV3P220MB1702.NAMP220.PROD.OUTLOOK.COM>",
+        "<LV3P220MB17025F8FCD8E6C005B6320A0A8102@LV3P220MB1702.NAMP220.PROD.OUTLOOK.COM>",
+        "<LV3P220MB1702F856B86AF807964041A0A8E52@LV3P220MB1702.NAMP220.PROD.OUTLOOK.COM>",
+        "<LV3P220MB1702237858DD53C0F1A88B1EA8EB2@LV3P220MB1702.NAMP220.PROD.OUTLOOK.COM>",
+        "<LV3P220MB170215E561BAC14036093431A8F92@LV3P220MB1702.NAMP220.PROD.OUTLOOK.COM>",
+        "<LV3P220MB17024C52F152CF681667D92AA8CF2@LV3P220MB1702.NAMP220.PROD.OUTLOOK.COM>",
+        "<LV3P220MB170259C66EE4C53603080820A88C2@LV3P220MB1702.NAMP220.PROD.OUTLOOK.COM>"
+      ],
+      "body_plain": "Good afternoon everyone!\n\nWe will have our next meeting of the R group this Friday at noon in Stone G158 or zoom (https://fsu.zoom.us/j/97381084243<https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Ffsu.zoom.us%2Fj%2F97381084243&data=05%7C02%7Cepls-r-users%40lists.fsu.edu%7C3f2d8c4799b84f3c3b5b08dccd12ab4b%7Ca36450ebdb0642a78d1b026719f701e3%7C0%7C0%7C638610727268986329%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=dM6oLJBrjvUH09Bd3E54SwjO1FhyOcJWAZ0XMhEx3z8%3D&reserved=0>).  We will be exploring a new tool for R, called Jamovi, that is a more graphical interface to R.\n\nIf you have ever wished that SPSS was free, or that R would be a little more like SPSS, this will be a great week to join us.\n\nWe will also be heading upstairs to the EPLS suite after R group to celebrate Dr. Almond's birthday with some game time!\n\nI hope many of you will join us for some R fun, some game fun, or both!\n\n\n\nKari Roberts\n\nDirector of Strategic Planning and Assessment\n\nDivision of Student Affairs\n\nFlorida State University\n\n313 Westcott Building\n\nTallahassee, FL 32306-1340\n\n\n\n-------------- next part --------------\nAn HTML attachment was scrubbed...\nURL: <http://lists.fsu.edu/pipermail/epls-r-users/attachments/20240904/2ba7b7cb/attachment.html>",
+      "body_snippet": "Good afternoon everyone!\n\nWe will have our next meeting of the R group this Friday at noon in Stone G158 or zoom (https://fsu.zoom.us/j/97381084243<https://nam04.safelinks.protection.outlook.com/?url=",
+      "thread_id": "thread-60b18e6cade7",
+      "thread_depth": 0,
+      "month": "2024-09"
+    },
+    {
+      "id": "msg-cc2af25dee04",
+      "message_id": "<LV3P220MB1702771436ABCE918717B703A8622@LV3P220MB1702.NAMP220.PROD.OUTLOOK.COM>",
+      "from_name": "Kari Roberts",
+      "from_email_hash": "deec6fd88f69d264fcdfe0e47395a2a7587f79ff820c12873179cde14e24969c",
+      "date": "2024-09-18T13:14:19Z",
+      "subject": "[Epls-r-users] R group this Friday!",
+      "subject_clean": "[Epls-r-users] R group this Friday!",
+      "in_reply_to": "<LV3P220MB17029A9768AEFFB37914DFF0A89C2@LV3P220MB1702.NAMP220.PROD.OUTLOOK.COM>",
+      "references": [
+        "<LV3P220MB170277477E88E4257CCEDBDAA85F2@LV3P220MB1702.NAMP220.PROD.OUTLOOK.COM>",
+        "<LV3P220MB17025F8FCD8E6C005B6320A0A8102@LV3P220MB1702.NAMP220.PROD.OUTLOOK.COM>",
+        "<LV3P220MB1702F856B86AF807964041A0A8E52@LV3P220MB1702.NAMP220.PROD.OUTLOOK.COM>",
+        "<LV3P220MB1702237858DD53C0F1A88B1EA8EB2@LV3P220MB1702.NAMP220.PROD.OUTLOOK.COM>",
+        "<LV3P220MB170215E561BAC14036093431A8F92@LV3P220MB1702.NAMP220.PROD.OUTLOOK.COM>",
+        "<LV3P220MB17024C52F152CF681667D92AA8CF2@LV3P220MB1702.NAMP220.PROD.OUTLOOK.COM>",
+        "<LV3P220MB170259C66EE4C53603080820A88C2@LV3P220MB1702.NAMP220.PROD.OUTLOOK.COM>",
+        "<LV3P220MB17029A9768AEFFB37914DFF0A89C2@LV3P220MB1702.NAMP220.PROD.OUTLOOK.COM>"
+      ],
+      "body_plain": "Good morning everyone!\n\nWe will have our next meeting of the R group this Friday at noon in Stone G158 or zoom (https://fsu.zoom.us/j/97381084243<https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Ffsu.zoom.us%2Fj%2F97381084243&data=05%7C02%7Cepls-r-users%40lists.fsu.edu%7Cbaca0fe75a1e4b70a23f08dcd7e3ce1a%7Ca36450ebdb0642a78d1b026719f701e3%7C0%7C0%7C638622620610570445%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=dUnUTcVD7c0JOJlmq4ihxNAgLltZHd0jvLrXaUFzxYs%3D&reserved=0>).  We will be continuing our session on GitHub, including how to connect GitHub with RStudio/Posit.\n\nI hope to see many of you there!\n\n\n\nKari Roberts\n\nDirector of Strategic Planning and Assessment\n\nDivision of Student Affairs\n\nFlorida State University\n\n313 Westcott Building\n\nTallahassee, FL 32306-1340\n\n\n\n-------------- next part --------------\nAn HTML attachment was scrubbed...\nURL: <http://lists.fsu.edu/pipermail/epls-r-users/attachments/20240918/c21ed531/attachment.html>",
+      "body_snippet": "Good morning everyone!\n\nWe will have our next meeting of the R group this Friday at noon in Stone G158 or zoom (https://fsu.zoom.us/j/97381084243<https://nam04.safelinks.protection.outlook.com/?url=ht",
+      "thread_id": "thread-60b18e6cade7",
+      "thread_depth": 1,
+      "month": "2024-09"
+    },
+    {
+      "id": "msg-7bfa08297a66",
+      "message_id": "<LV3P220MB18659B2C357B29EE1C1D16D0F6762@LV3P220MB1865.NAMP220.PROD.OUTLOOK.COM>",
+      "from_name": "Russell Almond",
+      "from_email_hash": "163c7891dcfc07c029df85ce46e68258336f96a47c4fb8152878c9c1fd1e668f",
+      "date": "2024-09-30T16:01:15Z",
+      "subject": "[Epls-r-users] FW: Intro to SQL Workshop TOMORROW - Oct 1 @ 3pm",
+      "subject_clean": "[Epls-r-users] FW: Intro to SQL Workshop TOMORROW - Oct 1 @ 3pm",
+      "in_reply_to": "<b96e3d77-27bf-409f-a3e9-04c4107f3baa@atl1s11mta168.xt.local>",
+      "references": [
+        "<b96e3d77-27bf-409f-a3e9-04c4107f3baa@atl1s11mta168.xt.local>"
+      ],
+      "body_plain": "From: ITS Research Computing Center <rcc at message.fsu.edu>\nDate: Monday, September 30, 2024 at 11:05?AM\nTo: Russell Almond <ralmond at fsu.edu>\nSubject: Intro to SQL Workshop TOMORROW - Oct 1 @ 3pm\nJoin us for a free 90-minute workshop in Dirac Science Library and on Zoom.\n\nTo view this email as a web page, go here.<https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fview.message.fsu.edu%2F%3Fqs%3D55d6185ea420da01bd90329c66964eb20594eea0a4da9f22afd3d946639530301cfee5f979e4297307e09c8383cbcc853972472638717cf95fc8d0bd567e3145a359a0d7a73420b6b6faa2d7f9da09c9&data=05%7C02%7Cepls-r-users%40lists.fsu.edu%7C179ed8def3424b86c31608dce1691cc9%7Ca36450ebdb0642a78d1b026719f701e3%7C0%7C0%7C638633088771072633%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=gvriQOeCpLkDAq1ZfhXr%2FqUEphkIrTXB%2BUBxxVZ6ycw%3D&reserved=0>\n[Image removed by sender. FSU Research Computing Center]\nData @ Your Desk Series : Introduction to SQL\n\nTuesday, October 1 | 3 - 4:30pm\nZoom Livestream<https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fclick.message.fsu.edu%2F%3Fqs%3D3566a74c9237239c302b90ee3ab47bee69c94d6a4ceecaaf3c11a9d2aa1ce48c0eafbb2595b579ab092af17134946ec73a270a41d14b5420&data=05%7C02%7Cepls-r-users%40lists.fsu.edu%7C179ed8def3424b86c31608dce1691cc9%7Ca36450ebdb0642a78d1b026719f701e3%7C0%7C0%7C638633088771072633%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=uxLkrCJGtxKWIoJVWdnplvlRCiPtwbGCdzaT1zKY9fc%3D&reserved=0> and Dirac Science Library Teaching Lab (Room 208<https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fclick.message.fsu.edu%2F%3Fqs%3D3566a74c9237239c6a18922850349345a1a1a2d965ff396c29ef43b3086f6e75c2f8ea83f6538af4add6f892c9d283705c28b2094803770d&data=05%7C02%7Cepls-r-users%40lists.fsu.edu%7C179ed8def3424b86c31608dce1691cc9%7Ca36450ebdb0642a78d1b026719f701e3%7C0%7C0%7C638633088771228896%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=TkV6k3yXabYw5EXB3Sl6sR9O%2FXyrXprDFh7ZCI4zgss%3D&reserved=0>)\n\nThe SQL workshop provides an introduction to relational databases and SQL. Topics covered:\n\n  *   Basics of relational databases, including what a Relational Database Management System (RDBMS) is\n  *   How to model a simple database, including the significance of keys and unique values in structuring tables\n  *   Best practices, including avoiding composite keys, using consistent table naming conventions, and implementing arbitrary identifiers (surrogate keys)\n  *   Introduction to SQL statements and simple table joins\n  *   How to continue learning about the concepts after the workshop\n\nSee more details and register ?<https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fclick.message.fsu.edu%2F%3Fqs%3D3566a74c9237239c78ca217e1fc9febe9da13c388024dbf1c01bad0677a289ab9e0bcdb5a83a0598cfc8c81bac1af20b81b736255c0c215b&data=05%7C02%7Cepls-r-users%40lists.fsu.edu%7C179ed8def3424b86c31608dce1691cc9%7Ca36450ebdb0642a78d1b026719f701e3%7C0%7C0%7C638633088771228896%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=Ne71rtITEsgibSmsfgHiLobZVxIZqXeI%2BW7xMFCai9o%3D&reserved=0>\n[Image removed by sender. FSU Information Technology Services logo]<https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fclick.message.fsu.edu%2F%3Fqs%3D3566a74c9237239cf650bb3f4a7e7ea28eac27f8c2aa3f615b5b2bbf075838da9472422a2e494da420529b201b66bda11a95df3bcf15424c&data=05%7C02%7Cepls-r-users%40lists.fsu.edu%7C179ed8def3424b86c31608dce1691cc9%7Ca36450ebdb0642a78d1b026719f701e3%7C0%7C0%7C638633088771228896%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=kt9zJNbA6HvQSuItteHvcOIpeIb0rVnti%2FHVdJrAwoc%3D&reserved=0>\n\n\nQuestions?\nWe are here to help. Contact the ITS Service Desk at 850-644-4357 or its.fsu.edu/help<https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fclick.message.fsu.edu%2F%3Fqs%3D3566a74c9237239c78190b08846f955869d790d5070146283a3913af9793a98034cfb6bb9d9d9057229425f495329769c55f8068e7e756d0&data=05%7C02%7Cepls-r-users%40lists.fsu.edu%7C179ed8def3424b86c31608dce1691cc9%7Ca36450ebdb0642a78d1b026719f701e3%7C0%7C0%7C638633088771228896%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=PbEoU9%2FQCeA4rcIXGj33EEsfhWPcwcHCGuaCBQxAde0%3D&reserved=0>.\n\n\nFlorida State University\n222 S Copeland Street, Tallahassee, FL, 32306, US\n\n? Florida State University 2024\n\nPrivacy Policy<https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fclick.message.fsu.edu%2F%3Fqs%3D3566a74c9237239c023e3ea8629815faa31ba819b1c62e985ecfb951104c09eb7a25a2243155168de1a675322171a306a1844d26cf9103a4&data=05%7C02%7Cepls-r-users%40lists.fsu.edu%7C179ed8def3424b86c31608dce1691cc9%7Ca36450ebdb0642a78d1b026719f701e3%7C0%7C0%7C638633088771228896%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=1P4P0U3wX%2BEPY2jeZiJYpBWeFQfwAD7cppYDiMDicDg%3D&reserved=0>\n\nManage Subscriptions<https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fclick.message.fsu.edu%2F%3Fqs%3D3566a74c9237239c1e96ed0e7ea04b342b465124e2190944696d263566aa14c39269f6a6b54b21572233f4c7fdd4c433cab1b402da9184ea&data=05%7C02%7Cepls-r-users%40lists.fsu.edu%7C179ed8def3424b86c31608dce1691cc9%7Ca36450ebdb0642a78d1b026719f701e3%7C0%7C0%7C638633088771228896%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=CseyfJDab94pzsFt8PPzMcUBAwAZW6ITk5hEhmrRv2E%3D&reserved=0> |  Unsubscribe<https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fclick.message.fsu.edu%2Funsub_center.aspx%3Fqs%3Df7ab25375069ffd9efb42ff41d2b1826fb6b20cb853ac86328579b4d0b786fd3d3da6008e7716b733ad326c39236470ed846b426a27c8be1c2f226c6d6638bc00a84db4fec8dc051&data=05%7C02%7Cepls-r-users%40lists.fsu.edu%7C179ed8def3424b86c31608dce1691cc9%7Ca36450ebdb0642a78d1b026719f701e3%7C0%7C0%7C638633088771228896%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=VJ9oWpBM7RVJV%2BcsY7%2Fcw9PbyS18V%2BvADg8C6Oet0Wo%3D&reserved=0>\n\n-------------- next part --------------\nAn HTML attachment was scrubbed...\nURL: <http://lists.fsu.edu/pipermail/epls-r-users/attachments/20240930/e7727576/attachment-0001.html>",
+      "body_snippet": "From: ITS Research Computing Center <rcc at message.fsu.edu>\nDate: Monday, September 30, 2024 at 11:05?AM\nTo: Russell Almond <ralmond at fsu.edu>\nSubject: Intro to SQL Workshop TOMORROW - Oct 1 @ 3pm\n",
+      "thread_id": "thread-7bfa08297a66",
+      "thread_depth": 0,
+      "month": "2024-09"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-60b18e6cade7",
+      "subject": "[Epls-r-users] R group this Friday!",
+      "message_count": 2,
+      "participants": [
+        "Kari Roberts"
+      ],
+      "started": "2024-09-04T18:52:04Z",
+      "last_reply": "2024-09-18T13:14:19Z",
+      "root_message_id": "msg-60b18e6cade7"
+    },
+    {
+      "id": "thread-7bfa08297a66",
+      "subject": "[Epls-r-users] FW: Intro to SQL Workshop TOMORROW - Oct 1 @ 3pm",
+      "message_count": 1,
+      "participants": [
+        "Russell Almond"
+      ],
+      "started": "2024-09-30T16:01:15Z",
+      "last_reply": "2024-09-30T16:01:15Z",
+      "root_message_id": "msg-7bfa08297a66"
+    }
+  ]
+}

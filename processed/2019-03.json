@@ -1,0 +1,36 @@
+{
+  "list": "epls-r-users",
+  "description": "",
+  "month": "2019-03",
+  "messages": [
+    {
+      "id": "msg-1d99e037576b",
+      "message_id": "<BN6PR02MB2196951C1BFB9EC7F5D67DACF6760@BN6PR02MB2196.namprd02.prod.outlook.com>",
+      "from_name": "Russell Almond",
+      "from_email_hash": "163c7891dcfc07c029df85ce46e68258336f96a47c4fb8152878c9c1fd1e668f",
+      "date": "2019-03-01T17:16:09Z",
+      "subject": "[Epls-r-users] Oh Give Me a Home",
+      "subject_clean": "[Epls-r-users] Oh Give Me a Home",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Where the R group does roam.\n\nToday we are in 2206A.",
+      "body_snippet": "Where the R group does roam.\n\nToday we are in 2206A.",
+      "thread_id": "thread-1d99e037576b",
+      "thread_depth": 0,
+      "month": "2019-03"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-1d99e037576b",
+      "subject": "[Epls-r-users] Oh Give Me a Home",
+      "message_count": 1,
+      "participants": [
+        "Russell Almond"
+      ],
+      "started": "2019-03-01T17:16:09Z",
+      "last_reply": "2019-03-01T17:16:09Z",
+      "root_message_id": "msg-1d99e037576b"
+    }
+  ]
+}

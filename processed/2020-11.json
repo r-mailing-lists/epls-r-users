@@ -1,0 +1,36 @@
+{
+  "list": "epls-r-users",
+  "description": "",
+  "month": "2020-11",
+  "messages": [
+    {
+      "id": "msg-71857b7cc08f",
+      "message_id": "<DM6PR02MB7068D134FB2063276F078FF9F6E10@DM6PR02MB7068.namprd02.prod.outlook.com>",
+      "from_name": "Russell Almond",
+      "from_email_hash": "163c7891dcfc07c029df85ce46e68258336f96a47c4fb8152878c9c1fd1e668f",
+      "date": "2020-11-18T20:03:29Z",
+      "subject": "[Epls-r-users] An extended Holiday",
+      "subject_clean": "[Epls-r-users] An extended Holiday",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Trudes won't be able to present this week and Curt has been zoomed out through too much data collection.  I meanwhile am burried up to my neck in a grant proposal.  (Anybody want to see my data management plan ?)  So we will skip this week and we will skip next week for the holiday.\n\nDon't forget the FERA is tomorrow and Friday (the 19th and 20th).  Registration is only $15 for students and includes membership.  (https://www.feraonline.org)\n\nI would like to meet on Dec 2nd to make plans for 2021.  I will be on Sabbatical for the spring semester, so we need to think about how to go forwards.\n\n    --Russell\n\n-------------- next part --------------\nAn HTML attachment was scrubbed...\nURL: <http://lists.fsu.edu/pipermail/epls-r-users/attachments/20201118/72b887d1/attachment.html>",
+      "body_snippet": "Trudes won't be able to present this week and Curt has been zoomed out through too much data collection.  I meanwhile am burried up to my neck in a grant proposal.  (Anybody want to see my data manage",
+      "thread_id": "thread-71857b7cc08f",
+      "thread_depth": 0,
+      "month": "2020-11"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-71857b7cc08f",
+      "subject": "[Epls-r-users] An extended Holiday",
+      "message_count": 1,
+      "participants": [
+        "Russell Almond"
+      ],
+      "started": "2020-11-18T20:03:29Z",
+      "last_reply": "2020-11-18T20:03:29Z",
+      "root_message_id": "msg-71857b7cc08f"
+    }
+  ]
+}

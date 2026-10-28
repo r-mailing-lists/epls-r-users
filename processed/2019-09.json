@@ -1,0 +1,90 @@
+{
+  "list": "epls-r-users",
+  "description": "",
+  "month": "2019-09",
+  "messages": [
+    {
+      "id": "msg-0780c5300f0f",
+      "message_id": "<CY4PR02MB22001DED2FB814FEDE67142AF6B80@CY4PR02MB2200.namprd02.prod.outlook.com>",
+      "from_name": "Russell Almond",
+      "from_email_hash": "163c7891dcfc07c029df85ce46e68258336f96a47c4fb8152878c9c1fd1e668f",
+      "date": "2019-09-04T14:46:46Z",
+      "subject": "[Epls-r-users] Fall 2019 R Group Meetings",
+      "subject_clean": "[Epls-r-users] Fall 2019 R Group Meetings",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "We will be meeting every other Friday, starting on Sep 6 at 12:00-1:30 in STB G152.\n\nThis Friday's topics:\n\na) Plans and schedule for the year.\n\nb) Logging using the futile.logger package.\n\n    --Russell\n\n-------------- next part --------------\nAn HTML attachment was scrubbed...\nURL: <http://lists.fsu.edu/pipermail/epls-r-users/attachments/20190904/48825abe/attachment.html>",
+      "body_snippet": "We will be meeting every other Friday, starting on Sep 6 at 12:00-1:30 in STB G152.\n\nThis Friday's topics:\n\na) Plans and schedule for the year.\n\nb) Logging using the futile.logger package.\n\n    --Russ",
+      "thread_id": "thread-0780c5300f0f",
+      "thread_depth": 0,
+      "month": "2019-09"
+    },
+    {
+      "id": "msg-08c4dd5c5878",
+      "message_id": "<BN6PR02MB21966A2565EE633BF420AACBF6B30@BN6PR02MB2196.namprd02.prod.outlook.com>",
+      "from_name": "Russell Almond",
+      "from_email_hash": "163c7891dcfc07c029df85ce46e68258336f96a47c4fb8152878c9c1fd1e668f",
+      "date": "2019-09-13T13:45:01Z",
+      "subject": "[Epls-r-users] Anybody want to Teach next Friday?",
+      "subject_clean": "[Epls-r-users] Anybody want to Teach next Friday?",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "As most of you old-timers didn't make last Friday's class, we had about 10 new faces looking to learn R.  I did an impromptu introduction on Friday, but I'm looking to see if any of you who have been working on introductory R classes want to put together a more formal lesson plan.\n\nSome possible topics:\n\n1) Getting data into and out of R.\n\n2) Basic R summary Statistics.\n\n3) The lm command.\n\n4) Data cleaning tricks and tips.\n\n5) R graphics using graphics package.\n\n6) R graphics using lattice package\n\n7) R graphics using ggplot.\n\nContact me if you are interested.\n\n    --Russell\n\n-------------- next part --------------\nAn HTML attachment was scrubbed...\nURL: <http://lists.fsu.edu/pipermail/epls-r-users/attachments/20190913/42abca61/attachment.html>",
+      "body_snippet": "As most of you old-timers didn't make last Friday's class, we had about 10 new faces looking to learn R.  I did an impromptu introduction on Friday, but I'm looking to see if any of you who have been ",
+      "thread_id": "thread-08c4dd5c5878",
+      "thread_depth": 0,
+      "month": "2019-09"
+    },
+    {
+      "id": "msg-6a744c62ad2d",
+      "message_id": "<C3EB336A-68D2-440E-BDDA-76E63FF462E3@fsu.edu>",
+      "from_name": "Russell Almond",
+      "from_email_hash": "163c7891dcfc07c029df85ce46e68258336f96a47c4fb8152878c9c1fd1e668f",
+      "date": "2019-09-19T21:03:02Z",
+      "subject": "[Epls-r-users] Tomorrow's topic",
+      "subject_clean": "[Epls-r-users] Tomorrow's topic",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "We are meeting at 12:00 in G152.  Guangyun will be talking about data cleaning in R.\n\t?Russell",
+      "body_snippet": "We are meeting at 12:00 in G152.  Guangyun will be talking about data cleaning in R.\n\t?Russell",
+      "thread_id": "thread-6a744c62ad2d",
+      "thread_depth": 0,
+      "month": "2019-09"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-0780c5300f0f",
+      "subject": "[Epls-r-users] Fall 2019 R Group Meetings",
+      "message_count": 1,
+      "participants": [
+        "Russell Almond"
+      ],
+      "started": "2019-09-04T14:46:46Z",
+      "last_reply": "2019-09-04T14:46:46Z",
+      "root_message_id": "msg-0780c5300f0f"
+    },
+    {
+      "id": "thread-08c4dd5c5878",
+      "subject": "[Epls-r-users] Anybody want to Teach next Friday?",
+      "message_count": 1,
+      "participants": [
+        "Russell Almond"
+      ],
+      "started": "2019-09-13T13:45:01Z",
+      "last_reply": "2019-09-13T13:45:01Z",
+      "root_message_id": "msg-08c4dd5c5878"
+    },
+    {
+      "id": "thread-6a744c62ad2d",
+      "subject": "[Epls-r-users] Tomorrow's topic",
+      "message_count": 1,
+      "participants": [
+        "Russell Almond"
+      ],
+      "started": "2019-09-19T21:03:02Z",
+      "last_reply": "2019-09-19T21:03:02Z",
+      "root_message_id": "msg-6a744c62ad2d"
+    }
+  ]
+}

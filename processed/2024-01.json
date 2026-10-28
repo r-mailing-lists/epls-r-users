@@ -1,0 +1,63 @@
+{
+  "list": "epls-r-users",
+  "description": "",
+  "month": "2024-01",
+  "messages": [
+    {
+      "id": "msg-f2c7af6e65af",
+      "message_id": "<PH0P220MB0777328ADE459160CF3240E0F6722@PH0P220MB0777.NAMP220.PROD.OUTLOOK.COM>",
+      "from_name": "Russell Almond",
+      "from_email_hash": "163c7891dcfc07c029df85ce46e68258336f96a47c4fb8152878c9c1fd1e668f",
+      "date": "2024-01-17T21:42:58Z",
+      "subject": "[Epls-r-users] Staring up again for the spring",
+      "subject_clean": "[Epls-r-users] Staring up again for the spring",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "We will restart our biweekly meetings on Friday, Jan 19 at 12:00 EST, and every other Friday thereafter.  You can join either in person @Stone 3301 or online at https://fsu.zoom.us/my/ralmond\n\nThe topics for this project are scheduling and then I?ll talk about strategies for debugging R code.\n\n\n-------------- next part --------------\nAn HTML attachment was scrubbed...\nURL: <http://lists.fsu.edu/pipermail/epls-r-users/attachments/20240117/efb0755e/attachment.html>",
+      "body_snippet": "We will restart our biweekly meetings on Friday, Jan 19 at 12:00 EST, and every other Friday thereafter.  You can join either in person @Stone 3301 or online at https://fsu.zoom.us/my/ralmond\n\nThe top",
+      "thread_id": "thread-f2c7af6e65af",
+      "thread_depth": 0,
+      "month": "2024-01"
+    },
+    {
+      "id": "msg-e59a65a69714",
+      "message_id": "<2001a90b-7013-48c8-8ea8-e2150f68a8cb@fsu.edu>",
+      "from_name": "Russell Almond",
+      "from_email_hash": "163c7891dcfc07c029df85ce46e68258336f96a47c4fb8152878c9c1fd1e668f",
+      "date": "2024-01-30T17:15:40Z",
+      "subject": "[Epls-r-users] R Group Survey",
+      "subject_clean": "[Epls-r-users] R Group Survey",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "I was disappointed that nobody showed up for the last R group session.  We have another one this Friday, I will again be at Stone building 3301, as well as online in my personal Zoom room, https://fsu.zoom.us/my/ralmond.\n\nI've also put together a little survey to assess how many people are actively interested as well as get some ideas about topics and possible alternate times.\n\nHere is the link:  https://fsu.qualtrics.com/jfe/form/SV_8cEPa4caCY5mtSK\n\nIt is not anonymous, but the questions aren't that embarrassing.\n\n    --Russell\n\n\n\n\n--\nRussell Almond\nAssociate Professor, Measurement & Statistics\nEducational Psychology and Learning Systems\nCollege of Education, Health, and Human Sciences\n1114 W. Call St.\nFlorida State University\nTallahassee, FL 32306\nralmond at fsu.edu<mailto:ralmond at fsu.edu>\nhttp://ralmond.net/\nAppointment calendar: https://doodle.com/bp/russellalmond/book-a-time\n-------------- next part --------------\nAn HTML attachment was scrubbed...\nURL: <http://lists.fsu.edu/pipermail/epls-r-users/attachments/20240130/845b1a8a/attachment.html>",
+      "body_snippet": "I was disappointed that nobody showed up for the last R group session.  We have another one this Friday, I will again be at Stone building 3301, as well as online in my personal Zoom room, https://fsu",
+      "thread_id": "thread-e59a65a69714",
+      "thread_depth": 0,
+      "month": "2024-01"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-f2c7af6e65af",
+      "subject": "[Epls-r-users] Staring up again for the spring",
+      "message_count": 1,
+      "participants": [
+        "Russell Almond"
+      ],
+      "started": "2024-01-17T21:42:58Z",
+      "last_reply": "2024-01-17T21:42:58Z",
+      "root_message_id": "msg-f2c7af6e65af"
+    },
+    {
+      "id": "thread-e59a65a69714",
+      "subject": "[Epls-r-users] R Group Survey",
+      "message_count": 1,
+      "participants": [
+        "Russell Almond"
+      ],
+      "started": "2024-01-30T17:15:40Z",
+      "last_reply": "2024-01-30T17:15:40Z",
+      "root_message_id": "msg-e59a65a69714"
+    }
+  ]
+}

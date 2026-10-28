@@ -1,0 +1,36 @@
+{
+  "list": "epls-r-users",
+  "description": "",
+  "month": "2023-04",
+  "messages": [
+    {
+      "id": "msg-f84d6858ea4e",
+      "message_id": "<9AF28C1F-6495-45E7-A01E-875DF3682516@fsu.edu>",
+      "from_name": "Russell Almond",
+      "from_email_hash": "a6c4ae19691f64d19ee92feaed62aacdbe6fe45cb626ed958608e6b65f8aa095",
+      "date": "2023-04-27T16:49:58Z",
+      "subject": "[Epls-r-users] LaTeX class tomorrow and A possible resource",
+      "subject_clean": "[Epls-r-users] LaTeX class tomorrow and A possible resource",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "I found this link lying around, might be useful:\n\nhttps://learningstatisticswithr-bookdown.netlify.app/\n\nAlso, this Friday, April 28, at 12:00 EDT, I?ll go over some things about LaTeX.\n\nIt will be on my Zoom link\nHttps://fsu.zoom.us/my/ralmond\n\n  ?Russell",
+      "body_snippet": "I found this link lying around, might be useful:\n\nhttps://learningstatisticswithr-bookdown.netlify.app/\n\nAlso, this Friday, April 28, at 12:00 EDT, I?ll go over some things about LaTeX.\n\nIt will be on",
+      "thread_id": "thread-f84d6858ea4e",
+      "thread_depth": 0,
+      "month": "2023-04"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-f84d6858ea4e",
+      "subject": "[Epls-r-users] LaTeX class tomorrow and A possible resource",
+      "message_count": 1,
+      "participants": [
+        "Russell Almond"
+      ],
+      "started": "2023-04-27T16:49:58Z",
+      "last_reply": "2023-04-27T16:49:58Z",
+      "root_message_id": "msg-f84d6858ea4e"
+    }
+  ]
+}

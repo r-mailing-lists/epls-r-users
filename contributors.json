@@ -1,0 +1,123 @@
+[
+  {
+    "name": "Russell Almond",
+    "slug": "russell-almond",
+    "emailHash": "163c7891dcfc07c029df85ce46e68258336f96a47c4fb8152878c9c1fd1e668f",
+    "messageCount": 51,
+    "firstDate": "2019-03-01T17:16:09Z",
+    "lastDate": "2026-01-30T15:26:52Z",
+    "yearlyActivity": {
+      "2019": 7,
+      "2020": 18,
+      "2021": 7,
+      "2022": 7,
+      "2023": 2,
+      "2024": 5,
+      "2025": 4,
+      "2026": 1
+    }
+  },
+  {
+    "name": "Kari Roberts",
+    "slug": "kari-roberts",
+    "emailHash": "deec6fd88f69d264fcdfe0e47395a2a7587f79ff820c12873179cde14e24969c",
+    "messageCount": 12,
+    "firstDate": "2024-02-29T14:56:53Z",
+    "lastDate": "2024-10-16T15:39:46Z",
+    "yearlyActivity": {
+      "2024": 12
+    }
+  },
+  {
+    "name": "Hyun Jeong Oh",
+    "slug": "hyun-jeong-oh",
+    "emailHash": "947ae72b886eac947c3c9ea76538f34e9961626d2143fb259738baa5916c044a",
+    "messageCount": 8,
+    "firstDate": "2026-01-14T14:00:18Z",
+    "lastDate": "2026-04-21T18:40:05Z",
+    "yearlyActivity": {
+      "2026": 8
+    }
+  },
+  {
+    "name": "Russell Almond",
+    "slug": "russell-almond",
+    "emailHash": "6b34b8e02d2839ada514f53827478fde28fa4a5ef1ef776e4d19f1f6b630aa42",
+    "messageCount": 5,
+    "firstDate": "2020-03-25T18:35:46Z",
+    "lastDate": "2023-08-31T17:28:13Z",
+    "yearlyActivity": {
+      "2020": 2,
+      "2022": 1,
+      "2023": 2
+    }
+  },
+  {
+    "name": "almond at acm.org",
+    "slug": "almond-at-acm-org",
+    "emailHash": "00e7c8c46e4588e0b419ef5dc7b3e468116fbae6eafcecc5d6b37466fce14a15",
+    "messageCount": 3,
+    "firstDate": "2020-05-13T19:55:31Z",
+    "lastDate": "2020-07-22T01:09:51Z",
+    "yearlyActivity": {
+      "2020": 3
+    }
+  },
+  {
+    "name": "Russell Almond",
+    "slug": "russell-almond",
+    "emailHash": "a6c4ae19691f64d19ee92feaed62aacdbe6fe45cb626ed958608e6b65f8aa095",
+    "messageCount": 3,
+    "firstDate": "2021-10-26T21:45:51Z",
+    "lastDate": "2023-09-06T15:56:22Z",
+    "yearlyActivity": {
+      "2021": 1,
+      "2023": 2
+    }
+  },
+  {
+    "name": "Russell Almond",
+    "slug": "russell-almond",
+    "emailHash": "312adfd96039250121f1a4edada5a19f2f05b0dbd9867eff1330b0dbdd263a09",
+    "messageCount": 2,
+    "firstDate": "2022-09-15T15:43:25Z",
+    "lastDate": "2025-09-18T17:59:21Z",
+    "yearlyActivity": {
+      "2022": 1,
+      "2025": 1
+    }
+  },
+  {
+    "name": "Russell Almond (via Doodle)",
+    "slug": "russell-almond-via-doodle",
+    "emailHash": "f3e030b637a11766c83c9360db9489450cc8fc1c04e363895d40330b83f23d41",
+    "messageCount": 2,
+    "firstDate": "2020-02-18T16:26:33Z",
+    "lastDate": "2020-05-07T19:21:25Z",
+    "yearlyActivity": {
+      "2020": 2
+    }
+  },
+  {
+    "name": "Russell Almond",
+    "slug": "russell-almond",
+    "emailHash": "3a151089f395125731ac51c3cc10d39234073d920c7b1984b8bd41179132a0e1",
+    "messageCount": 1,
+    "firstDate": "2020-05-01T19:52:07Z",
+    "lastDate": "2020-05-01T19:52:07Z",
+    "yearlyActivity": {
+      "2020": 1
+    }
+  },
+  {
+    "name": "Google Calendar",
+    "slug": "google-calendar",
+    "emailHash": "5aac80e47416eb15477c41a09ac805d72dda34f97e072a0a9a49dc4c803e0cf7",
+    "messageCount": 1,
+    "firstDate": "2022-09-16T15:50:01Z",
+    "lastDate": "2022-09-16T15:50:01Z",
+    "yearlyActivity": {
+      "2022": 1
+    }
+  }
+]

@@ -1,0 +1,38 @@
+{
+  "list": "epls-r-users",
+  "description": "",
+  "month": "2024-04",
+  "messages": [
+    {
+      "id": "msg-310178b3e838",
+      "message_id": "<LV3P220MB17025F8FCD8E6C005B6320A0A8102@LV3P220MB1702.NAMP220.PROD.OUTLOOK.COM>",
+      "from_name": "Kari Roberts",
+      "from_email_hash": "deec6fd88f69d264fcdfe0e47395a2a7587f79ff820c12873179cde14e24969c",
+      "date": "2024-04-24T18:31:16Z",
+      "subject": "[Epls-r-users] R group this Friday!",
+      "subject_clean": "[Epls-r-users] R group this Friday!",
+      "in_reply_to": "<LV3P220MB170277477E88E4257CCEDBDAA85F2@LV3P220MB1702.NAMP220.PROD.OUTLOOK.COM>",
+      "references": [
+        "<LV3P220MB170277477E88E4257CCEDBDAA85F2@LV3P220MB1702.NAMP220.PROD.OUTLOOK.COM>"
+      ],
+      "body_plain": "Hi everyone!\n\nThe R group will be meeting this Friday, in Stone Building room 3203 (or Zoom: https://fsu.zoom.us/j/98450885843<https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Ffsu.zoom.us%2Fj%2F98450885843&data=05%7C02%7Cepls-r-users%40lists.fsu.edu%7C64c7389d42cb4dea18d608dc648cbaa4%7Ca36450ebdb0642a78d1b026719f701e3%7C0%7C0%7C638495802783425776%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=OoxwfAcR3Zb4ae6zdJVM7G4zKGEySoLkSfWyDdvhf8o%3D&reserved=0>) at noon. This week, we will be working to get the FSU Thesis/Dissertation LaTeX template running in R markdown/quarto.\n\nIf you want to learn how to save yourself some time on the manuscript clearance side of the thesis and dissertation process, please come join us!\n\nIf you need access to the R group canvas site, you can join here:\n\nhttps://canvas.fsu.edu/enroll/AWFYCW<https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcanvas.fsu.edu%2Fenroll%2FAWFYCW&data=05%7C02%7Cepls-r-users%40lists.fsu.edu%7C64c7389d42cb4dea18d608dc648cbaa4%7Ca36450ebdb0642a78d1b026719f701e3%7C0%7C0%7C638495802783582144%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=13KsiM1g5VUtJ4zyEwvFI7Aq97cML00ygnJjIA4dZdE%3D&reserved=0>\n\nHope to see many of you this Friday!\n\n\n\n\nKari Roberts\n\nDirector of Strategic Planning and Assessment\n\nDivision of Student Affairs\n\nFlorida State University\n\n313 Westcott Building\n\nTallahassee, FL 32306-1340\n-------------- next part --------------\nAn HTML attachment was scrubbed...\nURL: <http://lists.fsu.edu/pipermail/epls-r-users/attachments/20240424/b6082454/attachment.html>",
+      "body_snippet": "Hi everyone!\n\nThe R group will be meeting this Friday, in Stone Building room 3203 (or Zoom: https://fsu.zoom.us/j/98450885843<https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Ffsu.zoo",
+      "thread_id": "thread-310178b3e838",
+      "thread_depth": 0,
+      "month": "2024-04"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-310178b3e838",
+      "subject": "[Epls-r-users] R group this Friday!",
+      "message_count": 1,
+      "participants": [
+        "Kari Roberts"
+      ],
+      "started": "2024-04-24T18:31:16Z",
+      "last_reply": "2024-04-24T18:31:16Z",
+      "root_message_id": "msg-310178b3e838"
+    }
+  ]
+}

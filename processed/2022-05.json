@@ -1,0 +1,63 @@
+{
+  "list": "epls-r-users",
+  "description": "",
+  "month": "2022-05",
+  "messages": [
+    {
+      "id": "msg-01dec4996f92",
+      "message_id": "<90cfaec1-319e-8259-0b9a-568963559605@fsu.edu>",
+      "from_name": "Russell Almond",
+      "from_email_hash": "163c7891dcfc07c029df85ce46e68258336f96a47c4fb8152878c9c1fd1e668f",
+      "date": "2022-05-02T19:53:47Z",
+      "subject": "[Epls-r-users] 2022 Summer Schedule Poll",
+      "subject_clean": "[Epls-r-users] 2022 Summer Schedule Poll",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "I've set up a Doodle poll for a time for our summer meetings.\n\nLet me know what works for you:\n\nhttps://doodle.com/meeting/participate/id/e9ry5gYa\n\nHopefully, we can get back together next week.\n\nI'm going to try to take a look at the DescTools package for that time.\n\n    --Russell\n\n\n\n\n\n\n\n\n\n\n\n-------------- next part --------------\nAn HTML attachment was scrubbed...\nURL: <http://lists.fsu.edu/pipermail/epls-r-users/attachments/20220502/e516f47c/attachment.html>",
+      "body_snippet": "I've set up a Doodle poll for a time for our summer meetings.\n\nLet me know what works for you:\n\nhttps://doodle.com/meeting/participate/id/e9ry5gYa\n\nHopefully, we can get back together next week.\n\nI'm ",
+      "thread_id": "thread-01dec4996f92",
+      "thread_depth": 0,
+      "month": "2022-05"
+    },
+    {
+      "id": "msg-061fc0d4c25d",
+      "message_id": "<0cce1414-3982-6daf-0e0a-a61b31cab828@fsu.edu>",
+      "from_name": "Russell Almond",
+      "from_email_hash": "163c7891dcfc07c029df85ce46e68258336f96a47c4fb8152878c9c1fd1e668f",
+      "date": "2022-05-02T19:56:58Z",
+      "subject": "[Epls-r-users] Mailing List Changes",
+      "subject_clean": "[Epls-r-users] Mailing List Changes",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "FSU is making a mail change which will have the following effects:\n\nFor current students @my.fsu.edu will be changed to @fsu.edu.\n\nAny Alumni who are receiving these messages through their @my.fsu.edu accounts, feel free to subscribe using a different method.  (We love having our Alumni correspond with us.  Feel free to post your job listings, and let us know if you want to come and give a talk, either in person, or via Zoom).\n\nA couple of different ways you can update your subscription:\n\n1) Visit https://lists.fsu.edu/mailman/listinfo/epls-r-users and fill out the form there.\n\n2) Send a message to epls-r-users-request at lists.fsu.edu<mailto:epls-r-users-request at lists.fsu.edu> with the following lines:\n\nsubscribe xxx at fsu.edu<mailto:xxx at fsu.edu>\n\nunsubscribe xxx at my.fsu.edu<mailto:xxx at my.fsu.edu>\n\nend\n\n3) Or email me and I'll take care of it (eventually).\n\nThanks for being part of the R group in the past, and I hope you will continue.\n\n-------------- next part --------------\nAn HTML attachment was scrubbed...\nURL: <http://lists.fsu.edu/pipermail/epls-r-users/attachments/20220502/bf3b5d31/attachment.html>",
+      "body_snippet": "FSU is making a mail change which will have the following effects:\n\nFor current students @my.fsu.edu will be changed to @fsu.edu.\n\nAny Alumni who are receiving these messages through their @my.fsu.edu",
+      "thread_id": "thread-061fc0d4c25d",
+      "thread_depth": 0,
+      "month": "2022-05"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-01dec4996f92",
+      "subject": "[Epls-r-users] 2022 Summer Schedule Poll",
+      "message_count": 1,
+      "participants": [
+        "Russell Almond"
+      ],
+      "started": "2022-05-02T19:53:47Z",
+      "last_reply": "2022-05-02T19:53:47Z",
+      "root_message_id": "msg-01dec4996f92"
+    },
+    {
+      "id": "thread-061fc0d4c25d",
+      "subject": "[Epls-r-users] Mailing List Changes",
+      "message_count": 1,
+      "participants": [
+        "Russell Almond"
+      ],
+      "started": "2022-05-02T19:56:58Z",
+      "last_reply": "2022-05-02T19:56:58Z",
+      "root_message_id": "msg-061fc0d4c25d"
+    }
+  ]
+}

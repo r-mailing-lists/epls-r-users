@@ -1,0 +1,238 @@
+From russell at ralmond.net  Wed Mar  1 10:20:08 2023
+From: russell at ralmond.net (Russell Almond)
+Date: Wed, 1 Mar 2023 10:20:08 -0500
+Subject: [Epls-r-users] Fwd: Our PROGRAMMING Humble Bundle starts now!
+In-Reply-To: <7f22e9d06dac9fadee60e1e45.db1722c9b2.20230227190018.d7638a2709.1878423c@mail231.atl271.mcdlv.net>
+References: <7f22e9d06dac9fadee60e1e45.db1722c9b2.20230227190018.d7638a2709.1878423c@mail231.atl271.mcdlv.net>
+Message-ID: <5e901e24-d985-cdeb-ab09-16a5816ab98f@ralmond.net>
+
+
+
+
+-------- Forwarded Message --------
+Return-Path: 
+<SRS0=YUZI=6X=mail231.atl271.mcdlv.net=bounce-mc.us4_8849809.306375-db1722c9b2 at srs.mailroute.net> 
+
+Delivered-To: 	russell at ralmond.net
+Received: 	from fiji.serverchamber.com by fiji.serverchamber.com with 
+LMTP id C3RtLlH+/GMWHgAAf+zL7A (envelope-from 
+<SRS0=YUZI=6X=mail231.atl271.mcdlv.net=bounce-mc.us4_8849809.306375-db1722c9b2 at srs.mailroute.net>) 
+for <russell at ralmond.net>; Mon, 27 Feb 2023 19:02:41 +0000
+Return-path: 
+<SRS0=YUZI=6X=mail231.atl271.mcdlv.net=bounce-mc.us4_8849809.306375-db1722c9b2 at srs.mailroute.net> 
+
+Envelope-to: 	russell at ralmond.net
+Delivery-date: 	Mon, 27 Feb 2023 14:02:41 -0500
+Received: 	from 001.mia.mailroute.net ([199.89.3.4]:40838) by 
+fiji.serverchamber.com with esmtps (TLS1.2) tls 
+TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384 (Exim 4.93) (envelope-from 
+<SRS0=YUZI=6X=mail231.atl271.mcdlv.net=bounce-mc.us4_8849809.306375-db1722c9b2 at srs.mailroute.net>) 
+id 1pWill-0001n8-J2 for russell at ralmond.net; Mon, 27 Feb 2023 14:02:41 
+-0500
+Received: 	from in-012.lax.mailroute.net (012.lax.mailroute.net 
+[199.89.1.15]) (using TLSv1.2 with cipher AECDH-AES256-SHA (256/256 
+bits)) (No client certificate requested) by 001.mia.mailroute.net 
+(Postfix) with ESMTPS id 4PQVGw4gblz2LX8M for <russell at ralmond.net>; 
+Mon, 27 Feb 2023 19:02:00 +0000 (UTC)
+Received: 	from localhost (012.lax.mailroute.net [127.0.0.1]) by 
+in-012.lax.mailroute.net (Postfix) with ESMTP id 4PQVGv4qHKz2DdBJ for 
+<almond at acm.org>; Mon, 27 Feb 2023 19:01:59 +0000 (UTC)
+X-Virus-Scanned: 	by MailRoute
+X-Spam-Level: 	
+X-Spam-Language: 	en
+X-Spam-Relay-Countries: 	US **
+Authentication-Results: 	012.lax (mroute_mailscanner); dkim=pass 
+(2048-bit key) header.d=nostarch.com
+Received: 	from in-012.lax.mailroute.net ([199.89.1.15]) by localhost 
+(012.lax [127.0.0.1]) (mroute_mailscanner, port 10024) with LMTP id 
+Xn76zjEzXM0l for <almond at acm.org>; Mon, 27 Feb 2023 19:01:57 +0000 (UTC)
+Received: 	from mail231.atl271.mcdlv.net (mail231.atl271.mcdlv.net 
+[198.2.142.231]) (using TLSv1.2 with cipher AECDH-AES256-SHA (256/256 
+bits)) (No client certificate requested) by in-012.lax.mailroute.net 
+(Postfix) with ESMTPS id 4PQVGr5HMbz2DdBB for <almond at acm.org>; Mon, 27 
+Feb 2023 19:01:56 +0000 (UTC)
+Authentication-Results: 	mail.mailroute.net; dmarc=pass (p=reject 
+dis=none) header.from=nostarch.com
+Authentication-Results: 	mail.mailroute.net; spf=pass 
+smtp.mailfrom=bounce-mc.us4_8849809.306375-db1722c9b2 at mail231.atl271.mcdlv.net 
+
+Authentication-Results: 	mail.mailroute.net; dkim=pass (2048-bit key) 
+header.d=nostarch.com header.i=info at nostarch.com header.b="F6wKqf5i"
+DKIM-Signature: 	v=1; a=rsa-sha256; c=relaxed/relaxed; d=nostarch.com; 
+s=k3; t=1677524449; x=1677582049; i=info at nostarch.com; 
+bh=4+WBdocIfNevFiFkiny6yuFRWPkFTUw32KChGOjhnA4=; 
+h=Subject:From:Reply-To:To:Date:Message-ID:X-MC-User:Feedback-ID: 
+List-ID:List-Unsubscribe:List-Unsubscribe-Post:Content-Type: 
+MIME-Version:CC:Date:Subject:From; 
+b=F6wKqf5iHL22lAuKQRMp/Nv5CeYENdNbm05ysiYPJ6ZXZKka+w1b0HRgM0KmM44NS 
+Q2AfHQw4qhgQrzNmZsKhExM4mpJx7Yd1j0578+DjbDcRq0uSIkSZ6lVFQrAvbd4e4v 
+jvFgzkjm9rhWo/ixbbnJmvauNRPx++7xMDB1ZAcY84fOsepMUFUh+IQzw3PD9FunfZ 
+d2s15Oe2hV0AjpIY6ML5aIuEarSUgFMsf/WJL6O9mKYtQ5T6s3N61vz8OqVWRBk4Ke 
+XxPnnzv5Vfv0lf80V0TEwHMkIoi3e00EOCH7LoxsYQn85TXwr6PFscYYVqzmmQjuFY 
+rS1hUDBlscWxQ==
+Received: 	from localhost (localhost [127.0.0.1]) by 
+mail231.atl271.mcdlv.net (Mailchimp) with ESMTP id 4PQVFY0DT9zBST1 for 
+<almond at acm.org>; Mon, 27 Feb 2023 19:00:49 +0000 (GMT)
+Subject: 	Our PROGRAMMING Humble Bundle starts now!
+From: 	No Starch Press <info at nostarch.com>
+Reply-To: 	No Starch Press <info at nostarch.com>
+To: 	almond at acm.org
+Date: 	Mon, 27 Feb 2023 19:00:28 +0000
+Message-ID: 
+<7f22e9d06dac9fadee60e1e45.db1722c9b2.20230227190018.d7638a2709.1878423c at mail231.atl271.mcdlv.net> 
+
+X-Mailer: 	Mailchimp Mailer - **CIDd7638a2709db1722c9b2**
+X-Campaign: 	mailchimp7f22e9d06dac9fadee60e1e45.d7638a2709
+X-campaignid: 	mailchimp7f22e9d06dac9fadee60e1e45.d7638a2709
+X-Report-Abuse: 	Please report abuse for this campaign here: 
+https://urldefense.com/v3/__https://mailchimp.com/contact/abuse/?u=7f22e9d06dac9fadee60e1e45&id=d7638a2709&e=db1722c9b2__;!!PhOWcWs!xXpgq2CnyH_L_i7_YG0kCZltI_Ph3x8QXr8vvUIVAyMuAUKUVMvIKHqMiVQRb18FAHQo6V_kcqnZIgaZ_hYRrQwy9g$  
+
+X-MC-User: 	7f22e9d06dac9fadee60e1e45
+Feedback-ID: 	8849809:8849809.306375:us4:mc
+List-ID: 	7f22e9d06dac9fadee60e1e45mc list 
+<7f22e9d06dac9fadee60e1e45.58469.list-id.mcsv.net>
+X-Accounttype: 	pd
+List-Unsubscribe: 
+<https://urldefense.com/v3/__https://nostarch.us4.list-manage.com/unsubscribe?u=7f22e9d06dac9fadee60e1e45&id=158a5b7b06&e=db1722c9b2&c=d7638a2709__;!!PhOWcWs!xXpgq2CnyH_L_i7_YG0kCZltI_Ph3x8QXr8vvUIVAyMuAUKUVMvIKHqMiVQRb18FAHQo6V_kcqnZIgaZ_haNkhX9Cg$ >, 
+<mailto:unsubscribe-mc.us4_7f22e9d06dac9fadee60e1e45.d7638a2709-db1722c9b2 at unsubscribe.mailchimpapp.net?subject=unsubscribe> 
+
+List-Unsubscribe-Post: 	List-Unsubscribe=One-Click
+Content-Type: 	multipart/alternative; 
+boundary="_----------=_MCPart_1615389187"
+MIME-Version: 	1.0
+
+
+
+Our PROGRAMMING Humble Bundle starts now! Pay what you want for up to 18 
+ebooks & support our favorite charity...
+
+View this email in your browser 
+<https://urldefense.com/v3/__https://mailchi.mp/nostarch/programming_humble_bundle?e=db1722c9b2__;!!PhOWcWs!xXpgq2CnyH_L_i7_YG0kCZltI_Ph3x8QXr8vvUIVAyMuAUKUVMvIKHqMiVQRb18FAHQo6V_kcqnZIgaZ_haUCbutZA$ >
+
+<https://urldefense.com/v3/__https://nostarch.us4.list-manage.com/track/click?u=7f22e9d06dac9fadee60e1e45&id=07ae026cfe&e=db1722c9b2__;!!PhOWcWs!xXpgq2CnyH_L_i7_YG0kCZltI_Ph3x8QXr8vvUIVAyMuAUKUVMvIKHqMiVQRb18FAHQo6V_kcqnZIgaZ_hZZU6oMJA$ > 
+
+
+
+*Think more logically. Think more creatively. *
+*Think Like a Programmer 
+<https://urldefense.com/v3/__https://nostarch.us4.list-manage.com/track/click?u=7f22e9d06dac9fadee60e1e45&id=4ff390e69a&e=db1722c9b2__;!!PhOWcWs!xXpgq2CnyH_L_i7_YG0kCZltI_Ph3x8QXr8vvUIVAyMuAUKUVMvIKHqMiVQRb18FAHQo6V_kcqnZIgaZ_ha_aLpcLA$ >:*
+
+A Humble Book Bundle 
+<https://urldefense.com/v3/__https://nostarch.us4.list-manage.com/track/click?u=7f22e9d06dac9fadee60e1e45&id=30d1127aa7&e=db1722c9b2__;!!PhOWcWs!xXpgq2CnyH_L_i7_YG0kCZltI_Ph3x8QXr8vvUIVAyMuAUKUVMvIKHqMiVQRb18FAHQo6V_kcqnZIgaZ_hZ9_evO2Q$ >?by 
+No Starch Press
+
+Sure, ChatGPT can write boilerplate code. But programming is about so 
+much more than just using a language. It's about persistence and 
+problem-solving, understanding machine organization,?working efficiently 
+with data structures?the list goes on.
+
+That's why we've teamed up with Humble Bundle to offer you a 
+hand-picked, human-worthy collection of some of our favorite programming 
+titles.?Now until March 20th, pay what you want for?up to?18 DRM-free 
+ebooks?that cover everything from clean code to computer architecture.
+
+Plus, our *Think Like a Programmer* 
+<https://urldefense.com/v3/__https://nostarch.us4.list-manage.com/track/click?u=7f22e9d06dac9fadee60e1e45&id=1bc00fd31f&e=db1722c9b2__;!!PhOWcWs!xXpgq2CnyH_L_i7_YG0kCZltI_Ph3x8QXr8vvUIVAyMuAUKUVMvIKHqMiVQRb18FAHQo6V_kcqnZIgaZ_hYFr7Rqag$ >**bundle 
+benefits the Electronic Frontier Foundation 
+<https://urldefense.com/v3/__https://nostarch.us4.list-manage.com/track/click?u=7f22e9d06dac9fadee60e1e45&id=05c6961ff2&e=db1722c9b2__;!!PhOWcWs!xXpgq2CnyH_L_i7_YG0kCZltI_Ph3x8QXr8vvUIVAyMuAUKUVMvIKHqMiVQRb18FAHQo6V_kcqnZIgaZ_hYq4ysUAg$ > 
+(EFF)?the leading nonprofit?defending online privacy, free speech, and 
+innovation.
+. . .
+Thank you for supporting our authors,?and the causes closest to all of 
+our hearts.
+
+?Your Friends at No Starch Press
+
+
+Pay $1 to unlock these titles: 
+<https://urldefense.com/v3/__https://nostarch.us4.list-manage.com/track/click?u=7f22e9d06dac9fadee60e1e45&id=afc72fe172&e=db1722c9b2__;!!PhOWcWs!xXpgq2CnyH_L_i7_YG0kCZltI_Ph3x8QXr8vvUIVAyMuAUKUVMvIKHqMiVQRb18FAHQo6V_kcqnZIgaZ_hZ1BUQWfw$ > 
+
+
+<https://urldefense.com/v3/__https://nostarch.us4.list-manage.com/track/click?u=7f22e9d06dac9fadee60e1e45&id=c7bf86ca62&e=db1722c9b2__;!!PhOWcWs!xXpgq2CnyH_L_i7_YG0kCZltI_Ph3x8QXr8vvUIVAyMuAUKUVMvIKHqMiVQRb18FAHQo6V_kcqnZIgaZ_haIC-kwfg$ > 
+
+
+Pay $10 or more to also unlock these titles: 
+<https://urldefense.com/v3/__https://nostarch.us4.list-manage.com/track/click?u=7f22e9d06dac9fadee60e1e45&id=3497ab8e56&e=db1722c9b2__;!!PhOWcWs!xXpgq2CnyH_L_i7_YG0kCZltI_Ph3x8QXr8vvUIVAyMuAUKUVMvIKHqMiVQRb18FAHQo6V_kcqnZIgaZ_haJfGVUjw$ > 
+
+
+<https://urldefense.com/v3/__https://nostarch.us4.list-manage.com/track/click?u=7f22e9d06dac9fadee60e1e45&id=059ff4a1e7&e=db1722c9b2__;!!PhOWcWs!xXpgq2CnyH_L_i7_YG0kCZltI_Ph3x8QXr8vvUIVAyMuAUKUVMvIKHqMiVQRb18FAHQo6V_kcqnZIgaZ_hak9fkTgw$ > 
+
+
+Pay $18 or more to also unlock these titles: 
+<https://urldefense.com/v3/__https://nostarch.us4.list-manage.com/track/click?u=7f22e9d06dac9fadee60e1e45&id=c2087d5d50&e=db1722c9b2__;!!PhOWcWs!xXpgq2CnyH_L_i7_YG0kCZltI_Ph3x8QXr8vvUIVAyMuAUKUVMvIKHqMiVQRb18FAHQo6V_kcqnZIgaZ_hatk2gPLA$ > 
+
+
+<https://urldefense.com/v3/__https://nostarch.us4.list-manage.com/track/click?u=7f22e9d06dac9fadee60e1e45&id=b31e81101b&e=db1722c9b2__;!!PhOWcWs!xXpgq2CnyH_L_i7_YG0kCZltI_Ph3x8QXr8vvUIVAyMuAUKUVMvIKHqMiVQRb18FAHQo6V_kcqnZIgaZ_hZ_XLw3bA$ > 
+
+
+Pay $30 or more to also unlock these titles: 
+<https://urldefense.com/v3/__https://nostarch.us4.list-manage.com/track/click?u=7f22e9d06dac9fadee60e1e45&id=424a88e1b9&e=db1722c9b2__;!!PhOWcWs!xXpgq2CnyH_L_i7_YG0kCZltI_Ph3x8QXr8vvUIVAyMuAUKUVMvIKHqMiVQRb18FAHQo6V_kcqnZIgaZ_hZ7eRqYDQ$ > 
+
+
+<https://urldefense.com/v3/__https://nostarch.us4.list-manage.com/track/click?u=7f22e9d06dac9fadee60e1e45&id=26fe07966a&e=db1722c9b2__;!!PhOWcWs!xXpgq2CnyH_L_i7_YG0kCZltI_Ph3x8QXr8vvUIVAyMuAUKUVMvIKHqMiVQRb18FAHQo6V_kcqnZIgaZ_hbpbQgi6g$ > 
+
+
+Pay $40 or more to also unlock these titles: 
+<https://urldefense.com/v3/__https://nostarch.us4.list-manage.com/track/click?u=7f22e9d06dac9fadee60e1e45&id=5b01add68b&e=db1722c9b2__;!!PhOWcWs!xXpgq2CnyH_L_i7_YG0kCZltI_Ph3x8QXr8vvUIVAyMuAUKUVMvIKHqMiVQRb18FAHQo6V_kcqnZIgaZ_hb0h1x_Yw$ > 
+
+
+<https://urldefense.com/v3/__https://nostarch.us4.list-manage.com/track/click?u=7f22e9d06dac9fadee60e1e45&id=3b27e941d8&e=db1722c9b2__;!!PhOWcWs!xXpgq2CnyH_L_i7_YG0kCZltI_Ph3x8QXr8vvUIVAyMuAUKUVMvIKHqMiVQRb18FAHQo6V_kcqnZIgaZ_hY5Z5MueQ$ > 
+
+
+Twitter 
+<https://urldefense.com/v3/__https://nostarch.us4.list-manage.com/track/click?u=7f22e9d06dac9fadee60e1e45&id=897c94d26d&e=db1722c9b2__;!!PhOWcWs!xXpgq2CnyH_L_i7_YG0kCZltI_Ph3x8QXr8vvUIVAyMuAUKUVMvIKHqMiVQRb18FAHQo6V_kcqnZIgaZ_hZ6jiR5UQ$ > 
+
+
+Instagram 
+<https://urldefense.com/v3/__https://nostarch.us4.list-manage.com/track/click?u=7f22e9d06dac9fadee60e1e45&id=13d05b022a&e=db1722c9b2__;!!PhOWcWs!xXpgq2CnyH_L_i7_YG0kCZltI_Ph3x8QXr8vvUIVAyMuAUKUVMvIKHqMiVQRb18FAHQo6V_kcqnZIgaZ_hZGs27B0w$ > 
+
+
+Facebook 
+<https://urldefense.com/v3/__https://nostarch.us4.list-manage.com/track/click?u=7f22e9d06dac9fadee60e1e45&id=e27278ee64&e=db1722c9b2__;!!PhOWcWs!xXpgq2CnyH_L_i7_YG0kCZltI_Ph3x8QXr8vvUIVAyMuAUKUVMvIKHqMiVQRb18FAHQo6V_kcqnZIgaZ_hbDPkXO3g$ > 
+
+
+Website 
+<https://urldefense.com/v3/__https://nostarch.us4.list-manage.com/track/click?u=7f22e9d06dac9fadee60e1e45&id=344d29fbe7&e=db1722c9b2__;!!PhOWcWs!xXpgq2CnyH_L_i7_YG0kCZltI_Ph3x8QXr8vvUIVAyMuAUKUVMvIKHqMiVQRb18FAHQo6V_kcqnZIgaZ_hYOQZvEDg$ > 
+
+
+Email <mailto:info at nostarch.com>
+
+LinkedIn 
+<https://urldefense.com/v3/__https://nostarch.us4.list-manage.com/track/click?u=7f22e9d06dac9fadee60e1e45&id=cd10bcb40b&e=db1722c9b2__;!!PhOWcWs!xXpgq2CnyH_L_i7_YG0kCZltI_Ph3x8QXr8vvUIVAyMuAUKUVMvIKHqMiVQRb18FAHQo6V_kcqnZIgaZ_hYkeY55dQ$ > 
+
+
+Pinterest 
+<https://urldefense.com/v3/__https://nostarch.us4.list-manage.com/track/click?u=7f22e9d06dac9fadee60e1e45&id=16bec62e09&e=db1722c9b2__;!!PhOWcWs!xXpgq2CnyH_L_i7_YG0kCZltI_Ph3x8QXr8vvUIVAyMuAUKUVMvIKHqMiVQRb18FAHQo6V_kcqnZIgaZ_haf8SwSGw$ > 
+
+
+Reddit 
+<https://urldefense.com/v3/__https://nostarch.us4.list-manage.com/track/click?u=7f22e9d06dac9fadee60e1e45&id=e6eabe66a3&e=db1722c9b2__;!!PhOWcWs!xXpgq2CnyH_L_i7_YG0kCZltI_Ph3x8QXr8vvUIVAyMuAUKUVMvIKHqMiVQRb18FAHQo6V_kcqnZIgaZ_hY9c_Nx2g$ > 
+
+
+
+/All Humble Bundle book purchases are for ebook copies only, print books 
+are not included. Humble Bundle purchases cannot be added to your 
+_nostarch.com 
+<https://urldefense.com/v3/__https://nostarch.us4.list-manage.com/track/click?u=7f22e9d06dac9fadee60e1e45&id=9191f6342a&e=db1722c9b2__;!!PhOWcWs!xXpgq2CnyH_L_i7_YG0kCZltI_Ph3x8QXr8vvUIVAyMuAUKUVMvIKHqMiVQRb18FAHQo6V_kcqnZIgaZ_haMDQNsrQ$ >_ 
+account. If there is an issue with your order, please contact Humble 
+Bundle's support team. Promotion ends on March 20, 2023,?at 11am PT /
+
+*<https://urldefense.com/v3/__https://nostarch.us4.list-manage.com/track/click?u=7f22e9d06dac9fadee60e1e45&id=d6f99b86df&e=db1722c9b2__;!!PhOWcWs!xXpgq2CnyH_L_i7_YG0kCZltI_Ph3x8QXr8vvUIVAyMuAUKUVMvIKHqMiVQRb18FAHQo6V_kcqnZIgaZ_haMPqz3iA$ >
+
+Our mailing address is:*
+245 8th St.
+San Francisco, CA 94103
+
+?2023?No Starch Press, Inc.
+*_unsubscribe from this list 
+<https://urldefense.com/v3/__https://nostarch.us4.list-manage.com/unsubscribe?u=7f22e9d06dac9fadee60e1e45&id=158a5b7b06&e=db1722c9b2&c=d7638a2709__;!!PhOWcWs!xXpgq2CnyH_L_i7_YG0kCZltI_Ph3x8QXr8vvUIVAyMuAUKUVMvIKHqMiVQRb18FAHQo6V_kcqnZIgaZ_haNkhX9Cg$ >_?| 
+_update subscription preferences 
+<https://urldefense.com/v3/__https://nostarch.us4.list-manage.com/profile?u=7f22e9d06dac9fadee60e1e45&id=158a5b7b06&e=db1722c9b2&c=d7638a2709__;!!PhOWcWs!xXpgq2CnyH_L_i7_YG0kCZltI_Ph3x8QXr8vvUIVAyMuAUKUVMvIKHqMiVQRb18FAHQo6V_kcqnZIgaZ_hZTFcOpKw$ >_*
+
+-- 
+Russell G. Almond
+https://urldefense.com/v3/__https://ralmond.net__;!!PhOWcWs!xXpgq2CnyH_L_i7_YG0kCZltI_Ph3x8QXr8vvUIVAyMuAUKUVMvIKHqMiVQRb18FAHQo6V_kcqnZIgaZ_hahJU9rbw$ 
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.fsu.edu/pipermail/epls-r-users/attachments/20230301/4c0b8aaf/attachment.html>
+

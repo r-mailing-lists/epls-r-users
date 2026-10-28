@@ -1,0 +1,73 @@
+{
+  "list": "epls-r-users",
+  "description": "",
+  "month": "2024-10",
+  "messages": [
+    {
+      "id": "msg-33241c35fdc2",
+      "message_id": "<LV3P220MB1702C39A3C4277C2DB87C18BA8702@LV3P220MB1702.NAMP220.PROD.OUTLOOK.COM>",
+      "from_name": "Kari Roberts",
+      "from_email_hash": "deec6fd88f69d264fcdfe0e47395a2a7587f79ff820c12873179cde14e24969c",
+      "date": "2024-10-02T14:14:32Z",
+      "subject": "[Epls-r-users] R group this Friday!",
+      "subject_clean": "[Epls-r-users] R group this Friday!",
+      "in_reply_to": "<LV3P220MB1702771436ABCE918717B703A8622@LV3P220MB1702.NAMP220.PROD.OUTLOOK.COM>",
+      "references": [
+        "<LV3P220MB170277477E88E4257CCEDBDAA85F2@LV3P220MB1702.NAMP220.PROD.OUTLOOK.COM>",
+        "<LV3P220MB17025F8FCD8E6C005B6320A0A8102@LV3P220MB1702.NAMP220.PROD.OUTLOOK.COM>",
+        "<LV3P220MB1702F856B86AF807964041A0A8E52@LV3P220MB1702.NAMP220.PROD.OUTLOOK.COM>",
+        "<LV3P220MB1702237858DD53C0F1A88B1EA8EB2@LV3P220MB1702.NAMP220.PROD.OUTLOOK.COM>",
+        "<LV3P220MB170215E561BAC14036093431A8F92@LV3P220MB1702.NAMP220.PROD.OUTLOOK.COM>",
+        "<LV3P220MB17024C52F152CF681667D92AA8CF2@LV3P220MB1702.NAMP220.PROD.OUTLOOK.COM>",
+        "<LV3P220MB170259C66EE4C53603080820A88C2@LV3P220MB1702.NAMP220.PROD.OUTLOOK.COM>",
+        "<LV3P220MB17029A9768AEFFB37914DFF0A89C2@LV3P220MB1702.NAMP220.PROD.OUTLOOK.COM>",
+        "<LV3P220MB1702771436ABCE918717B703A8622@LV3P220MB1702.NAMP220.PROD.OUTLOOK.COM>"
+      ],
+      "body_plain": "Good morning everyone!\n\nWe will have our next meeting of the R group this Friday at noon in Stone G158 or zoom (https://fsu.zoom.us/j/97381084243<https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Ffsu.zoom.us%2Fj%2F97381084243&data=05%7C02%7Cepls-r-users%40lists.fsu.edu%7Ccafcef16681c4896e8f708dce2ec8993%7Ca36450ebdb0642a78d1b026719f701e3%7C0%7C0%7C638634752757123989%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=5YdqxXKWbG%2B2MS7lqT0a%2FxBoKUSxKrSVXguFDVbrjK0%3D&reserved=0>).  We will be talking about package development in R.  Even if you don't plan on building your own package, it can be really helpful to understand the process if you ever need to troubleshoot packages as a user.\n\nI hope to see many of you there!\n\n\n\nKari Roberts\n\nDirector of Strategic Planning and Assessment\n\nDivision of Student Affairs\n\nFlorida State University\n\n313 Westcott Building\n\nTallahassee, FL 32306-1340\n\n\n\n-------------- next part --------------\nAn HTML attachment was scrubbed...\nURL: <http://lists.fsu.edu/pipermail/epls-r-users/attachments/20241002/4c104f0e/attachment.html>",
+      "body_snippet": "Good morning everyone!\n\nWe will have our next meeting of the R group this Friday at noon in Stone G158 or zoom (https://fsu.zoom.us/j/97381084243<https://nam04.safelinks.protection.outlook.com/?url=ht",
+      "thread_id": "thread-33241c35fdc2",
+      "thread_depth": 0,
+      "month": "2024-10"
+    },
+    {
+      "id": "msg-59e9419776f2",
+      "message_id": "<LV3P220MB17029462BFAEBEF045176772A8462@LV3P220MB1702.NAMP220.PROD.OUTLOOK.COM>",
+      "from_name": "Kari Roberts",
+      "from_email_hash": "deec6fd88f69d264fcdfe0e47395a2a7587f79ff820c12873179cde14e24969c",
+      "date": "2024-10-16T15:39:46Z",
+      "subject": "[Epls-r-users] R group this Friday!",
+      "subject_clean": "[Epls-r-users] R group this Friday!",
+      "in_reply_to": "<LV3P220MB1702C39A3C4277C2DB87C18BA8702@LV3P220MB1702.NAMP220.PROD.OUTLOOK.COM>",
+      "references": [
+        "<LV3P220MB170277477E88E4257CCEDBDAA85F2@LV3P220MB1702.NAMP220.PROD.OUTLOOK.COM>",
+        "<LV3P220MB17025F8FCD8E6C005B6320A0A8102@LV3P220MB1702.NAMP220.PROD.OUTLOOK.COM>",
+        "<LV3P220MB1702F856B86AF807964041A0A8E52@LV3P220MB1702.NAMP220.PROD.OUTLOOK.COM>",
+        "<LV3P220MB1702237858DD53C0F1A88B1EA8EB2@LV3P220MB1702.NAMP220.PROD.OUTLOOK.COM>",
+        "<LV3P220MB170215E561BAC14036093431A8F92@LV3P220MB1702.NAMP220.PROD.OUTLOOK.COM>",
+        "<LV3P220MB17024C52F152CF681667D92AA8CF2@LV3P220MB1702.NAMP220.PROD.OUTLOOK.COM>",
+        "<LV3P220MB170259C66EE4C53603080820A88C2@LV3P220MB1702.NAMP220.PROD.OUTLOOK.COM>",
+        "<LV3P220MB17029A9768AEFFB37914DFF0A89C2@LV3P220MB1702.NAMP220.PROD.OUTLOOK.COM>",
+        "<LV3P220MB1702771436ABCE918717B703A8622@LV3P220MB1702.NAMP220.PROD.OUTLOOK.COM>",
+        "<LV3P220MB1702C39A3C4277C2DB87C18BA8702@LV3P220MB1702.NAMP220.PROD.OUTLOOK.COM>"
+      ],
+      "body_plain": "Good morning everyone!\n\nWe will have our next meeting of the R group this Friday at noon in Stone G158 or zoom (https://fsu.zoom.us/j/97381084243<https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Ffsu.zoom.us%2Fj%2F97381084243&data=05%7C02%7Cepls-r-users%40lists.fsu.edu%7C451fe68252de45a1adda08dcedf8c337%7Ca36450ebdb0642a78d1b026719f701e3%7C0%7C0%7C638646899880536464%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=s6NDcsvi6szmRxevQRh0syr%2Bc8Z67CDkwpp%2FGGtNhF4%3D&reserved=0>).  We will be talking about IRT models in R this week.\n\nI hope to see many of you there!\n\n\n\nKari Roberts\n\nDirector of Strategic Planning and Assessment\n\nDivision of Student Affairs\n\nFlorida State University\n\n313 Westcott Building\n\nTallahassee, FL 32306-1340\n\n\n\n-------------- next part --------------\nAn HTML attachment was scrubbed...\nURL: <http://lists.fsu.edu/pipermail/epls-r-users/attachments/20241016/bb51da66/attachment.html>",
+      "body_snippet": "Good morning everyone!\n\nWe will have our next meeting of the R group this Friday at noon in Stone G158 or zoom (https://fsu.zoom.us/j/97381084243<https://nam04.safelinks.protection.outlook.com/?url=ht",
+      "thread_id": "thread-33241c35fdc2",
+      "thread_depth": 1,
+      "month": "2024-10"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-33241c35fdc2",
+      "subject": "[Epls-r-users] R group this Friday!",
+      "message_count": 2,
+      "participants": [
+        "Kari Roberts"
+      ],
+      "started": "2024-10-02T14:14:32Z",
+      "last_reply": "2024-10-16T15:39:46Z",
+      "root_message_id": "msg-33241c35fdc2"
+    }
+  ]
+}

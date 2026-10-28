@@ -1,0 +1,63 @@
+{
+  "list": "epls-r-users",
+  "description": "",
+  "month": "2021-10",
+  "messages": [
+    {
+      "id": "msg-476edc0f6140",
+      "message_id": "<DM8P220MB0616438CABB8E7C3ED21A050F6AE9@DM8P220MB0616.NAMP220.PROD.OUTLOOK.COM>",
+      "from_name": "Russell Almond",
+      "from_email_hash": "163c7891dcfc07c029df85ce46e68258336f96a47c4fb8152878c9c1fd1e668f",
+      "date": "2021-10-04T13:59:56Z",
+      "subject": "[Epls-r-users] No R Group this week",
+      "subject_clean": "[Epls-r-users] No R Group this week",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "I've got an all-day TAC meeting on Wed, so I'm not available for R Group.  (You are welcome to use the meeting room, but nobody will have prepared anything.)\n\nI'll talk about my shiny apps a week from Wed.\n\n    --Russell\n\n-------------- next part --------------\nAn HTML attachment was scrubbed...\nURL: <http://lists.fsu.edu/pipermail/epls-r-users/attachments/20211004/29a2b5ad/attachment.html>",
+      "body_snippet": "I've got an all-day TAC meeting on Wed, so I'm not available for R Group.  (You are welcome to use the meeting room, but nobody will have prepared anything.)\n\nI'll talk about my shiny apps a week from",
+      "thread_id": "thread-476edc0f6140",
+      "thread_depth": 0,
+      "month": "2021-10"
+    },
+    {
+      "id": "msg-fca30f3e0215",
+      "message_id": "<660F7478-8AD8-4774-8D63-1ADAE1BCBD90@fsu.edu>",
+      "from_name": "Russell Almond",
+      "from_email_hash": "a6c4ae19691f64d19ee92feaed62aacdbe6fe45cb626ed958608e6b65f8aa095",
+      "date": "2021-10-26T21:45:51Z",
+      "subject": "[Epls-r-users] No R Group Tomorrow",
+      "subject_clean": "[Epls-r-users] No R Group Tomorrow",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "I just need to catch up on a number of things I?m behind on.\n\nWe will resum??s looking at simulations next week.\n\t?Russell",
+      "body_snippet": "I just need to catch up on a number of things I?m behind on.\n\nWe will resum??s looking at simulations next week.\n\t?Russell",
+      "thread_id": "thread-fca30f3e0215",
+      "thread_depth": 0,
+      "month": "2021-10"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-476edc0f6140",
+      "subject": "[Epls-r-users] No R Group this week",
+      "message_count": 1,
+      "participants": [
+        "Russell Almond"
+      ],
+      "started": "2021-10-04T13:59:56Z",
+      "last_reply": "2021-10-04T13:59:56Z",
+      "root_message_id": "msg-476edc0f6140"
+    },
+    {
+      "id": "thread-fca30f3e0215",
+      "subject": "[Epls-r-users] No R Group Tomorrow",
+      "message_count": 1,
+      "participants": [
+        "Russell Almond"
+      ],
+      "started": "2021-10-26T21:45:51Z",
+      "last_reply": "2021-10-26T21:45:51Z",
+      "root_message_id": "msg-fca30f3e0215"
+    }
+  ]
+}

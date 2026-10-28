@@ -1,0 +1,53 @@
+From ralmond at admin.fsu.edu  Thu Oct  3 16:59:56 2019
+From: ralmond at admin.fsu.edu (Russell Almond)
+Date: Thu, 3 Oct 2019 20:59:56 +0000
+Subject: [Epls-r-users] R Group Tomorrow
+Message-ID: <A9CBC8EE-5701-4296-8225-10234BBA5251@fsu.edu>
+
+I don?t have any volunteers for a topic tomorrow, so I?ll talk about subscripting arrays, matrixes and data frames.  This will include both some simple stuff and some advanced tricks.
+
+
+	?Russell
+
+
+
+
+From ralmond at admin.fsu.edu  Sun Oct 27 19:55:44 2019
+From: ralmond at admin.fsu.edu (Russell Almond)
+Date: Sun, 27 Oct 2019 23:55:44 +0000
+Subject: [Epls-r-users] Challenge Problem of the Week
+Message-ID: <BN6PR02MB2196382D0A9E8A2C0E50E8F1F6670@BN6PR02MB2196.namprd02.prod.outlook.com>
+
+Last week we discussed the idea of doing challenge problems in R group.
+
+Here is the challenge problem for Friday Nov 1.
+
+Beginner Mode)
+
+Write R code to test if a vector of numbers is increasing or decreasing.  Test you code to make sure it works.
+
+R User Mode)
+
+Write R functions to test if a vector is increasing, decreasing, non-increasing or non-decreasing.  Write test code for the functions.
+
+Power User Mode)
+
+Write an R function to test if a vector is monotonic, if it is monotonic, then it should also indicate whether the vector is increasing or decreasing.  Write test cases.
+
+
+I'll create a discussion board for these.
+
+This problem actually came up in something I was doing, so I have solutions to share.
+
+-------
+
+After that, I'm going to look into building exercises using R Markdown.  Maybe we can turn Wenyi's ggplot talk into an interactive tutorial.
+
+    --Russell
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.fsu.edu/pipermail/epls-r-users/attachments/20191027/2c6914b0/attachment.html>
+

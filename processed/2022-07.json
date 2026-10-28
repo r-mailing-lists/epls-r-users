@@ -1,0 +1,36 @@
+{
+  "list": "epls-r-users",
+  "description": "",
+  "month": "2022-07",
+  "messages": [
+    {
+      "id": "msg-9227a21ba427",
+      "message_id": "<c33c87bf-6ee5-49c2-7651-5090c6b2d0e7@fsu.edu>",
+      "from_name": "Russell Almond",
+      "from_email_hash": "163c7891dcfc07c029df85ce46e68258336f96a47c4fb8152878c9c1fd1e668f",
+      "date": "2022-07-22T14:26:31Z",
+      "subject": "[Epls-r-users] RCC seminars that may be interesting",
+      "subject_clean": "[Epls-r-users] RCC seminars that may be interesting",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "I just saw this information in the Research Computing Center about upcoming seminars.\n\nWe are pleased to bring back our in-person workshops for Fall, 2022!\n\n  *   Thurs, September 15: Introduction to Linux and the Command Shell\n  *   Tues, September 27: Introduction to the HPC cluster\n\nWe will send additional information via this newsletter when registration opens.\n\nI'm sure more information is available at https://rcc.fsu.edu/\n\nThe RCC provides a number of free (and paid, but you need a grant for that) resources for scientific computing including Stat Packages:  R, JAGS, SPSS, Stata\n\nProgramming Tools:  PyTorch, TensorFlow, GNU Octave, Julia, MATLAB\n\nFree-tier RCC accounts are available to FSU students working on research projects.  I am happy to sponsor M&S Students and R Group members; just send me an email with a short (one paragraph) description of your project.\n\n-------------- next part --------------\nAn HTML attachment was scrubbed...\nURL: <http://lists.fsu.edu/pipermail/epls-r-users/attachments/20220722/6ecf38fe/attachment.html>",
+      "body_snippet": "I just saw this information in the Research Computing Center about upcoming seminars.\n\nWe are pleased to bring back our in-person workshops for Fall, 2022!\n\n  *   Thurs, September 15: Introduction to ",
+      "thread_id": "thread-9227a21ba427",
+      "thread_depth": 0,
+      "month": "2022-07"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-9227a21ba427",
+      "subject": "[Epls-r-users] RCC seminars that may be interesting",
+      "message_count": 1,
+      "participants": [
+        "Russell Almond"
+      ],
+      "started": "2022-07-22T14:26:31Z",
+      "last_reply": "2022-07-22T14:26:31Z",
+      "root_message_id": "msg-9227a21ba427"
+    }
+  ]
+}

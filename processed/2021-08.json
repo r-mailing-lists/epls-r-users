@@ -1,0 +1,63 @@
+{
+  "list": "epls-r-users",
+  "description": "",
+  "month": "2021-08",
+  "messages": [
+    {
+      "id": "msg-a23e5f5f1bf6",
+      "message_id": "<DM8P220MB06164F7F43F699C2340229FEF6C49@DM8P220MB0616.NAMP220.PROD.OUTLOOK.COM>",
+      "from_name": "Russell Almond",
+      "from_email_hash": "163c7891dcfc07c029df85ce46e68258336f96a47c4fb8152878c9c1fd1e668f",
+      "date": "2021-08-23T18:27:59Z",
+      "subject": "[Epls-r-users] R User Group Meeting Time Poll",
+      "subject_clean": "[Epls-r-users] R User Group Meeting Time Poll",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Here is a doodle link for possible meeting times for the R group.  These are weekly times (even though I have only given one week of dates).\n\nhttps://doodle.com/poll/caqmwn3xe5pwsdh9?utm_source=poll&utm_medium=link\n\nWe will meet through Zoom as that seemed to work fairly well last fall and involve 90% fewer parking difficulties.\n\n    --Russell\n\n-------------- next part --------------\nAn HTML attachment was scrubbed...\nURL: <http://lists.fsu.edu/pipermail/epls-r-users/attachments/20210823/42bf2d42/attachment.html>",
+      "body_snippet": "Here is a doodle link for possible meeting times for the R group.  These are weekly times (even though I have only given one week of dates).\n\nhttps://doodle.com/poll/caqmwn3xe5pwsdh9?utm_source=poll&u",
+      "thread_id": "thread-a23e5f5f1bf6",
+      "thread_depth": 0,
+      "month": "2021-08"
+    },
+    {
+      "id": "msg-79dfdc6b84c7",
+      "message_id": "<DM8P220MB0616CF0F9B5547109E669C1DF6C89@DM8P220MB0616.NAMP220.PROD.OUTLOOK.COM>",
+      "from_name": "Russell Almond",
+      "from_email_hash": "163c7891dcfc07c029df85ce46e68258336f96a47c4fb8152878c9c1fd1e668f",
+      "date": "2021-08-27T20:46:31Z",
+      "subject": "[Epls-r-users] Starting up for Fall 2021",
+      "subject_clean": "[Epls-r-users] Starting up for Fall 2021",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "It looks like the R User group will meet Weds at 2:00 on Zoom using the following Zoom link:\n\nhttps://fsu.zoom.us/j/99423948380\n\nAt the first meeting, we will talk about (a) Scheduling Topics for the rest of the semester\n\nand (2) using the DiagrammeR package and graphviz to draw diagrams.\n\n    --Russell\n\n-------------- next part --------------\nAn HTML attachment was scrubbed...\nURL: <http://lists.fsu.edu/pipermail/epls-r-users/attachments/20210827/566f0fb9/attachment.html>",
+      "body_snippet": "It looks like the R User group will meet Weds at 2:00 on Zoom using the following Zoom link:\n\nhttps://fsu.zoom.us/j/99423948380\n\nAt the first meeting, we will talk about (a) Scheduling Topics for the ",
+      "thread_id": "thread-79dfdc6b84c7",
+      "thread_depth": 0,
+      "month": "2021-08"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-a23e5f5f1bf6",
+      "subject": "[Epls-r-users] R User Group Meeting Time Poll",
+      "message_count": 1,
+      "participants": [
+        "Russell Almond"
+      ],
+      "started": "2021-08-23T18:27:59Z",
+      "last_reply": "2021-08-23T18:27:59Z",
+      "root_message_id": "msg-a23e5f5f1bf6"
+    },
+    {
+      "id": "thread-79dfdc6b84c7",
+      "subject": "[Epls-r-users] Starting up for Fall 2021",
+      "message_count": 1,
+      "participants": [
+        "Russell Almond"
+      ],
+      "started": "2021-08-27T20:46:31Z",
+      "last_reply": "2021-08-27T20:46:31Z",
+      "root_message_id": "msg-79dfdc6b84c7"
+    }
+  ]
+}

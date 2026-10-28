@@ -1,0 +1,289 @@
+From ralmond at admin.fsu.edu  Wed Jul  1 15:53:13 2020
+From: ralmond at admin.fsu.edu (Russell Almond)
+Date: Wed, 1 Jul 2020 19:53:13 +0000
+Subject: [Epls-r-users] R User Group Interest Survey
+Message-ID: <DM6PR02MB7068F45BCBBAD2AEED927CCFF66C0@DM6PR02MB7068.namprd02.prod.outlook.com>
+
+I've put together a short survey on topics for the R user group:
+
+https://fsu.qualtrics.com/jfe/form/SV_2f2muC3RbvBMcex
+
+There are a fair number of fill-in-the blank questions.  These are mostly along the lines of what topics should we cover and what can we do differently.
+
+Hopefully, this will help make the R User Group more useful for everybody.
+
+    --Russell
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.fsu.edu/pipermail/epls-r-users/attachments/20200701/5662b44b/attachment.html>
+
+From russell at ralmond.net  Mon Jul  6 16:41:37 2020
+From: russell at ralmond.net (Russell Almond)
+Date: Mon, 6 Jul 2020 16:41:37 -0400
+Subject: [Epls-r-users] Fwd: Learn data science essentials with this ebook
+ bundle by Taylor & Francis
+In-Reply-To: <DF.82.26395.2AA830F5@bh.mta2vrest.cc.prd.sparkpost>
+References: <DF.82.26395.2AA830F5@bh.mta2vrest.cc.prd.sparkpost>
+Message-ID: <bfe384b4-f92c-2540-ff2b-cad2e8980d0f@ralmond.net>
+
+I haven't looked at the list, but this is a lot of books for $25.
+
+
+
+-------- Forwarded Message --------
+Return-Path: 
+<SRS0=fgsn=AR=mailer.humblebundle.com=bounces+almond=acm.org at srs.mailroute.net> 
+
+Delivered-To: 	russell at ralmond.net
+Received: 	from fiji.serverchamber.com by fiji.serverchamber.com with 
+LMTP id 7oJ2OdqKA1+TOAAAf+zL7A (envelope-from 
+<SRS0=fgsn=AR=mailer.humblebundle.com=bounces+almond=acm.org at srs.mailroute.net>) 
+for <russell at ralmond.net>; Mon, 06 Jul 2020 20:34:34 +0000
+Return-path: 
+<SRS0=fgsn=AR=mailer.humblebundle.com=bounces+almond=acm.org at srs.mailroute.net> 
+
+Envelope-to: 	russell at ralmond.net
+Delivery-date: 	Mon, 06 Jul 2020 16:34:34 -0400
+Received: 	from 002.mia.mailroute.net ([199.89.3.5]:45943) by 
+fiji.serverchamber.com with esmtps 
+(TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256) (Exim 4.92) (envelope-from 
+<SRS0=fgsn=AR=mailer.humblebundle.com=bounces+almond=acm.org at srs.mailroute.net>) 
+id 1jsXow-0003kK-RD for russell at ralmond.net; Mon, 06 Jul 2020 16:34:34 
+-0400
+Received: 	from in-002.mia.mailroute.net (002.mia.mailroute.net 
+[199.89.3.5]) (using TLSv1.2 with cipher AECDH-AES256-SHA (256/256 
+bits)) (No client certificate requested) by 002.mia.mailroute.net 
+(Postfix) with ESMTPS id 4B0y2p1MBRz25hlv for <russell at ralmond.net>; 
+Mon, 6 Jul 2020 20:33:54 +0000 (UTC)
+Received: 	from localhost (002.mia.mailroute.net [127.0.0.1]) by 
+in-002.mia.mailroute.net (Postfix) with ESMTP id 4B0y2n1JDvz25jB6 for 
+<almond at acm.org>; Mon, 6 Jul 2020 20:33:53 +0000 (UTC)
+X-Virus-Scanned: 	by MailRoute
+X-Spam-Level: 	
+X-Spam-Language: 	en
+X-Spam-Relay-Countries: 	US
+Authentication-Results: 	002.mia (mroute_mailscanner); dkim=pass 
+(1024-bit key) header.d=mailer.humblebundle.com
+Received: 	from in-002.mia.mailroute.net ([199.89.3.5]) by localhost 
+(002.mia [127.0.0.1]) (mroute_mailscanner, port 10024) with LMTP id 
+plQhFc8vvwwh for <almond at acm.org>; Mon, 6 Jul 2020 20:33:42 +0000 (UTC)
+Received: 	from mta-88-229.sparkpostmail.com 
+(mta-88-229.sparkpostmail.com [192.174.88.229]) (using TLSv1.2 with 
+cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits)) (No client 
+certificate requested) by in-002.mia.mailroute.net (Postfix) with ESMTPS 
+id 4B0y2Y2T6Wz25jGG for <almond at acm.org>; Mon, 6 Jul 2020 20:33:40 +0000 
+(UTC)
+Authentication-Results: 	mail.mailroute.net; dmarc=none (p=none 
+dis=none) header.from=mailer.humblebundle.com
+Authentication-Results: 	mail.mailroute.net; spf=pass 
+smtp.mailfrom=bounces+almond=acm.org at mailer.humblebundle.com
+Authentication-Results: 	mail.mailroute.net; dkim=pass (1024-bit key) 
+header.d=mailer.humblebundle.com header.i=@mailer.humblebundle.com 
+header.b="cgtoSds/"
+DKIM-Signature: 	v=1; a=rsa-sha256; c=relaxed/relaxed; 
+d=mailer.humblebundle.com; s=scph0816; t=1594067618; 
+i=@mailer.humblebundle.com; 
+bh=7ZyJjEbbszECgydi6GvThsEDOs4Owk1JPXW+TiM+Bd8=; 
+h=Content-Type:To:Message-ID:Date:Subject:From; 
+b=cgtoSds/OJAtqyLow2KKJXunSDIiV3jVJ5Z0V6rMySMgYvHdpxXop26I1S4tXoRoP 
+vFaXifdfZTltAzG1mtUusfeoElJdTj9XtSj2M0slSiojEdTUmAgUNrnLuiOp8PuIlZ 
+DHe2UkVPQ3SD/GRgGhROXSsxnRTTb3gmQCdrkiCg=
+X-MSFBL: 
+qamaUIcoF1XroeBdZxQrpjN9mfmxMsCcprLJk5HD5pE=|eyJyIjoiYWxtb25kQGF 
+jbS5vcmciLCJtZXNzYWdlX2lkIjoiMDAzY2EyOGEwMzVmMWI2N2ZkMjgiLCJjdXN 
+0b21lcl9pZCI6IjEiLCJ0ZW5hbnRfaWQiOiJjb3JkaWFsIiwic3ViYWNjb3VudF9 
+pZCI6IjEzIn0=
+Content-Transfer-Encoding: 	quoted-printable
+Content-Type: 	text/html; charset="UTF-8"
+To: 	almond at acm.org
+Message-ID: 	<DF.82.26395.2AA830F5 at bh.mta2vrest.cc.prd.sparkpost>
+Date: 	Mon, 06 Jul 2020 20:33:38 +0000
+MIME-Version: 	1.0
+Subject: 	Learn data science essentials with this ebook bundle by Taylor 
+& Francis
+From: 	Humble Bundle <contact at mailer.humblebundle.com>
+X-Crdl-Mc: 	102:5eff7220523cf1062171ca13:ot:572fcfaabef2f4f641ac1b76:1
+X-Feedback-ID: 
+102:102_5eff7220523cf1062171ca13_ot:572fcfaabef2f4f641ac1b76:cordial
+Reply-To: 	noreply at humblebundle.com
+List-Unsubscribe: 
+<mailto:unsubscribe at sp.crdl.io?subject=unsubscribe:YfI8rB-C_SeTlL_J1lKQ-auMcwUQpMkRWaEdabaN6yM~%7CeyAicmNwdF90byI6ICJhbG1vbmRAYWNtLm9yZyIsICJ0ZW5hbnRfaWQiOiAiY29yZGlhbCIsICJjdXN0b21lcl9pZCI6ICIxIiwgIm1lc3NhZ2VfaWQiOiAiMDAzY2EyOGEwMzVmMWI2N2ZkMjgiLCAic3ViYWNjb3VudF9pZCI6ICIxMyIgfQ~~> 
+
+List-Id: 	<cordial.1.13.sparkpostmail.com>
+
+
+
+Humble Bundle
+Pay what you want and support charity, too!
+Humble Bundle 
+<https://urldefense.com/v3/__https://e.mailer.humblebundle.com/c2/102:5eff7220523cf1062171ca13:ot:572fcfaabef2f4f641ac1b76:1/bd2c4e47?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE1OTQwNjc2MTgsImNkIjoiLm1haWxlci5odW1ibGVidW5kbGUuY29tIiwiY2UiOjg2NDAwLCJ0ayI6Imh1bWJsZWJ1bmRsZWxpdmUiLCJtdGxJRCI6IjVlZmY3MjIzNGVmZjNlMmFhYTEwYWFmYiIsImxpbmtVcmwiOiJodHRwczpcL1wvd3d3Lmh1bWJsZWJ1bmRsZS5jb21cLz9saW5rSUQ9Jm1jSUQ9MTAyOjVlZmY3MjIwNTIzY2YxMDYyMTcxY2ExMzpvdDo1NzJmY2ZhYWJlZjJmNGY2NDFhYzFiNzY6MSZ1dG1fc291cmNlPUh1bWJsZStCdW5kbGUrTmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj0yMDIwXzA3XzA2X2RhdGFzY2llbmNlZXNzZW50aWFsc19ib29rYnVuZGxlJmxpbmtJRD17JGxpbmtJRH0mdXRtX2NvbnRlbnQ9aHVtYmxlX2xvZ28ifQ&jwtS=FtglFd1dqQeA7n1bT1_HyeAgsWQeBQBN4rtZAOmjINI__;!!PhOWcWs!lRK_TUmIyhn0y_UpO9cPh9nVjnb_J1QFlf3Isma0O_MfrZILmYekcSA08uFZSsrbpXGqsLFS$ > 
+
+
+
+Humble Book Bundle: Data Science Essentials by Taylor & Francis 
+<https://urldefense.com/v3/__https://e.mailer.humblebundle.com/c2/102:5eff7220523cf1062171ca13:ot:572fcfaabef2f4f641ac1b76:1/ced8dd3f?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE1OTQwNjc2MTgsImNkIjoiLm1haWxlci5odW1ibGVidW5kbGUuY29tIiwiY2UiOjg2NDAwLCJ0ayI6Imh1bWJsZWJ1bmRsZWxpdmUiLCJtdGxJRCI6IjVlZmY3MjIzNGVmZjNlMmFhYTEwYWFmYyIsImxpbmtVcmwiOiJodHRwczpcL1wvd3d3Lmh1bWJsZWJ1bmRsZS5jb21cL2Jvb2tzXC9kYXRhLXNjaWVuY2UtZXNzZW50aWFscy1ib29rcz9saW5rSUQ9Jm1jSUQ9MTAyOjVlZmY3MjIwNTIzY2YxMDYyMTcxY2ExMzpvdDo1NzJmY2ZhYWJlZjJmNGY2NDFhYzFiNzY6MSZ1dG1fc291cmNlPUh1bWJsZStCdW5kbGUrTmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj0yMDIwXzA3XzA2X2RhdGFzY2llbmNlZXNzZW50aWFsc19ib29rYnVuZGxlJmxpbmtJRD0mdXRtX2NvbnRlbnQ9bG9nbyJ9&jwtS=Ooym1JLy0t7F4NoKWuqVV5CG-4_reE4G944qtjxZ2fY__;!!PhOWcWs!lRK_TUmIyhn0y_UpO9cPh9nVjnb_J1QFlf3Isma0O_MfrZILmYekcSA08uFZSsrbpQT7RBNw$ > 
+
+/Frontiers in Data Science/, /Testing R Code/, /The Essentials of Data 
+Science/, & more
+Humble Book Bundle: Data Science Essentials by Taylor & Francis 
+<https://urldefense.com/v3/__https://e.mailer.humblebundle.com/c2/102:5eff7220523cf1062171ca13:ot:572fcfaabef2f4f641ac1b76:1/899abf46?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE1OTQwNjc2MTgsImNkIjoiLm1haWxlci5odW1ibGVidW5kbGUuY29tIiwiY2UiOjg2NDAwLCJ0ayI6Imh1bWJsZWJ1bmRsZWxpdmUiLCJtdGxJRCI6IjVlZmY3MjIzNGVmZjNlMmFhYTEwYWFmZCIsImxpbmtVcmwiOiJodHRwczpcL1wvd3d3Lmh1bWJsZWJ1bmRsZS5jb21cL2Jvb2tzXC9kYXRhLXNjaWVuY2UtZXNzZW50aWFscy1ib29rcz9saW5rSUQ9Jm1jSUQ9MTAyOjVlZmY3MjIwNTIzY2YxMDYyMTcxY2ExMzpvdDo1NzJmY2ZhYWJlZjJmNGY2NDFhYzFiNzY6MSZ1dG1fc291cmNlPUh1bWJsZStCdW5kbGUrTmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj0yMDIwXzA3XzA2X2RhdGFzY2llbmNlZXNzZW50aWFsc19ib29rYnVuZGxlJmxpbmtJRD0mdXRtX2NvbnRlbnQ9aGVyb19pbWFnZSJ9&jwtS=a_8Odj9ZD1RO2TeCOM7RItE1q2fMDTRJOhIkKebMAd0__;!!PhOWcWs!lRK_TUmIyhn0y_UpO9cPh9nVjnb_J1QFlf3Isma0O_MfrZILmYekcSA08uFZSsrbpVFe5iV_$ > 
+
+Check it out 
+<https://urldefense.com/v3/__https://e.mailer.humblebundle.com/c2/102:5eff7220523cf1062171ca13:ot:572fcfaabef2f4f641ac1b76:1/7d59f0ab?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE1OTQwNjc2MTgsImNkIjoiLm1haWxlci5odW1ibGVidW5kbGUuY29tIiwiY2UiOjg2NDAwLCJ0ayI6Imh1bWJsZWJ1bmRsZWxpdmUiLCJtdGxJRCI6IjVlZmY3MjIzNGVmZjNlMmFhYTEwYWFmZSIsImxpbmtVcmwiOiJodHRwczpcL1wvd3d3Lmh1bWJsZWJ1bmRsZS5jb21cL2Jvb2tzXC9kYXRhLXNjaWVuY2UtZXNzZW50aWFscy1ib29rcz9saW5rSUQ9Jm1jSUQ9MTAyOjVlZmY3MjIwNTIzY2YxMDYyMTcxY2ExMzpvdDo1NzJmY2ZhYWJlZjJmNGY2NDFhYzFiNzY6MSZ1dG1fc291cmNlPUh1bWJsZStCdW5kbGUrTmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj0yMDIwXzA3XzA2X2RhdGFzY2llbmNlZXNzZW50aWFsc19ib29rYnVuZGxlJmxpbmtJRD0mdXRtX2NvbnRlbnQ9Y3RhX2J1dHRvbiJ9&jwtS=iRyfD3d7sLz9rtbobf256YW_m92jD_RvdFYN150lq9Y__;!!PhOWcWs!lRK_TUmIyhn0y_UpO9cPh9nVjnb_J1QFlf3Isma0O_MfrZILmYekcSA08uFZSsrbpYRHvYHN$ > 
+Remind me 
+<https://urldefense.com/v3/__https://e.mailer.humblebundle.com/c2/102:5eff7220523cf1062171ca13:ot:572fcfaabef2f4f641ac1b76:1/b317b6f0?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE1OTQwNjc2MTgsImNkIjoiLm1haWxlci5odW1ibGVidW5kbGUuY29tIiwiY2UiOjg2NDAwLCJ0ayI6Imh1bWJsZWJ1bmRsZWxpdmUiLCJtdGxJRCI6IjVlZmY3MjIzNGVmZjNlMmFhYTEwYWFmZiIsImxpbmtVcmwiOiJodHRwczpcL1wvd3d3Lmh1bWJsZWJ1bmRsZS5jb21cL2Jvb2tzXC9kYXRhLXNjaWVuY2UtZXNzZW50aWFscy1ib29rcz9saW5rSUQ9Jm1jSUQ9MTAyOjVlZmY3MjIwNTIzY2YxMDYyMTcxY2ExMzpvdDo1NzJmY2ZhYWJlZjJmNGY2NDFhYzFiNzY6MSZ1dG1fc291cmNlPUh1bWJsZStCdW5kbGUrTmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj0yMDIwXzA3XzA2X2RhdGFzY2llbmNlZXNzZW50aWFsc19ib29rYnVuZGxlJmxpbmtJRD0mdXRtX2NvbnRlbnQ9cmVtaW5kbWVfYnV0dG9uJnJlbWluZG1lPTEifQ&jwtS=uT2jWv2QhkwIZlOJ5DOshMp5J-AiDbS80rk2Q7osFpQ__;!!PhOWcWs!lRK_TUmIyhn0y_UpO9cPh9nVjnb_J1QFlf3Isma0O_MfrZILmYekcSA08uFZSsrbpbtdANx2$ > 
+
+
+Supporting:
+
+Code.org 
+<https://urldefense.com/v3/__https://e.mailer.humblebundle.com/c2/102:5eff7220523cf1062171ca13:ot:572fcfaabef2f4f641ac1b76:1/f6928524?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE1OTQwNjc2MTgsImNkIjoiLm1haWxlci5odW1ibGVidW5kbGUuY29tIiwiY2UiOjg2NDAwLCJ0ayI6Imh1bWJsZWJ1bmRsZWxpdmUiLCJtdGxJRCI6IjVlZmY3MjIzNGVmZjNlMmFhYTEwYWIwMCIsImxpbmtVcmwiOiJodHRwczpcL1wvd3d3Lmh1bWJsZWJ1bmRsZS5jb21cL2Jvb2tzXC9kYXRhLXNjaWVuY2UtZXNzZW50aWFscy1ib29rcz9saW5rSUQ9Jm1jSUQ9MTAyOjVlZmY3MjIwNTIzY2YxMDYyMTcxY2ExMzpvdDo1NzJmY2ZhYWJlZjJmNGY2NDFhYzFiNzY6MSZ1dG1fc291cmNlPUh1bWJsZStCdW5kbGUrTmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj0yMDIwXzA3XzA2X2RhdGFzY2llbmNlZXNzZW50aWFsc19ib29rYnVuZGxlJmxpbmtJRD0mdXRtX2NvbnRlbnQ9Y2hhcml0eV9sb2dvcyJ9&jwtS=s8UHVXK7lzcuu5tbb3b_hEMBmMbM73_gUGFSiMJH7ZA__;!!PhOWcWs!lRK_TUmIyhn0y_UpO9cPh9nVjnb_J1QFlf3Isma0O_MfrZILmYekcSA08uFZSsrbpe3hwBvO$ > 
+
+
+
+This book bundle brings you easily accessible technology essentials for 
+business
+Humble Book Bundle: Technology Essentials for Business by Manning 
+Publications 
+<https://urldefense.com/v3/__https://e.mailer.humblebundle.com/c2/102:5eff7220523cf1062171ca13:ot:572fcfaabef2f4f641ac1b76:1/f8197d27?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE1OTQwNjc2MTgsImNkIjoiLm1haWxlci5odW1ibGVidW5kbGUuY29tIiwiY2UiOjg2NDAwLCJ0ayI6Imh1bWJsZWJ1bmRsZWxpdmUiLCJtdGxJRCI6IjVlZmY3MjIzNGVmZjNlMmFhYTEwYWIwMSIsImxpbmtVcmwiOiJodHRwczpcL1wvd3d3Lmh1bWJsZWJ1bmRsZS5jb21cL2Jvb2tzXC90ZWNobm9sb2d5LWVzc2VudGlhbHMtZm9yLWJ1c2luZXNzLW1hbm5pbmctcHVibGljYXRpb25zLWJvb2tzP2xpbmtJRD0mbWNJRD0xMDI6NWVmZjcyMjA1MjNjZjEwNjIxNzFjYTEzOm90OjU3MmZjZmFhYmVmMmY0ZjY0MWFjMWI3NjoxJnV0bV9zb3VyY2U9SHVtYmxlK0J1bmRsZStOZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPTIwMjBfMDdfMDZfZGF0YXNjaWVuY2Vlc3NlbnRpYWxzX2Jvb2tidW5kbGUmbGlua0lEPSZ1dG1fY29udGVudD1sb2dvIn0&jwtS=lOsSyX0Cro3sgJ5S25edcNtoFfhF-zCd9qq9hsUhCEk__;!!PhOWcWs!lRK_TUmIyhn0y_UpO9cPh9nVjnb_J1QFlf3Isma0O_MfrZILmYekcSA08uFZSsrbpSzN_U6y$ > 
+
+Get it now 
+<https://urldefense.com/v3/__https://e.mailer.humblebundle.com/c2/102:5eff7220523cf1062171ca13:ot:572fcfaabef2f4f641ac1b76:1/c2f66a27?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE1OTQwNjc2MTgsImNkIjoiLm1haWxlci5odW1ibGVidW5kbGUuY29tIiwiY2UiOjg2NDAwLCJ0ayI6Imh1bWJsZWJ1bmRsZWxpdmUiLCJtdGxJRCI6IjVlZmY3MjIzNGVmZjNlMmFhYTEwYWIwMiIsImxpbmtVcmwiOiJodHRwczpcL1wvd3d3Lmh1bWJsZWJ1bmRsZS5jb21cL2Jvb2tzXC90ZWNobm9sb2d5LWVzc2VudGlhbHMtZm9yLWJ1c2luZXNzLW1hbm5pbmctcHVibGljYXRpb25zLWJvb2tzP2xpbmtJRD0mbWNJRD0xMDI6NWVmZjcyMjA1MjNjZjEwNjIxNzFjYTEzOm90OjU3MmZjZmFhYmVmMmY0ZjY0MWFjMWI3NjoxJnV0bV9zb3VyY2U9SHVtYmxlK0J1bmRsZStOZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPTIwMjBfMDdfMDZfZGF0YXNjaWVuY2Vlc3NlbnRpYWxzX2Jvb2tidW5kbGUmbGlua0lEPSZ1dG1fY29udGVudD1jdGFfYnV0dG9uIn0&jwtS=25PmZAMVZIpjlo0pxHirqJTODjghe15ipBXerqHGvNU__;!!PhOWcWs!lRK_TUmIyhn0y_UpO9cPh9nVjnb_J1QFlf3Isma0O_MfrZILmYekcSA08uFZSsrbpYsROrTo$ > 
+
+
+<https://urldefense.com/v3/__http://e.mailer.humblebundle.com/c2/102:5eff7220523cf1062171ca13:ot:572fcfaabef2f4f641ac1b76:1/d0d35691?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE1OTQwNjc2MTgsImNkIjoiLm1haWxlci5odW1ibGVidW5kbGUuY29tIiwiY2UiOjg2NDAwLCJ0ayI6Imh1bWJsZWJ1bmRsZWxpdmUiLCJtdGxJRCI6IjVlZmY3MjIzNGVmZjNlMmFhYTEwYWIwMyIsImxpbmtVcmwiOiJodHRwOlwvXC93d3cuZmFjZWJvb2suY29tXC9odW1ibGVidW5kbGUifQ&jwtS=j4aNDPlAcZWJI2GUr9ssdyeWn5YLn2Ke8EsYotRPtN4__;!!PhOWcWs!lRK_TUmIyhn0y_UpO9cPh9nVjnb_J1QFlf3Isma0O_MfrZILmYekcSA08uFZSsrbpY40htkG$ > 
+
+
+	
+<https://urldefense.com/v3/__http://e.mailer.humblebundle.com/c2/102:5eff7220523cf1062171ca13:ot:572fcfaabef2f4f641ac1b76:1/00b31117?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE1OTQwNjc2MTgsImNkIjoiLm1haWxlci5odW1ibGVidW5kbGUuY29tIiwiY2UiOjg2NDAwLCJ0ayI6Imh1bWJsZWJ1bmRsZWxpdmUiLCJtdGxJRCI6IjVlZmY3MjIzNGVmZjNlMmFhYTEwYWIwMyIsImxpbmtVcmwiOiJodHRwOlwvXC93d3cudHdpdHRlci5jb21cL2h1bWJsZSJ9&jwtS=ItYl3fZc7wW8FLly7bLcSrILdETy1EUfC5rmHPET008__;!!PhOWcWs!lRK_TUmIyhn0y_UpO9cPh9nVjnb_J1QFlf3Isma0O_MfrZILmYekcSA08uFZSsrbpRo1a09y$ > 
+
+
+	
+<https://urldefense.com/v3/__https://e.mailer.humblebundle.com/c2/102:5eff7220523cf1062171ca13:ot:572fcfaabef2f4f641ac1b76:1/63eb8385?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE1OTQwNjc2MTgsImNkIjoiLm1haWxlci5odW1ibGVidW5kbGUuY29tIiwiY2UiOjg2NDAwLCJ0ayI6Imh1bWJsZWJ1bmRsZWxpdmUiLCJtdGxJRCI6IjVlZmY3MjIzNGVmZjNlMmFhYTEwYWIwMyIsImxpbmtVcmwiOiJodHRwczpcL1wvd3d3LnR3aXRjaC50dlwvaHVtYmxlIn0&jwtS=wSlrQ40WiMoCRZiBgq7MiPwY36wHw1S5kYv1OLaaVPs__;!!PhOWcWs!lRK_TUmIyhn0y_UpO9cPh9nVjnb_J1QFlf3Isma0O_MfrZILmYekcSA08uFZSsrbpYo8AV0D$ > 
+
+
+	
+<https://urldefense.com/v3/__https://e.mailer.humblebundle.com/c2/102:5eff7220523cf1062171ca13:ot:572fcfaabef2f4f641ac1b76:1/1763d2a9?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE1OTQwNjc2MTgsImNkIjoiLm1haWxlci5odW1ibGVidW5kbGUuY29tIiwiY2UiOjg2NDAwLCJ0ayI6Imh1bWJsZWJ1bmRsZWxpdmUiLCJtdGxJRCI6IjVlZmY3MjIzNGVmZjNlMmFhYTEwYWIwMyIsImxpbmtVcmwiOiJodHRwczpcL1wvd3d3Lmluc3RhZ3JhbS5jb21cL2h1bWJsZWJ1bmRsZVwvIn0&jwtS=V3nNlN7YAzsEhG0E4s2PbcFCC3mb2pkmZdoKiSt-1ng__;!!PhOWcWs!lRK_TUmIyhn0y_UpO9cPh9nVjnb_J1QFlf3Isma0O_MfrZILmYekcSA08uFZSsrbpXY2pdjN$ > 
+
+
+	
+<https://urldefense.com/v3/__https://e.mailer.humblebundle.com/c2/102:5eff7220523cf1062171ca13:ot:572fcfaabef2f4f641ac1b76:1/4e029acd?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE1OTQwNjc2MTgsImNkIjoiLm1haWxlci5odW1ibGVidW5kbGUuY29tIiwiY2UiOjg2NDAwLCJ0ayI6Imh1bWJsZWJ1bmRsZWxpdmUiLCJtdGxJRCI6IjVlZmY3MjIzNGVmZjNlMmFhYTEwYWIwMyIsImxpbmtVcmwiOiJodHRwczpcL1wvYmxvZy5odW1ibGVidW5kbGUuY29tXC8ifQ&jwtS=nQA5zCf_IVIr7It7JW2iyuKdAuyXB3djwM3kydzHaYo__;!!PhOWcWs!lRK_TUmIyhn0y_UpO9cPh9nVjnb_J1QFlf3Isma0O_MfrZILmYekcSA08uFZSsrbpcfwavSe$ > 
+
+
+
+This email was sent to almond at acm.org
+unsubscribe 
+<https://urldefense.com/v3/__https://e.mailer.humblebundle.com/c2/102:5eff7220523cf1062171ca13:ot:572fcfaabef2f4f641ac1b76:1/b78172c4?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE1OTQwNjc2MTgsImNkIjoiLm1haWxlci5odW1ibGVidW5kbGUuY29tIiwiY2UiOjg2NDAwLCJ0ayI6Imh1bWJsZWJ1bmRsZWxpdmUiLCJtdGxJRCI6IjVlZmY3MjIzNGVmZjNlMmFhYTEwYWIwNCIsImxpbmtVcmwiOiJodHRwczpcL1wvd3d3Lmh1bWJsZWJ1bmRsZS5jb21cL25ld3NsZXR0ZXItdXBkYXRlP2lkPTU3MmZjZmFhYmVmMmY0ZjY0MWFjMWI3NiZ1bnN1Yj0xIn0&jwtS=TPAFYvmyetInarZ0TqQk6JgqwxLVPI2t6bwRAogCj8c__;!!PhOWcWs!lRK_TUmIyhn0y_UpO9cPh9nVjnb_J1QFlf3Isma0O_MfrZILmYekcSA08uFZSsrbpQxatELU$ > 
+| email preferences 
+<https://urldefense.com/v3/__https://e.mailer.humblebundle.com/c2/102:5eff7220523cf1062171ca13:ot:572fcfaabef2f4f641ac1b76:1/24dd8917?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE1OTQwNjc2MTgsImNkIjoiLm1haWxlci5odW1ibGVidW5kbGUuY29tIiwiY2UiOjg2NDAwLCJ0ayI6Imh1bWJsZWJ1bmRsZWxpdmUiLCJtdGxJRCI6IjVlZmY3MjIzNGVmZjNlMmFhYTEwYWIwNSIsImxpbmtVcmwiOiJodHRwczpcL1wvd3d3Lmh1bWJsZWJ1bmRsZS5jb21cL25ld3NsZXR0ZXItdXBkYXRlP2lkPTU3MmZjZmFhYmVmMmY0ZjY0MWFjMWI3NiJ9&jwtS=yNdy6a_xEOMgnY4e5YbAAV-1Ij8AcXGFGI0GW4aHxGM__;!!PhOWcWs!lRK_TUmIyhn0y_UpO9cPh9nVjnb_J1QFlf3Isma0O_MfrZILmYekcSA08uFZSsrbpcU0TzM1$ > 
+| contact support 
+<https://urldefense.com/v3/__https://e.mailer.humblebundle.com/c2/102:5eff7220523cf1062171ca13:ot:572fcfaabef2f4f641ac1b76:1/c138ff0d?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE1OTQwNjc2MTgsImNkIjoiLm1haWxlci5odW1ibGVidW5kbGUuY29tIiwiY2UiOjg2NDAwLCJ0ayI6Imh1bWJsZWJ1bmRsZWxpdmUiLCJtdGxJRCI6IjVlZmY3MjIzNGVmZjNlMmFhYTEwYWIwNiIsImxpbmtVcmwiOiJodHRwczpcL1wvc3VwcG9ydC5odW1ibGVidW5kbGUuY29tXC9oY1wvZW4tdXNcL3JlcXVlc3RzXC9uZXcifQ&jwtS=ONSi96NCY3PWkZ_4DqkZqyM2WOwJMC4q6tc2EDGtpms__;!!PhOWcWs!lRK_TUmIyhn0y_UpO9cPh9nVjnb_J1QFlf3Isma0O_MfrZILmYekcSA08uFZSsrbpRDwU_DQ$ >
+? 2020 Humble Bundle Inc. | 160 Spear Street Suite 1000 | San Francisco, 
+CA 94105
+
+
+-- 
+Russell G. Almond
+https://urldefense.com/v3/__https://ralmond.net__;!!PhOWcWs!lRK_TUmIyhn0y_UpO9cPh9nVjnb_J1QFlf3Isma0O_MfrZILmYekcSA08uFZSsrbpbqbPjpF$ 
+almond at acm.org
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.fsu.edu/pipermail/epls-r-users/attachments/20200706/3600b485/attachment.html>
+
+From almond at acm.org  Tue Jul 21 21:09:51 2020
+From: almond at acm.org (almond at acm.org)
+Date: Wed, 22 Jul 2020 01:09:51 +0000
+Subject: [Epls-r-users] Updated invitation with note: Org: R User
+ Group:Guest Talk Generalized Additive Models @ Wed 2020-07-29 3:30pm -
+ 4:30pm (EDT) (epls-r-users@lists.fsu.edu)
+Message-ID: <0000000000009bee9805aafd6514@google.com>
+
+This event has been changed with this note:
+"FSU almunus Sicong (Zone) Liu will give a guest presentation on  
+Generalized Additive Models.  Like generalized linear models, these are a  
+flexible framework which support a lot of different modeling options.
+
+"
+
+Title: Org: R User Group:Guest Talk Generalized Additive Models (changed)
+FSU almunus Sicong (Zone) Liu will give a guest presentation on Generalized  
+Additive Models.&nbsp; Like generalized linear models, these are a flexible  
+framework which support a lot of different modeling options.Russell Almond  
+is inviting you to a scheduled Zoom meeting.Join Zoom  
+Meetinghttps://fsu.zoom.us/j/96920178656Meeting ID: 969 2017 8656One tap  
+mobile+13126266799,,96920178656# US (Chicago)+16465588656,,96920178656# US  
+(New York)Dial by your  
+location&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+1 312 626 6799 US  
+(Chicago)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+1 646 558 8656 US  
+(New York)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+1 301 715 8592  
+US (Germantown)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+1 346 248  
+7799 US (Houston)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+1 669 900  
+9128 US (San Jose)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+1 253  
+215 8782 US (Tacoma)Meeting ID: 969 2017 8656Find your local number:  
+https://urldefense.com/v3/__https://fsu.zoom.us/u/axvzcyjoR__;!!PhOWcWs!h5cdlyklVlSVODdqCdGqKqbnrI0m7w132xMKXMGEJwZaBpvmAYy7Qd_du8QJZSZfnLjFmb0C$  (changed)
+When: Wed 2020-07-29 3:30pm ? 4:30pm Eastern Time - New York
+Where: https://urldefense.com/v3/__https://fsu.zoom.us/j/96920178656__;!!PhOWcWs!h5cdlyklVlSVODdqCdGqKqbnrI0m7w132xMKXMGEJwZaBpvmAYy7Qd_du8QJZSZfnDx0XGyS$ 
+
+Joining info: Join with Google Meet
+https://urldefense.com/v3/__https://meet.google.com/aps-rszq-irf__;!!PhOWcWs!h5cdlyklVlSVODdqCdGqKqbnrI0m7w132xMKXMGEJwZaBpvmAYy7Qd_du8QJZSZfnJiTHcR6$ 
+
+Calendar: epls-r-users at lists.fsu.edu
+Who:
+     * almond at acm.org - organizer
+     * epls-r-users at lists.fsu.edu
+     * sicong.liu833 at duke.edu
+
+Event details:  
+https://urldefense.com/v3/__https://www.google.com/calendar/event?action=VIEW&eid=ZTEya2JudHAyaDhsMHEzNTdnaHJybXQ4Y3NfMjAyMDA3MjlUMTkzMDAwWiBlcGxzLXItdXNlcnNAbGlzdHMuZnN1LmVkdQ&tok=MTQjYWxtb25kQGFjbS5vcmcyMWIyN2UzMzJlZDBkOTFjZjhiNzYwNjdjODQ0MWQ1MzBiNDAzZjdl&ctz=America*2FNew_York&hl=en&es=0__;JQ!!PhOWcWs!h5cdlyklVlSVODdqCdGqKqbnrI0m7w132xMKXMGEJwZaBpvmAYy7Qd_du8QJZSZfnEg1_s6a$ 
+
+Invitation from Google Calendar: https://urldefense.com/v3/__https://www.google.com/calendar/__;!!PhOWcWs!h5cdlyklVlSVODdqCdGqKqbnrI0m7w132xMKXMGEJwZaBpvmAYy7Qd_du8QJZSZfnF4xfpcN$ 
+
+You are receiving this courtesy email at the account  
+epls-r-users at lists.fsu.edu because you are an attendee of this event.
+
+To stop receiving future updates for this event, decline this event.  
+Alternatively you can sign up for a Google account at  
+https://urldefense.com/v3/__https://www.google.com/calendar/__;!!PhOWcWs!h5cdlyklVlSVODdqCdGqKqbnrI0m7w132xMKXMGEJwZaBpvmAYy7Qd_du8QJZSZfnF4xfpcN$  and control your notification settings for  
+your entire calendar.
+
+Forwarding this invitation could allow any recipient to send a response to  
+the organizer and be added to the guest list, or invite others regardless  
+of their own invitation status, or to modify your RSVP. Learn more at  
+https://urldefense.com/v3/__https://support.google.com/calendar/answer/37135*forwarding__;Iw!!PhOWcWs!h5cdlyklVlSVODdqCdGqKqbnrI0m7w132xMKXMGEJwZaBpvmAYy7Qd_du8QJZSZfnEh1Qsy_$ 
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.fsu.edu/pipermail/epls-r-users/attachments/20200722/52b72121/attachment.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: not available
+Type: text/calendar
+Size: 3343 bytes
+Desc: not available
+URL: <http://lists.fsu.edu/pipermail/epls-r-users/attachments/20200722/52b72121/attachment.ics>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: invite.ics
+Type: application/ics
+Size: 3415 bytes
+Desc: not available
+URL: <http://lists.fsu.edu/pipermail/epls-r-users/attachments/20200722/52b72121/attachment.bin>
+
+From ralmond at admin.fsu.edu  Wed Jul 29 14:26:49 2020
+From: ralmond at admin.fsu.edu (Russell Almond)
+Date: Wed, 29 Jul 2020 18:26:49 +0000
+Subject: [Epls-r-users] General Additive Models
+Message-ID: <DM6PR02MB7068A4F730A7C84466361148F6700@DM6PR02MB7068.namprd02.prod.outlook.com>
+
+Just a reminder that our session today will be a guest presentation by Zone Liu about general additive models.
+
+
+Live session by zoom at 3:30, should be recorded in Canvas afterwards.
+
+    --Russell
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.fsu.edu/pipermail/epls-r-users/attachments/20200729/fdfb232f/attachment.html>
+

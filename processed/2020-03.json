@@ -1,0 +1,119 @@
+{
+  "list": "epls-r-users",
+  "description": "",
+  "month": "2020-03",
+  "messages": [
+    {
+      "id": "msg-a254a0d7e435",
+      "message_id": "<2976F230-C163-468D-8345-40F1EB061138@fsu.edu>",
+      "from_name": "Russell Almond",
+      "from_email_hash": "163c7891dcfc07c029df85ce46e68258336f96a47c4fb8152878c9c1fd1e668f",
+      "date": "2020-03-06T16:00:33Z",
+      "subject": "[Epls-r-users] Spring Announcement",
+      "subject_clean": "[Epls-r-users] Spring Announcement",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Thanks to Curt for creating the flyer.  Feel free to spread the word:\n-------------- next part --------------\nAn HTML attachment was scrubbed...\nURL: <http://lists.fsu.edu/pipermail/epls-r-users/attachments/20200306/2789267c/attachment.html>\n-------------- next part --------------\nA non-text attachment was scrubbed...\nName: RGroup2020-Meeting Poster_v2.pdf\nType: application/pdf\nSize: 519404 bytes\nDesc: RGroup2020-Meeting Poster_v2.pdf\nURL: <http://lists.fsu.edu/pipermail/epls-r-users/attachments/20200306/2789267c/attachment.pdf>",
+      "body_snippet": "Thanks to Curt for creating the flyer.  Feel free to spread the word:\n-------------- next part --------------\nAn HTML attachment was scrubbed...\nURL: <http://lists.fsu.edu/pipermail/epls-r-users/attac",
+      "thread_id": "thread-a254a0d7e435",
+      "thread_depth": 0,
+      "month": "2020-03"
+    },
+    {
+      "id": "msg-479f87773efd",
+      "message_id": "<DM6PR02MB7068B6A87BE7D0ED60A81BAAF6F00@DM6PR02MB7068.namprd02.prod.outlook.com>",
+      "from_name": "Russell Almond",
+      "from_email_hash": "163c7891dcfc07c029df85ce46e68258336f96a47c4fb8152878c9c1fd1e668f",
+      "date": "2020-03-23T17:49:44Z",
+      "subject": "[Epls-r-users] Meetings continuing virtually",
+      "subject_clean": "[Epls-r-users] Meetings continuing virtually",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "We will continue to meet Fridays at 3:45, but now using my zoom room:\n\nhttps://fsu.zoom.us/my/ralmond\n\nIf you are on campus, make sure you sign up for the canvas site:\n\nhttps://canvas.fsu.edu/enroll/AWFYCW\n\nas that is where we will post materials.\n\n    --Russell\n\n-------------- next part --------------\nAn HTML attachment was scrubbed...\nURL: <http://lists.fsu.edu/pipermail/epls-r-users/attachments/20200323/9eb2326c/attachment.html>",
+      "body_snippet": "We will continue to meet Fridays at 3:45, but now using my zoom room:\n\nhttps://fsu.zoom.us/my/ralmond\n\nIf you are on campus, make sure you sign up for the canvas site:\n\nhttps://canvas.fsu.edu/enroll/A",
+      "thread_id": "thread-479f87773efd",
+      "thread_depth": 0,
+      "month": "2020-03"
+    },
+    {
+      "id": "msg-b497eaafab8d",
+      "message_id": "<9a775a07-64f9-3a82-d90a-08506155f324@ralmond.net>",
+      "from_name": "Russell Almond",
+      "from_email_hash": "6b34b8e02d2839ada514f53827478fde28fa4a5ef1ef776e4d19f1f6b630aa42",
+      "date": "2020-03-25T18:35:46Z",
+      "subject": "[Epls-r-users] Fwd: 30% Off All ebooks!",
+      "subject_clean": "[Epls-r-users] Fwd: 30% Off All ebooks!",
+      "in_reply_to": "<7f22e9d06dac9fadee60e1e45.db1722c9b2.20200325181427.76702b8427.374f35cb@mail202.atl101.mcdlv.net>",
+      "references": [
+        "<7f22e9d06dac9fadee60e1e45.db1722c9b2.20200325181427.76702b8427.374f35cb@mail202.atl101.mcdlv.net>"
+      ],
+      "body_plain": "Some R books (as well as other computer books, and Manga guides) in this \nsale.\n\n ??? --Russell\n\n\n\n\n-------- Forwarded Message --------\nReturn-Path: \n<SRS0=gwM+=5K=mail202.atl101.mcdlv.net=bounce-mc.us4_8849809.302941-db1722c9b2 at srs.mailroute.net> \n\nDelivered-To: \trussell at ralmond.net\nReceived: \tfrom fiji.serverchamber.com by fiji.serverchamber.com with \nLMTP id sNYqCMmfe16GMAAAf+zL7A (envelope-from \n<SRS0=gwM+=5K=mail202.atl101.mcdlv.net=bounce-mc.us4_8849809.302941-db1722c9b2 at srs.mailroute.net>) \nfor <russell at ralmond.net>; Wed, 25 Mar 2020 18:15:37 +0000\nReturn-path: \n<SRS0=gwM+=5K=mail202.atl101.mcdlv.net=bounce-mc.us4_8849809.302941-db1722c9b2 at srs.mailroute.net> \n\nEnvelope-to: \trussell at ralmond.net\nDelivery-date: \tWed, 25 Mar 2020 14:15:37 -0400\nReceived: \tfrom 003.mia.mailroute.net ([199.89.3.6]:20592) by \nfiji.serverchamber.com with esmtps \n(TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256) (Exim 4.92) (envelope-from \n<SRS0=gwM+=5K=mail202.atl101.mcdlv.net=bounce-mc.us4_8849809.302941-db1722c9b2 at srs.mailroute.net>) \nid 1jHAYy-0003KL-Vp for russell at ralmond.net; Wed, 25 Mar 2020 14:15:37 \n-0400\nReceived: \tfrom in-001.lax.mailroute.net (001.lax.mailroute.net \n[199.89.1.4]) (using TLSv1.2 with cipher AECDH-AES256-SHA (256/256 \nbits)) (No client certificate requested) by 003.mia.mailroute.net \n(Postfix) with ESMTPS id 48nbr02Nsmz25gtV for <russell at ralmond.net>; \nWed, 25 Mar 2020 18:14:56 +0000 (UTC)\nReceived: \tfrom localhost (001.lax.mailroute.net [127.0.0.1]) by \nin-001.lax.mailroute.net (Postfix) with ESMTP id 48nbqz4g5Qz1M83N for \n<almond at acm.org>; Wed, 25 Mar 2020 18:14:55 +0000 (UTC)\nX-Virus-Scanned: \tby MailRoute\nX-Spam-Level: \t\nX-Spam-Language: \ten\nX-Spam-Relay-Countries: \tUS **\nAuthentication-Results: \t001.lax (mroute_mailscanner); dkim=pass \n(1024-bit key) header.d=mailchimpapp.net\nReceived: \tfrom in-001.lax.mailroute.net ([199.89.1.4]) by localhost \n(001.lax [127.0.0.1]) (mroute_mailscanner, port 10024) with LMTP id \nZ88Gku0pzVTv for <almond at acm.org>; Wed, 25 Mar 2020 18:14:53 +0000 (UTC)\nReceived: \tfrom mail202.atl101.mcdlv.net (mail202.atl101.mcdlv.net \n[198.2.130.202]) (using TLSv1.2 with cipher AECDH-AES256-SHA (256/256 \nbits)) (No client certificate requested) by in-001.lax.mailroute.net \n(Postfix) with ESMTPS id 48nbqx50wzz1M80W for <almond at acm.org>; Wed, 25 \nMar 2020 18:14:53 +0000 (UTC)\nAuthentication-Results: \tmail.mailroute.net; dmarc=none (p=none \ndis=none) header.from=nostarch.com\nAuthentication-Results: \tmail.mailroute.net; spf=pass \nsmtp.mailfrom=bounce-mc.us4_8849809.302941-db1722c9b2 at mail202.atl101.mcdlv.net \n\nAuthentication-Results: \tmail.mailroute.net; dkim=pass (1024-bit key) \nheader.d=mailchimpapp.net header.i=info=3Dnostarch.com at mailchimpapp.net \nheader.b=\"gvy83Ygo\"\nDKIM-Signature: \tv=1; a=rsa-sha256; c=relaxed/relaxed; \nd=mailchimpapp.net; s=k1; t=1585160083; \ni=info=3D3Dnostarch.com at mailchimpapp.net; \nbh=ZMI5T3lDK5VG5yIGFLW9x7aU4EKej2+EQmObMsmKE9I=; \nh=Subject:From:Reply-To:To:Date:Message-ID:List-ID:List-Unsubscribe: \nContent-Type:MIME-Version; \nb=gvy83YgoNHIQD5Yrvjx/knLqgu8eu1hvLCZx9s0bw+NCaSR6umpXu2NvODR46OJqg \n71UinI9/3nm5pMeXjX25Ttc2NXtw5czDP65nsAAa7sDpSqH4ykV3sUegnASqOuAlGk \nENwKdlTuQhsJB24qa6P6wBOYf8ldtR7P4IFCag5I=\nReceived: \tfrom localhost (localhost [127.0.0.1]) by \nmail202.atl101.mcdlv.net (Mailchimp) with ESMTP id 48nbql0gmjzKsbg49 for \n<almond at acm.org>; Wed, 25 Mar 2020 18:14:43 +0000 (GMT)\nSubject: \t30% Off All ebooks!\nFrom: \tNo Starch Press <info at nostarch.com>\nReply-To: \tNo Starch Press <info at nostarch.com>\nTo: \talmond at acm.org\nDate: \tWed, 25 Mar 2020 18:14:40 +0000\nMessage-ID: \n<7f22e9d06dac9fadee60e1e45.db1722c9b2.20200325181427.76702b8427.374f35cb at mail202.atl101.mcdlv.net> \n\nX-Mailer: \tMailChimp Mailer - **CID76702b8427db1722c9b2**\nX-Campaign: \tmailchimp7f22e9d06dac9fadee60e1e45.76702b8427\nX-campaignid: \tmailchimp7f22e9d06dac9fadee60e1e45.76702b8427\nX-Report-Abuse: \tPlease report abuse for this campaign here: \nhttps://urldefense.com/v3/__https://mailchimp.com/contact/abuse/?u=7f22e9d06dac9fadee60e1e45&id=76702b8427&e=db1722c9b2__;!!PhOWcWs!mbXB7Ngf91qzjF8zk0wIay-4lZLOT3RXFcoDNb-qCmctLBZHqHt8lS2VHs6h7TqkuiLULRyo$  \n\nX-MC-User: \t7f22e9d06dac9fadee60e1e45\nFeedback-ID: \t8849809:8849809.302941:us4:mc\nList-ID: \t7f22e9d06dac9fadee60e1e45mc list \n<7f22e9d06dac9fadee60e1e45.58469.list-id.mcsv.net>\nX-Accounttype: \tpd\nList-Unsubscribe: \n<https://urldefense.com/v3/__https://nostarch.us4.list-manage.com/unsubscribe?u=7f22e9d06dac9fadee60e1e45&id=158a5b7b06&e=db1722c9b2&c=76702b8427__;!!PhOWcWs!mbXB7Ngf91qzjF8zk0wIay-4lZLOT3RXFcoDNb-qCmctLBZHqHt8lS2VHs6h7TqkujyAuhB6$ >, \n<mailto:unsubscribe-mc.us4_7f22e9d06dac9fadee60e1e45.76702b8427-db1722c9b2 at mailin.mcsv.net?subject=unsubscribe> \n\nList-Unsubscribe-Post: \tList-Unsubscribe=One-Click\nContent-Type: \tmultipart/alternative; \nboundary=\"_----------=_MCPart_713627454\"\nMIME-Version: \t1.0\n\n\n\n30% Off All ebooks! Until April 1st, get 30% off every ebook at \nnostarch.com!\n\n<https://urldefense.com/v3/__https://nostarch.us4.list-manage.com/track/click?u=7f22e9d06dac9fadee60e1e45&id=b4356b479f&e=db1722c9b2__;!!PhOWcWs!mbXB7Ngf91qzjF8zk0wIay-4lZLOT3RXFcoDNb-qCmctLBZHqHt8lS2VHs6h7Tqkuom2mkl-$ > \n\n\nWe hope this email?finds you in good health.\n\nThough our physical office is closed, we're still hard at work crafting \nquality books for you. And we couldn't do that without your continued \nsupport.\n\nTo show our appreciation we're giving?you 30% off all ebooks at \nnostarch.com \n<https://urldefense.com/v3/__https://nostarch.us4.list-manage.com/track/click?u=7f22e9d06dac9fadee60e1e45&id=b9a765fdc3&e=db1722c9b2__;!!PhOWcWs!mbXB7Ngf91qzjF8zk0wIay-4lZLOT3RXFcoDNb-qCmctLBZHqHt8lS2VHs6h7Tqkugr-wpXv$ >?now \nthrough April 1st, 2020. (Use coupon code *THANKU30* at \nhttps://urldefense.com/v3/__https://nostarch.com__;!!PhOWcWs!mbXB7Ngf91qzjF8zk0wIay-4lZLOT3RXFcoDNb-qCmctLBZHqHt8lS2VHs6h7TqkugYT-SId$  \n<https://urldefense.com/v3/__https://nostarch.us4.list-manage.com/track/click?u=7f22e9d06dac9fadee60e1e45&id=60b7f7479e&e=db1722c9b2__;!!PhOWcWs!mbXB7Ngf91qzjF8zk0wIay-4lZLOT3RXFcoDNb-qCmctLBZHqHt8lS2VHs6h7Tqkuo2ePots$ >)\n\nUntil then, take care of yourself. We'll get through this together.\n\nThank you,\n\nYour Friends at No Starch Press\n\nP.S. Keep an eye out for more promotions in the coming weeks!\n\n<https://urldefense.com/v3/__https://nostarch.us4.list-manage.com/track/click?u=7f22e9d06dac9fadee60e1e45&id=d48887dfdb&e=db1722c9b2__;!!PhOWcWs!mbXB7Ngf91qzjF8zk0wIay-4lZLOT3RXFcoDNb-qCmctLBZHqHt8lS2VHs6h7TqkuoJ8CjdQ$ > \n\n\nFacebook \n<https://urldefense.com/v3/__https://nostarch.us4.list-manage.com/track/click?u=7f22e9d06dac9fadee60e1e45&id=bf638f5c6a&e=db1722c9b2__;!!PhOWcWs!mbXB7Ngf91qzjF8zk0wIay-4lZLOT3RXFcoDNb-qCmctLBZHqHt8lS2VHs6h7Tqkul-rmXOR$ > \n\n\nTwitter \n<https://urldefense.com/v3/__https://nostarch.us4.list-manage.com/track/click?u=7f22e9d06dac9fadee60e1e45&id=b185625640&e=db1722c9b2__;!!PhOWcWs!mbXB7Ngf91qzjF8zk0wIay-4lZLOT3RXFcoDNb-qCmctLBZHqHt8lS2VHs6h7TqkuiBzom8j$ > \n\n\nWebsite \n<https://urldefense.com/v3/__https://nostarch.us4.list-manage.com/track/click?u=7f22e9d06dac9fadee60e1e45&id=d7a6f720e2&e=db1722c9b2__;!!PhOWcWs!mbXB7Ngf91qzjF8zk0wIay-4lZLOT3RXFcoDNb-qCmctLBZHqHt8lS2VHs6h7TqkusvRRc-9$ > \n\n\nEmail <mailto:info at nostarch.com>\n\nLinkedIn \n<https://urldefense.com/v3/__https://nostarch.us4.list-manage.com/track/click?u=7f22e9d06dac9fadee60e1e45&id=5d2ffb29d3&e=db1722c9b2__;!!PhOWcWs!mbXB7Ngf91qzjF8zk0wIay-4lZLOT3RXFcoDNb-qCmctLBZHqHt8lS2VHs6h7TqkuoNuMvx2$ > \n\n\n/All eBooks (ePub, Mobi, and PDF) purchased at nostarch.com \n<https://urldefense.com/v3/__https://nostarch.us4.list-manage.com/track/click?u=7f22e9d06dac9fadee60e1e45&id=dbe312f20a&e=db1722c9b2__;!!PhOWcWs!mbXB7Ngf91qzjF8zk0wIay-4lZLOT3RXFcoDNb-qCmctLBZHqHt8lS2VHs6h7TqkuiQzatry$ >?are \nDRM-free. Please email info at nostarch.com with any?questions about your \norder.?Promotion ends Wednesday, April 1, 2020, at 11:00 PM PDT. /\n\n*Our mailing address is:*\n245 8th St.\nSan Francisco, CA 94103\n\nunsubscribe from this list \n<https://urldefense.com/v3/__https://nostarch.us4.list-manage.com/unsubscribe?u=7f22e9d06dac9fadee60e1e45&id=158a5b7b06&e=db1722c9b2&c=76702b8427__;!!PhOWcWs!mbXB7Ngf91qzjF8zk0wIay-4lZLOT3RXFcoDNb-qCmctLBZHqHt8lS2VHs6h7TqkujyAuhB6$ > \nupdate subscription preferences \n<https://urldefense.com/v3/__https://nostarch.us4.list-manage.com/profile?u=7f22e9d06dac9fadee60e1e45&id=158a5b7b06&e=db1722c9b2__;!!PhOWcWs!mbXB7Ngf91qzjF8zk0wIay-4lZLOT3RXFcoDNb-qCmctLBZHqHt8lS2VHs6h7Tqkuu4SP_67$ > \n\n\n-- \nRussell G. Almond\nhttps://urldefense.com/v3/__https://ralmond.net__;!!PhOWcWs!mbXB7Ngf91qzjF8zk0wIay-4lZLOT3RXFcoDNb-qCmctLBZHqHt8lS2VHs6h7Tqkuja_zzHC$ \nalmond at acm.org\n\n-------------- next part --------------\nAn HTML attachment was scrubbed...\nURL: <http://lists.fsu.edu/pipermail/epls-r-users/attachments/20200325/26cca5ee/attachment.html>",
+      "body_snippet": "Some R books (as well as other computer books, and Manga guides) in this \nsale.\n\n ??? --Russell\n\n\n\n\n-------- Forwarded Message --------\nReturn-Path: \n<SRS0=gwM+=5K=mail202.atl101.mcdlv.net=bounce-mc.u",
+      "thread_id": "thread-b497eaafab8d",
+      "thread_depth": 0,
+      "month": "2020-03"
+    },
+    {
+      "id": "msg-436399c15088",
+      "message_id": "<DM6PR02MB706873E9ADB10539C269EDB2F6CC0@DM6PR02MB7068.namprd02.prod.outlook.com>",
+      "from_name": "Russell Almond",
+      "from_email_hash": "163c7891dcfc07c029df85ce46e68258336f96a47c4fb8152878c9c1fd1e668f",
+      "date": "2020-03-27T21:24:00Z",
+      "subject": "[Epls-r-users] On Zoom Links",
+      "subject_clean": "[Epls-r-users] On Zoom Links",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "I'm still figuring out how zoom works.\n\nApparently, when I schedule the meeting through Canvas, it give the meeting its own Zoom ID, which is https://fsu.zoom.us/j/941907964 (and not my personal Zoom link).\n\nSorry for any confusion.\n\n    --Russell\n\n-------------- next part --------------\nAn HTML attachment was scrubbed...\nURL: <http://lists.fsu.edu/pipermail/epls-r-users/attachments/20200327/cc81d999/attachment.html>",
+      "body_snippet": "I'm still figuring out how zoom works.\n\nApparently, when I schedule the meeting through Canvas, it give the meeting its own Zoom ID, which is https://fsu.zoom.us/j/941907964 (and not my personal Zoom ",
+      "thread_id": "thread-436399c15088",
+      "thread_depth": 0,
+      "month": "2020-03"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-a254a0d7e435",
+      "subject": "[Epls-r-users] Spring Announcement",
+      "message_count": 1,
+      "participants": [
+        "Russell Almond"
+      ],
+      "started": "2020-03-06T16:00:33Z",
+      "last_reply": "2020-03-06T16:00:33Z",
+      "root_message_id": "msg-a254a0d7e435"
+    },
+    {
+      "id": "thread-479f87773efd",
+      "subject": "[Epls-r-users] Meetings continuing virtually",
+      "message_count": 1,
+      "participants": [
+        "Russell Almond"
+      ],
+      "started": "2020-03-23T17:49:44Z",
+      "last_reply": "2020-03-23T17:49:44Z",
+      "root_message_id": "msg-479f87773efd"
+    },
+    {
+      "id": "thread-b497eaafab8d",
+      "subject": "[Epls-r-users] Fwd: 30% Off All ebooks!",
+      "message_count": 1,
+      "participants": [
+        "Russell Almond"
+      ],
+      "started": "2020-03-25T18:35:46Z",
+      "last_reply": "2020-03-25T18:35:46Z",
+      "root_message_id": "msg-b497eaafab8d"
+    },
+    {
+      "id": "thread-436399c15088",
+      "subject": "[Epls-r-users] On Zoom Links",
+      "message_count": 1,
+      "participants": [
+        "Russell Almond"
+      ],
+      "started": "2020-03-27T21:24:00Z",
+      "last_reply": "2020-03-27T21:24:00Z",
+      "root_message_id": "msg-436399c15088"
+    }
+  ]
+}

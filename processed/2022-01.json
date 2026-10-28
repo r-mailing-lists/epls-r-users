@@ -1,0 +1,36 @@
+{
+  "list": "epls-r-users",
+  "description": "",
+  "month": "2022-01",
+  "messages": [
+    {
+      "id": "msg-78b461c49e74",
+      "message_id": "<192279e9-35b1-0d2d-6aee-5aa835bef3f5@fsu.edu>",
+      "from_name": "Russell Almond",
+      "from_email_hash": "163c7891dcfc07c029df85ce46e68258336f96a47c4fb8152878c9c1fd1e668f",
+      "date": "2022-01-24T16:18:47Z",
+      "subject": "[Epls-r-users] R Group in Spring 2022",
+      "subject_clean": "[Epls-r-users] R Group in Spring 2022",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Some bad news and some good news.\n\nThe bad news is that with a new course prep this semester, I just don't really have time to organize the R group.  So I'm looking for somebody to step up and set the schedule.  I'll still participate, but I just don't have the bandwidth this semester.\n\nAre you willing to step up?\n\nThanks,\n\n    --Russell\n\nP.S.  The good news is that I'm developing resources in the course that we can use in future R group sessions.\n\n    --R\n\n-------------- next part --------------\nAn HTML attachment was scrubbed...\nURL: <http://lists.fsu.edu/pipermail/epls-r-users/attachments/20220124/b3672cc3/attachment.html>",
+      "body_snippet": "Some bad news and some good news.\n\nThe bad news is that with a new course prep this semester, I just don't really have time to organize the R group.  So I'm looking for somebody to step up and set the",
+      "thread_id": "thread-78b461c49e74",
+      "thread_depth": 0,
+      "month": "2022-01"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-78b461c49e74",
+      "subject": "[Epls-r-users] R Group in Spring 2022",
+      "message_count": 1,
+      "participants": [
+        "Russell Almond"
+      ],
+      "started": "2022-01-24T16:18:47Z",
+      "last_reply": "2022-01-24T16:18:47Z",
+      "root_message_id": "msg-78b461c49e74"
+    }
+  ]
+}

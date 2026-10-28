@@ -1,0 +1,36 @@
+{
+  "list": "epls-r-users",
+  "description": "",
+  "month": "2025-01",
+  "messages": [
+    {
+      "id": "msg-d24c98133f61",
+      "message_id": "<2e148d7c-27c2-4b3a-a31e-291dff1baa83@fsu.edu>",
+      "from_name": "Russell Almond",
+      "from_email_hash": "163c7891dcfc07c029df85ce46e68258336f96a47c4fb8152878c9c1fd1e668f",
+      "date": "2025-01-30T18:12:39Z",
+      "subject": "[Epls-r-users] Friday's Meeting",
+      "subject_clean": "[Epls-r-users] Friday's Meeting",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "I'll be talking about Loading a data set from Qualtric into R.\n\nFriday Jan 31 @ 12:00 EST.  https://fsu.zoom.us/my/ralmond<https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Ffsu.zoom.us%2Fmy%2Fralmond&data=05%7C02%7Cepls-r-users%40lists.fsu.edu%7C0606f21fea00461e642508dd4159aea0%7Ca36450ebdb0642a78d1b026719f701e3%7C0%7C0%7C638738575605163804%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=d8iJRdoexffgafHUwTgCCdAeXZsFy27xUaF9L2b4H4M%3D&reserved=0>\n\n    --Russell\n\n\n--\nRussell Almond\nFlorida State University\nAnne Spencer Daves College of Education, Health and Human Services\nEducational Psychology and Learning Systems\nMeasurement & Statistics\nhttps://myweb.fsu.edu/ralmond<https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fmyweb.fsu.edu%2Fralmond&data=05%7C02%7Cepls-r-users%40lists.fsu.edu%7C0606f21fea00461e642508dd4159aea0%7Ca36450ebdb0642a78d1b026719f701e3%7C0%7C0%7C638738575605180525%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=8saKVfD12UDwONQD2rzGp0xbEt%2Bm%2Bw4SRIt6Btzmbwo%3D&reserved=0>, https://ralmond.net<https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fralmond.net%2F&data=05%7C02%7Cepls-r-users%40lists.fsu.edu%7C0606f21fea00461e642508dd4159aea0%7Ca36450ebdb0642a78d1b026719f701e3%7C0%7C0%7C638738575605189345%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=BvRp0%2BJB2Oz%2FIzwQrMbpOwJ009WJQFUhP8dT5EoPVeU%3D&reserved=0>,\nhttps://ralmond.r-universe.dev/<https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fralmond.r-universe.dev%2F&data=05%7C02%7Cepls-r-users%40lists.fsu.edu%7C0606f21fea00461e642508dd4159aea0%7Ca36450ebdb0642a78d1b026719f701e3%7C0%7C0%7C638738575605197752%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=LQrc1NeqvRfQdQoCQSLlzBTpix%2BoyjNt21SYvPdh9tw%3D&reserved=0>, https://github.com/ralmond<https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgithub.com%2Fralmond&data=05%7C02%7Cepls-r-users%40lists.fsu.edu%7C0606f21fea00461e642508dd4159aea0%7Ca36450ebdb0642a78d1b026719f701e3%7C0%7C0%7C638738575605207134%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=X0ars3Dcjge1CH9INdbx5OpO595Sh2NtW1fiLc1xQ7Q%3D&reserved=0>\nYou can make an appointment using this link:\nhttps://doodle.com/bp/russellalmond/book-a-time<https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdoodle.com%2Fbp%2Frussellalmond%2Fbook-a-time&data=05%7C02%7Cepls-r-users%40lists.fsu.edu%7C0606f21fea00461e642508dd4159aea0%7Ca36450ebdb0642a78d1b026719f701e3%7C0%7C0%7C638738575605215581%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=yjV7%2BWd4dMb9p7Hm8gwq2sWi3nw%2FXdnywVK5CkjfEf8%3D&reserved=0>\n-------------- next part --------------\nAn HTML attachment was scrubbed...\nURL: <http://lists.fsu.edu/pipermail/epls-r-users/attachments/20250130/71e2d484/attachment.html>",
+      "body_snippet": "I'll be talking about Loading a data set from Qualtric into R.\n\nFriday Jan 31 @ 12:00 EST.  https://fsu.zoom.us/my/ralmond<https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Ffsu.zoom.us",
+      "thread_id": "thread-d24c98133f61",
+      "thread_depth": 0,
+      "month": "2025-01"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-d24c98133f61",
+      "subject": "[Epls-r-users] Friday's Meeting",
+      "message_count": 1,
+      "participants": [
+        "Russell Almond"
+      ],
+      "started": "2025-01-30T18:12:39Z",
+      "last_reply": "2025-01-30T18:12:39Z",
+      "root_message_id": "msg-d24c98133f61"
+    }
+  ]
+}

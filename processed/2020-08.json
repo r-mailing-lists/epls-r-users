@@ -1,0 +1,90 @@
+{
+  "list": "epls-r-users",
+  "description": "",
+  "month": "2020-08",
+  "messages": [
+    {
+      "id": "msg-1d22018f78f9",
+      "message_id": "<DM6PR02MB7068A7F1FA121082306A925DF64B0@DM6PR02MB7068.namprd02.prod.outlook.com>",
+      "from_name": "Russell Almond",
+      "from_email_hash": "163c7891dcfc07c029df85ce46e68258336f96a47c4fb8152878c9c1fd1e668f",
+      "date": "2020-08-05T18:20:55Z",
+      "subject": "[Epls-r-users] Today's R Group -- Errors and Error Handling",
+      "subject_clean": "[Epls-r-users] Today's R Group -- Errors and Error Handling",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "I've been doing a bit of debugging lately, so I'll share some tips for doing that as well as writing R code that is easier to debug.  I'm especially looking at scripts which will run for a long time.\n\nWe are still looking for topics for future meetings.\n\n    --Russell\n\n-------------- next part --------------\nAn HTML attachment was scrubbed...\nURL: <http://lists.fsu.edu/pipermail/epls-r-users/attachments/20200805/957ae1eb/attachment.html>",
+      "body_snippet": "I've been doing a bit of debugging lately, so I'll share some tips for doing that as well as writing R code that is easier to debug.  I'm especially looking at scripts which will run for a long time.\n",
+      "thread_id": "thread-1d22018f78f9",
+      "thread_depth": 0,
+      "month": "2020-08"
+    },
+    {
+      "id": "msg-d472738be4c9",
+      "message_id": "<DM6PR02MB7068088CC7EB480A775A793EF6450@DM6PR02MB7068.namprd02.prod.outlook.com>",
+      "from_name": "Russell Almond",
+      "from_email_hash": "163c7891dcfc07c029df85ce46e68258336f96a47c4fb8152878c9c1fd1e668f",
+      "date": "2020-08-11T19:38:07Z",
+      "subject": "[Epls-r-users] R Group in the Fall",
+      "subject_clean": "[Epls-r-users] R Group in the Fall",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "I have a dentist appointment tomorrow and a faculty meeting next week.\n\nAfter discussion with Anita, (who was going to talk about her experience in the NAEP workshop), I've decided to take the rest of the summer off.\n\nI'll be back in a week or so with a new poll about good times for R group in the Fall.\n\n    --Russell\n\n-------------- next part --------------\nAn HTML attachment was scrubbed...\nURL: <http://lists.fsu.edu/pipermail/epls-r-users/attachments/20200811/f62c0898/attachment.html>",
+      "body_snippet": "I have a dentist appointment tomorrow and a faculty meeting next week.\n\nAfter discussion with Anita, (who was going to talk about her experience in the NAEP workshop), I've decided to take the rest of",
+      "thread_id": "thread-d472738be4c9",
+      "thread_depth": 0,
+      "month": "2020-08"
+    },
+    {
+      "id": "msg-b7905c7530af",
+      "message_id": "<DM6PR02MB7068024EDD0028B44F469495F6500@DM6PR02MB7068.namprd02.prod.outlook.com>",
+      "from_name": "Russell Almond",
+      "from_email_hash": "163c7891dcfc07c029df85ce46e68258336f96a47c4fb8152878c9c1fd1e668f",
+      "date": "2020-08-30T19:14:16Z",
+      "subject": "[Epls-r-users] Meeting time for Fall 2020 will be Wed at 3:30 pm",
+      "subject_clean": "[Epls-r-users] Meeting time for Fall 2020 will be Wed at 3:30 pm",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Here is the zoom link:\n\nhttps://fsu.zoom.us/j/96939563935?pwd=aEVBamZ3eG9KcnZDYndlZEJWeEYzUT09\n\nMaterials are archived in our canvas site.  The signup link for the canvas sight is:\n\nhttps://fsu.instructure.com/enroll/AWFYCW\n\nI'm working on some new intro R material for EDF 5400, so I'll be looking for feedback on that the first couple of weeks.\n\n    --Russell\n\n-------------- next part --------------\nAn HTML attachment was scrubbed...\nURL: <http://lists.fsu.edu/pipermail/epls-r-users/attachments/20200830/1c158523/attachment.html>",
+      "body_snippet": "Here is the zoom link:\n\nhttps://fsu.zoom.us/j/96939563935?pwd=aEVBamZ3eG9KcnZDYndlZEJWeEYzUT09\n\nMaterials are archived in our canvas site.  The signup link for the canvas sight is:\n\nhttps://fsu.instru",
+      "thread_id": "thread-b7905c7530af",
+      "thread_depth": 0,
+      "month": "2020-08"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-1d22018f78f9",
+      "subject": "[Epls-r-users] Today's R Group -- Errors and Error Handling",
+      "message_count": 1,
+      "participants": [
+        "Russell Almond"
+      ],
+      "started": "2020-08-05T18:20:55Z",
+      "last_reply": "2020-08-05T18:20:55Z",
+      "root_message_id": "msg-1d22018f78f9"
+    },
+    {
+      "id": "thread-d472738be4c9",
+      "subject": "[Epls-r-users] R Group in the Fall",
+      "message_count": 1,
+      "participants": [
+        "Russell Almond"
+      ],
+      "started": "2020-08-11T19:38:07Z",
+      "last_reply": "2020-08-11T19:38:07Z",
+      "root_message_id": "msg-d472738be4c9"
+    },
+    {
+      "id": "thread-b7905c7530af",
+      "subject": "[Epls-r-users] Meeting time for Fall 2020 will be Wed at 3:30 pm",
+      "message_count": 1,
+      "participants": [
+        "Russell Almond"
+      ],
+      "started": "2020-08-30T19:14:16Z",
+      "last_reply": "2020-08-30T19:14:16Z",
+      "root_message_id": "msg-b7905c7530af"
+    }
+  ]
+}

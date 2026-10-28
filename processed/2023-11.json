@@ -1,0 +1,36 @@
+{
+  "list": "epls-r-users",
+  "description": "",
+  "month": "2023-11",
+  "messages": [
+    {
+      "id": "msg-5aedc52d58bd",
+      "message_id": "<29b26ccb-7c53-46ab-b10c-6857dc25e338@fsu.edu>",
+      "from_name": "Russell Almond",
+      "from_email_hash": "163c7891dcfc07c029df85ce46e68258336f96a47c4fb8152878c9c1fd1e668f",
+      "date": "2023-11-02T13:38:07Z",
+      "subject": "[Epls-r-users] Meeting Tomorrow",
+      "subject_clean": "[Epls-r-users] Meeting Tomorrow",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Graphs (or networks), diagrams with nodes and edges, are an important part of many different analyses:  Bayesian networks (my specialty), Structural Equation Models, Social Network Analyses, &c.\n\nWe will talk about two different packages in tomorrow's R Group.\n\nGraphviz (which is actually a command line tool for drawing graphs) and DiagrammeR (which calls it from R)\n\nIgraph  which offers a graph data structure for R, several different graph theory functions and some displays as well.\n\nWe meet tommorrow (Nov 3) at 12:00 (EDT) either in Stone room 1203 on zoom at https://fsu.zoom.us/j/98649616720.\n\n\n--\nRussell Almond\nAssociate Professor, Measurement & Statistics\nEducational Psychology and Learning Systems\nCollege of Education, Health, and Human Sciences\n1114 W. Call St.\nFlorida State University\nTallahassee, FL 32306\nralmond at fsu.edu<mailto:ralmond at fsu.edu>\nhttp://ralmond.net/\nAppointment calendar: https://doodle.com/bp/russellalmond/book-a-time\n-------------- next part --------------\nAn HTML attachment was scrubbed...\nURL: <http://lists.fsu.edu/pipermail/epls-r-users/attachments/20231102/fae5e940/attachment.html>",
+      "body_snippet": "Graphs (or networks), diagrams with nodes and edges, are an important part of many different analyses:  Bayesian networks (my specialty), Structural Equation Models, Social Network Analyses, &c.\n\nWe w",
+      "thread_id": "thread-5aedc52d58bd",
+      "thread_depth": 0,
+      "month": "2023-11"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-5aedc52d58bd",
+      "subject": "[Epls-r-users] Meeting Tomorrow",
+      "message_count": 1,
+      "participants": [
+        "Russell Almond"
+      ],
+      "started": "2023-11-02T13:38:07Z",
+      "last_reply": "2023-11-02T13:38:07Z",
+      "root_message_id": "msg-5aedc52d58bd"
+    }
+  ]
+}

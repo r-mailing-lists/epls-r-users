@@ -1,0 +1,63 @@
+{
+  "list": "epls-r-users",
+  "description": "",
+  "month": "2026-02",
+  "messages": [
+    {
+      "id": "msg-3c171de9c23a",
+      "message_id": "<CO6P220MB07129B526A70A7F0BF9D182BA165A@CO6P220MB0712.NAMP220.PROD.OUTLOOK.COM>",
+      "from_name": "HyunJeong Oh",
+      "from_email_hash": "947ae72b886eac947c3c9ea76538f34e9961626d2143fb259738baa5916c044a",
+      "date": "2026-02-09T14:07:48Z",
+      "subject": "[Epls-r-users] R Group Meeting on February 13",
+      "subject_clean": "[Epls-r-users] R Group Meeting on February 13",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "We have our R Group Meeting this Friday (Feb 13)!\n\nIn 2026, the R Group will be reading Structure and Interpretation of Computer Programs by Abelson, Sussman, and Sussman (1994, MIT Press) together.\nThe book is available online for free at: https://web.mit.edu/6.001/6.037/sicp.pdf<https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fweb.mit.edu%2F6.001%2F6.037%2Fsicp.pdf&data=05%7C02%7Cepls-r-users%40lists.fsu.edu%7Cbf4b9149d3fb40fa3fab08de67e49b5d%7Ca36450ebdb0642a78d1b026719f701e3%7C0%7C0%7C639062428705743071%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=Zhq7VzSlAJfenzKynszSRl7ztWQfElTKFJ8uJo0yt9w%3D&reserved=0>\n\nIf you would like to meet in person, please join us in STB 3209.\nIf you are not in Tallahassee, you can join through the links below.\n\nRussell Almond is inviting you to a scheduled Zoom meeting.\n\nTopic: Org: R User Group\nTime: Feb 13, 2026 12:00 PM Eastern Time (US and Canada)\n        Every 2 weeks on Fri, until Apr 24, 2026, 6 occurrence(s)\nPlease download and import the following iCalendar (.ics) files to your calendar system.\nWeekly: https://fsu.zoom.us/meeting/tJUofumqqz0oGNHZv3NzSN1w4Hg0vw_kz18P/ics?icsToken=DM70yxNCEAj-2YbYmQAALAAAAHmaZamBS1XTCeAcKvmzIWB94AvgDLMxzZuN5DHQVI1BiH5JXRZ56dJrCoPickRyUxb7fZXcQPvY6qSZTzAwMDAwMQ\nJoin Zoom Meeting\nhttps://fsu.zoom.us/j/91590256225\n\nMeeting ID: 915 9025 6225\n\n---\n\nOne tap mobile\n+16469313860,,91590256225# US\n+13017158592,,91590256225# US (Washington DC)\n\n---\n\nJoin by SIP\n? 91590256225 at zoomcrc.com\n\nJoin instructions\nhttps://fsu.zoom.us/meetings/91590256225/invitations?signature=BEu08E0hy_pJZzspq53kLGhhI81NnxCNtnc7zlFOdEM\n\nJoin instructions\nhttps://fsu.zoom.us/meetings/91590256225/invitations?signature=BEu08E0hy_pJZzspq53kLGhhI81NnxCNtnc7zlFOdEM\n\n-------------- next part --------------\nAn HTML attachment was scrubbed...\nURL: <http://lists.fsu.edu/pipermail/epls-r-users/attachments/20260209/5699a80e/attachment.html>",
+      "body_snippet": "We have our R Group Meeting this Friday (Feb 13)!\n\nIn 2026, the R Group will be reading Structure and Interpretation of Computer Programs by Abelson, Sussman, and Sussman (1994, MIT Press) together.\nT",
+      "thread_id": "thread-3c171de9c23a",
+      "thread_depth": 0,
+      "month": "2026-02"
+    },
+    {
+      "id": "msg-9b25acbf2d3a",
+      "message_id": "<PH0P220MB0717DC6FBE59FC132F532FD9A177A@PH0P220MB0717.NAMP220.PROD.OUTLOOK.COM>",
+      "from_name": "HyunJeong Oh",
+      "from_email_hash": "947ae72b886eac947c3c9ea76538f34e9961626d2143fb259738baa5916c044a",
+      "date": "2026-02-23T14:18:33Z",
+      "subject": "[Epls-r-users] No R group meeting on Feb 27",
+      "subject_clean": "[Epls-r-users] No R group meeting on Feb 27",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\nThe R group meeting scheduled for this Friday, February 27, has been cancelled.\nPlease be advised that there will be no meeting this week, either in person at STB 3209 or via Zoom.\nI appreciate your understanding.\n-------------- next part --------------\nAn HTML attachment was scrubbed...\nURL: <http://lists.fsu.edu/pipermail/epls-r-users/attachments/20260223/18694f94/attachment.html>",
+      "body_snippet": "Dear all,\nThe R group meeting scheduled for this Friday, February 27, has been cancelled.\nPlease be advised that there will be no meeting this week, either in person at STB 3209 or via Zoom.\nI appreci",
+      "thread_id": "thread-9b25acbf2d3a",
+      "thread_depth": 0,
+      "month": "2026-02"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-3c171de9c23a",
+      "subject": "[Epls-r-users] R Group Meeting on February 13",
+      "message_count": 1,
+      "participants": [
+        "HyunJeong Oh"
+      ],
+      "started": "2026-02-09T14:07:48Z",
+      "last_reply": "2026-02-09T14:07:48Z",
+      "root_message_id": "msg-3c171de9c23a"
+    },
+    {
+      "id": "thread-9b25acbf2d3a",
+      "subject": "[Epls-r-users] No R group meeting on Feb 27",
+      "message_count": 1,
+      "participants": [
+        "HyunJeong Oh"
+      ],
+      "started": "2026-02-23T14:18:33Z",
+      "last_reply": "2026-02-23T14:18:33Z",
+      "root_message_id": "msg-9b25acbf2d3a"
+    }
+  ]
+}
